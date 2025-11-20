@@ -1,0 +1,635 @@
+{% doc %}
+  @prompt
+    A timeline with two columns for each year, one column has a year with <h2> styling, sub-title and body text, the other column has an image. These columns align at the middle with each other, and alternate for each year. The timeline has an adjustable width, as do the images within that. To connect the different rows within the timeline, there is an line going down vertically, with small circles or horizontal lines to signify a new point in the timeline (at each year). There is a small animation of the row lifting when scrolling to each new point on the timeline., Add options for the section width, as well as options for the image heights. The timeline line and markers currently aren't visible, they need to be visible
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-timeline-{{ ai_gen_id }} {
+    max-width: {{ block.settings.section_width }}px;
+    margin: 0 auto;
+    padding: 60px 20px;
+  }
+
+  .ai-timeline-container-{{ ai_gen_id }} {
+    position: relative;
+  }
+
+  .ai-timeline-line-{{ ai_gen_id }} {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: {{ block.settings.line_thickness }}px;
+    background-color: {{ block.settings.line_color }};
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }} {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: {{ block.settings.column_gap }}px;
+    align-items: center;
+    margin-bottom: {{ block.settings.row_spacing }}px;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-visible-{{ ai_gen_id }} {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }}:last-child {
+    margin-bottom: 0;
+  }
+
+  .ai-timeline-content-{{ ai_gen_id }} {
+    position: relative;
+    z-index: 2;
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-left-{{ ai_gen_id }} .ai-timeline-content-{{ ai_gen_id }} {
+    order: 1;
+    text-align: right;
+    padding-right: 40px;
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-right-{{ ai_gen_id }} .ai-timeline-content-{{ ai_gen_id }} {
+    order: 2;
+    text-align: left;
+    padding-left: 40px;
+  }
+
+  .ai-timeline-year-{{ ai_gen_id }} {
+    font-size: {{ block.settings.year_size }}px;
+    font-weight: 700;
+    color: {{ block.settings.year_color }};
+    margin: 0 0 8px;
+    line-height: 1.2;
+  }
+
+  .ai-timeline-subtitle-{{ ai_gen_id }} {
+    font-size: {{ block.settings.subtitle_size }}px;
+    font-weight: 600;
+    color: {{ block.settings.subtitle_color }};
+    margin: 0 0 12px;
+    line-height: 1.3;
+  }
+
+  .ai-timeline-text-{{ ai_gen_id }} {
+    font-size: {{ block.settings.text_size }}px;
+    color: {{ block.settings.text_color }};
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .ai-timeline-image-wrapper-{{ ai_gen_id }} {
+    position: relative;
+    z-index: 2;
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-left-{{ ai_gen_id }} .ai-timeline-image-wrapper-{{ ai_gen_id }} {
+    order: 2;
+  }
+
+  .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-right-{{ ai_gen_id }} .ai-timeline-image-wrapper-{{ ai_gen_id }} {
+    order: 1;
+  }
+
+  .ai-timeline-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: {{ block.settings.image_height }}px;
+    object-fit: cover;
+    border-radius: {{ block.settings.image_radius }}px;
+    display: block;
+  }
+
+  .ai-timeline-image-placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    height: {{ block.settings.image_height }}px;
+    background-color: #f4f4f4;
+    border-radius: {{ block.settings.image_radius }}px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .ai-timeline-image-placeholder-{{ ai_gen_id }} svg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .ai-timeline-marker-{{ ai_gen_id }} {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    width: {{ block.settings.marker_size }}px;
+    height: {{ block.settings.marker_size }}px;
+    background-color: {{ block.settings.marker_color }};
+    border: {{ block.settings.marker_border }}px solid {{ block.settings.marker_border_color }};
+    {% if block.settings.marker_style == 'circle' %}
+      border-radius: 50%;
+    {% else %}
+      border-radius: 2px;
+    {% endif %}
+  }
+
+  @media screen and (max-width: 768px) {
+    .ai-timeline-{{ ai_gen_id }} {
+      max-width: 100%;
+    }
+
+    .ai-timeline-item-{{ ai_gen_id }} {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    .ai-timeline-line-{{ ai_gen_id }} {
+      left: 20px;
+    }
+
+    .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-left-{{ ai_gen_id }} .ai-timeline-content-{{ ai_gen_id }},
+    .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-right-{{ ai_gen_id }} .ai-timeline-content-{{ ai_gen_id }} {
+      order: 1;
+      text-align: left;
+      padding-left: 50px;
+      padding-right: 0;
+    }
+
+    .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-left-{{ ai_gen_id }} .ai-timeline-image-wrapper-{{ ai_gen_id }},
+    .ai-timeline-item-{{ ai_gen_id }}.ai-timeline-right-{{ ai_gen_id }} .ai-timeline-image-wrapper-{{ ai_gen_id }} {
+      order: 2;
+      padding-left: 50px;
+    }
+
+    .ai-timeline-marker-{{ ai_gen_id }} {
+      left: 20px;
+    }
+
+    .ai-timeline-image-{{ ai_gen_id }},
+    .ai-timeline-image-placeholder-{{ ai_gen_id }} {
+      height: {{ block.settings.image_height_mobile }}px;
+    }
+  }
+{% endstyle %}
+
+<timeline-block-{{ ai_gen_id }} class="ai-timeline-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-timeline-container-{{ ai_gen_id }}">
+    <div class="ai-timeline-line-{{ ai_gen_id }}"></div>
+
+    {% for i in (1..6) %}
+      {% liquid
+        assign year_key = 'year_' | append: i
+        assign subtitle_key = 'subtitle_' | append: i
+        assign text_key = 'text_' | append: i
+        assign image_key = 'image_' | append: i
+
+        assign year = block.settings[year_key]
+        assign subtitle = block.settings[subtitle_key]
+        assign text = block.settings[text_key]
+        assign image = block.settings[image_key]
+
+        assign is_odd = i | modulo: 2
+      %}
+
+      {% if year != blank or subtitle != blank or text != blank or image != blank %}
+        <div
+          class="ai-timeline-item-{{ ai_gen_id }} {% if is_odd == 1 %}ai-timeline-left-{{ ai_gen_id }}{% else %}ai-timeline-right-{{ ai_gen_id }}{% endif %}"
+          data-timeline-item
+        >
+          <div class="ai-timeline-content-{{ ai_gen_id }}">
+            {% if year != blank %}
+              <h2 class="ai-timeline-year-{{ ai_gen_id }}">{{ year }}</h2>
+            {% endif %}
+            {% if subtitle != blank %}
+              <h3 class="ai-timeline-subtitle-{{ ai_gen_id }}">{{ subtitle }}</h3>
+            {% endif %}
+            {% if text != blank %}
+              <div class="ai-timeline-text-{{ ai_gen_id }}">{{ text }}</div>
+            {% endif %}
+          </div>
+
+          <div class="ai-timeline-image-wrapper-{{ ai_gen_id }}">
+            {% if image %}
+              <img
+                src="{{ image | image_url: width: 800 }}"
+                alt="{{ image.alt | escape }}"
+                loading="lazy"
+                width="{{ image.width }}"
+                height="{{ image.height }}"
+                class="ai-timeline-image-{{ ai_gen_id }}"
+              >
+            {% else %}
+              <div class="ai-timeline-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="ai-timeline-marker-{{ ai_gen_id }}"></div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</timeline-block-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class TimelineBlock{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.items = this.querySelectorAll('[data-timeline-item]');
+        this.observerOptions = {
+          threshold: 0.2,
+          rootMargin: '0px 0px -100px 0px'
+        };
+      }
+
+      connectedCallback() {
+        this.setupIntersectionObserver();
+      }
+
+      setupIntersectionObserver() {
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('ai-timeline-visible-{{ ai_gen_id }}');
+            }
+          });
+        }, this.observerOptions);
+
+        this.items.forEach((item) => {
+          observer.observe(item);
+        });
+      }
+    }
+
+    customElements.define('timeline-block-{{ ai_gen_id }}', TimelineBlock{{ ai_gen_id }});
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "Timeline",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "section_width",
+      "min": 600,
+      "max": 1600,
+      "step": 100,
+      "unit": "px",
+      "label": "Section width",
+      "default": 1200
+    },
+    {
+      "type": "range",
+      "id": "column_gap",
+      "min": 20,
+      "max": 100,
+      "step": 10,
+      "unit": "px",
+      "label": "Column gap",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "row_spacing",
+      "min": 40,
+      "max": 120,
+      "step": 10,
+      "unit": "px",
+      "label": "Row spacing",
+      "default": 80
+    },
+    {
+      "type": "header",
+      "content": "Timeline line"
+    },
+    {
+      "type": "range",
+      "id": "line_thickness",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "unit": "px",
+      "label": "Line thickness",
+      "default": 3
+    },
+    {
+      "type": "color",
+      "id": "line_color",
+      "label": "Line color",
+      "default": "#857550"
+    },
+    {
+      "type": "header",
+      "content": "Markers"
+    },
+    {
+      "type": "select",
+      "id": "marker_style",
+      "label": "Marker style",
+      "options": [
+        {
+          "value": "circle",
+          "label": "Circle"
+        },
+        {
+          "value": "square",
+          "label": "Square"
+        }
+      ],
+      "default": "circle"
+    },
+    {
+      "type": "range",
+      "id": "marker_size",
+      "min": 12,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Marker size",
+      "default": 20
+    },
+    {
+      "type": "color",
+      "id": "marker_color",
+      "label": "Marker color",
+      "default": "#857550"
+    },
+    {
+      "type": "range",
+      "id": "marker_border",
+      "min": 2,
+      "max": 8,
+      "step": 1,
+      "unit": "px",
+      "label": "Marker border",
+      "default": 4
+    },
+    {
+      "type": "color",
+      "id": "marker_border_color",
+      "label": "Marker border color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "header",
+      "content": "Images"
+    },
+    {
+      "type": "range",
+      "id": "image_height",
+      "min": 200,
+      "max": 600,
+      "step": 50,
+      "unit": "px",
+      "label": "Image height",
+      "default": 400
+    },
+    {
+      "type": "range",
+      "id": "image_height_mobile",
+      "min": 150,
+      "max": 400,
+      "step": 50,
+      "unit": "px",
+      "label": "Image height on mobile",
+      "default": 250
+    },
+    {
+      "type": "range",
+      "id": "image_radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Image border radius",
+      "default": 8
+    },
+    {
+      "type": "header",
+      "content": "Typography"
+    },
+    {
+      "type": "range",
+      "id": "year_size",
+      "min": 24,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "label": "Year size",
+      "default": 36
+    },
+    {
+      "type": "color",
+      "id": "year_color",
+      "label": "Year color",
+      "default": "#1a1a1a"
+    },
+    {
+      "type": "range",
+      "id": "subtitle_size",
+      "min": 14,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Subtitle size",
+      "default": 20
+    },
+    {
+      "type": "color",
+      "id": "subtitle_color",
+      "label": "Subtitle color",
+      "default": "#1a1a1a"
+    },
+    {
+      "type": "range",
+      "id": "text_size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "label": "Text size",
+      "default": 16
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text color",
+      "default": "#1a1a1a"
+    },
+    {
+      "type": "header",
+      "content": "Timeline item 1"
+    },
+    {
+      "type": "text",
+      "id": "year_1",
+      "label": "Year",
+      "default": "2020"
+    },
+    {
+      "type": "text",
+      "id": "subtitle_1",
+      "label": "Subtitle",
+      "default": "The Beginning"
+    },
+    {
+      "type": "textarea",
+      "id": "text_1",
+      "label": "Text",
+      "default": "Our journey started with a simple idea and a passion for excellence."
+    },
+    {
+      "type": "image_picker",
+      "id": "image_1",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Timeline item 2"
+    },
+    {
+      "type": "text",
+      "id": "year_2",
+      "label": "Year",
+      "default": "2021"
+    },
+    {
+      "type": "text",
+      "id": "subtitle_2",
+      "label": "Subtitle",
+      "default": "Growth & Expansion"
+    },
+    {
+      "type": "textarea",
+      "id": "text_2",
+      "label": "Text",
+      "default": "We expanded our team and reached new milestones in our mission."
+    },
+    {
+      "type": "image_picker",
+      "id": "image_2",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Timeline item 3"
+    },
+    {
+      "type": "text",
+      "id": "year_3",
+      "label": "Year",
+      "default": "2022"
+    },
+    {
+      "type": "text",
+      "id": "subtitle_3",
+      "label": "Subtitle",
+      "default": "Innovation"
+    },
+    {
+      "type": "textarea",
+      "id": "text_3",
+      "label": "Text",
+      "default": "Launched innovative products that changed the game for our customers."
+    },
+    {
+      "type": "image_picker",
+      "id": "image_3",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Timeline item 4"
+    },
+    {
+      "type": "text",
+      "id": "year_4",
+      "label": "Year"
+    },
+    {
+      "type": "text",
+      "id": "subtitle_4",
+      "label": "Subtitle"
+    },
+    {
+      "type": "textarea",
+      "id": "text_4",
+      "label": "Text"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_4",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Timeline item 5"
+    },
+    {
+      "type": "text",
+      "id": "year_5",
+      "label": "Year"
+    },
+    {
+      "type": "text",
+      "id": "subtitle_5",
+      "label": "Subtitle"
+    },
+    {
+      "type": "textarea",
+      "id": "text_5",
+      "label": "Text"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_5",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Timeline item 6"
+    },
+    {
+      "type": "text",
+      "id": "year_6",
+      "label": "Year"
+    },
+    {
+      "type": "text",
+      "id": "subtitle_6",
+      "label": "Subtitle"
+    },
+    {
+      "type": "textarea",
+      "id": "text_6",
+      "label": "Text"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_6",
+      "label": "Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Timeline"
+    }
+  ]
+}
+{% endschema %}

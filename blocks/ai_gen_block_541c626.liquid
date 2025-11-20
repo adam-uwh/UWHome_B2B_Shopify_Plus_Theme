@@ -1,0 +1,648 @@
+{% doc %}
+  @prompt
+    Navigation menu to add anchor links for different sections down the page (or normal links if needed). Same width as other components on the page with ability to change background and text colour based on the colour schemes., Add the option for the container width to be full width. Make the normal state of the links have a regular font weight, and add the option for a hover state and active state where just the font weight changes to bold., Normal, active and hover states in this navigation menu should reflect the normal, active and hover states in the site header's menu. This includes font colour, font size and text decoration. There should be no gap or padding at the side of the navigation when the container width is set to full width.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-nav-menu-{{ ai_gen_id }} {
+    width: 100%;
+    padding: {{ block.settings.padding_top }}px 0 {{ block.settings.padding_bottom }}px;
+  }
+
+  .ai-nav-menu-container-{{ ai_gen_id }} {
+    {% if block.settings.container_width == 'full' %}
+      max-width: 100%;
+      padding: 0;
+    {% else %}
+      max-width: {{ block.settings.container_width }}px;
+      margin: 0 auto;
+      padding: 0 20px;
+    {% endif %}
+  }
+
+  .ai-nav-menu-wrapper-{{ ai_gen_id }} {
+    background-color: rgb(var(--color-background));
+    border-radius: {{ block.settings.border_radius }}px;
+    padding: {{ block.settings.menu_padding }}px;
+    {% if block.settings.show_border %}
+      border: 1px solid rgba(var(--color-foreground), 0.1);
+    {% endif %}
+    {% if block.settings.show_shadow %}
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    {% endif %}
+  }
+
+  .ai-nav-menu-list-{{ ai_gen_id }} {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: {{ block.settings.alignment }};
+    gap: {{ block.settings.item_spacing }}px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .ai-nav-menu-item-{{ ai_gen_id }} {
+    margin: 0;
+  }
+
+  .ai-nav-menu-link-{{ ai_gen_id }} {
+    display: inline-block;
+    padding: {{ block.settings.link_padding_vertical }}px {{ block.settings.link_padding_horizontal }}px;
+    color: rgb(var(--color-foreground));
+    text-decoration: none;
+    font-size: {{ block.settings.font_size }}px;
+    font-weight: 400;
+    border-radius: {{ block.settings.link_border_radius }}px;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .ai-nav-menu-link-{{ ai_gen_id }}:hover {
+    {% if block.settings.hover_style == 'background' %}
+      background-color: rgba(var(--color-button), 0.1);
+    {% elsif block.settings.hover_style == 'bold' %}
+      font-weight: 700;
+    {% endif %}
+  }
+
+  {% if block.settings.hover_style == 'underline' %}
+    .ai-nav-menu-link-{{ ai_gen_id }}::after {
+      content: '';
+      position: absolute;
+      bottom: {{ block.settings.link_padding_vertical | minus: 4 }}px;
+      left: {{ block.settings.link_padding_horizontal }}px;
+      right: {{ block.settings.link_padding_horizontal }}px;
+      height: 2px;
+      background-color: currentColor;
+      transform: scaleX(0);
+      transition: transform 0.3s ease;
+    }
+
+    .ai-nav-menu-link-{{ ai_gen_id }}:hover::after {
+      transform: scaleX(1);
+    }
+  {% endif %}
+
+  .ai-nav-menu-link-{{ ai_gen_id }}.active {
+    {% if block.settings.active_style == 'background' %}
+      background-color: rgba(var(--color-button), 0.15);
+    {% elsif block.settings.active_style == 'underline' %}
+      border-bottom: 2px solid currentColor;
+    {% elsif block.settings.active_style == 'bold' %}
+      font-weight: 700;
+    {% endif %}
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-nav-menu-list-{{ ai_gen_id }} {
+      {% if block.settings.mobile_layout == 'vertical' %}
+        flex-direction: column;
+        align-items: {{ block.settings.mobile_alignment }};
+      {% else %}
+        justify-content: {{ block.settings.mobile_alignment }};
+      {% endif %}
+    }
+
+    .ai-nav-menu-link-{{ ai_gen_id }} {
+      font-size: {{ block.settings.font_size | times: 0.9 }}px;
+    }
+
+    .ai-nav-menu-wrapper-{{ ai_gen_id }} {
+      padding: {{ block.settings.menu_padding | times: 0.75 }}px;
+    }
+  }
+{% endstyle %}
+
+<nav-menu-{{ ai_gen_id }} class="ai-nav-menu-{{ ai_gen_id }} color-{{ block.settings.color_scheme }}" {{ block.shopify_attributes }}>
+  <div class="ai-nav-menu-container-{{ ai_gen_id }}">
+    <div class="ai-nav-menu-wrapper-{{ ai_gen_id }}">
+      <ul class="ai-nav-menu-list-{{ ai_gen_id }}">
+        {% for i in (1..8) %}
+          {% liquid
+            assign link_text_key = 'link_text_' | append: i
+            assign link_url_key = 'link_url_' | append: i
+            assign link_text = block.settings[link_text_key]
+            assign link_url = block.settings[link_url_key]
+          %}
+          
+          {% if link_text != blank %}
+            <li class="ai-nav-menu-item-{{ ai_gen_id }}">
+              <a 
+                href="{% if link_url != blank %}{{ link_url }}{% else %}#{% endif %}" 
+                class="ai-nav-menu-link-{{ ai_gen_id }}"
+                {% if block.settings.smooth_scroll and link_url contains '#' %}
+                  data-smooth-scroll
+                {% endif %}
+              >
+                {{ link_text }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav-menu-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class NavMenu{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.links = this.querySelectorAll('[data-smooth-scroll]');
+        this.scrollOffset = {{ block.settings.scroll_offset }};
+        this.showActiveState = {{ block.settings.show_active_state | json }};
+        this.setupSmoothScroll();
+        this.setupActiveState();
+      }
+
+      setupSmoothScroll() {
+        this.links.forEach(link => {
+          link.addEventListener('click', (e) => {
+            const href = link.getAttribute('href');
+            if (href && href.startsWith('#') && href.length > 1) {
+              const targetId = href.substring(1);
+              const targetElement = document.getElementById(targetId);
+              
+              if (targetElement) {
+                e.preventDefault();
+                const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - this.scrollOffset;
+                
+                window.scrollTo({
+                  top: targetPosition,
+                  behavior: 'smooth'
+                });
+
+                this.updateActiveLink(link);
+              }
+            }
+          });
+        });
+      }
+
+      setupActiveState() {
+        if (!this.showActiveState) return;
+
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const id = entry.target.getAttribute('id');
+              if (id) {
+                const activeLink = this.querySelector(`a[href="#${id}"]`);
+                if (activeLink) {
+                  this.updateActiveLink(activeLink);
+                }
+              }
+            }
+          });
+        }, {
+          rootMargin: `-${this.scrollOffset}px 0px -50% 0px`,
+          threshold: 0
+        });
+
+        this.links.forEach(link => {
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('#') && href.length > 1) {
+            const targetId = href.substring(1);
+            const targetElement = document.getElementById(targetId);
+            if (targetElement) {
+              observer.observe(targetElement);
+            }
+          }
+        });
+      }
+
+      updateActiveLink(activeLink) {
+        this.querySelectorAll('.ai-nav-menu-link-{{ ai_gen_id }}').forEach(link => {
+          link.classList.remove('active');
+        });
+        activeLink.classList.add('active');
+      }
+    }
+
+    if (!customElements.get('nav-menu-{{ ai_gen_id }}')) {
+      customElements.define('nav-menu-{{ ai_gen_id }}', NavMenu{{ ai_gen_id }});
+    }
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "Navigation menu",
+  "settings": [
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color scheme",
+      "default": "scheme-1"
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "select",
+      "id": "container_width",
+      "label": "Container width",
+      "options": [
+        {
+          "value": "full",
+          "label": "Full width"
+        },
+        {
+          "value": "1200",
+          "label": "1200px"
+        },
+        {
+          "value": "1400",
+          "label": "1400px"
+        },
+        {
+          "value": "1600",
+          "label": "1600px"
+        }
+      ],
+      "default": "1200"
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Alignment",
+      "options": [
+        {
+          "value": "flex-start",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "flex-end",
+          "label": "Right"
+        },
+        {
+          "value": "space-between",
+          "label": "Space between"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Top padding",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Bottom padding",
+      "default": 40
+    },
+    {
+      "type": "header",
+      "content": "Menu style"
+    },
+    {
+      "type": "range",
+      "id": "menu_padding",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "label": "Menu padding",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Border radius",
+      "default": 8
+    },
+    {
+      "type": "checkbox",
+      "id": "show_border",
+      "label": "Show border",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_shadow",
+      "label": "Show shadow",
+      "default": false
+    },
+    {
+      "type": "header",
+      "content": "Link style"
+    },
+    {
+      "type": "range",
+      "id": "font_size",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "label": "Font size",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "link_padding_vertical",
+      "min": 4,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Vertical padding",
+      "default": 10
+    },
+    {
+      "type": "range",
+      "id": "link_padding_horizontal",
+      "min": 8,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Horizontal padding",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "link_border_radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Link border radius",
+      "default": 4
+    },
+    {
+      "type": "range",
+      "id": "item_spacing",
+      "min": 4,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "label": "Spacing between links",
+      "default": 8
+    },
+    {
+      "type": "select",
+      "id": "hover_style",
+      "label": "Hover style",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "bold",
+          "label": "Bold"
+        },
+        {
+          "value": "background",
+          "label": "Background"
+        },
+        {
+          "value": "underline",
+          "label": "Underline"
+        }
+      ],
+      "default": "bold"
+    },
+    {
+      "type": "header",
+      "content": "Active state"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_active_state",
+      "label": "Show active state",
+      "default": true,
+      "info": "Highlights the link when its section is in view"
+    },
+    {
+      "type": "select",
+      "id": "active_style",
+      "label": "Active style",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "bold",
+          "label": "Bold"
+        },
+        {
+          "value": "background",
+          "label": "Background"
+        },
+        {
+          "value": "underline",
+          "label": "Underline"
+        }
+      ],
+      "default": "bold"
+    },
+    {
+      "type": "header",
+      "content": "Scroll behavior"
+    },
+    {
+      "type": "checkbox",
+      "id": "smooth_scroll",
+      "label": "Enable smooth scroll",
+      "default": true,
+      "info": "Smoothly scrolls to anchor links"
+    },
+    {
+      "type": "range",
+      "id": "scroll_offset",
+      "min": 0,
+      "max": 200,
+      "step": 10,
+      "unit": "px",
+      "label": "Scroll offset",
+      "default": 80,
+      "info": "Space from top when scrolling to sections"
+    },
+    {
+      "type": "header",
+      "content": "Mobile"
+    },
+    {
+      "type": "select",
+      "id": "mobile_layout",
+      "label": "Layout",
+      "options": [
+        {
+          "value": "horizontal",
+          "label": "Horizontal"
+        },
+        {
+          "value": "vertical",
+          "label": "Vertical"
+        }
+      ],
+      "default": "horizontal"
+    },
+    {
+      "type": "select",
+      "id": "mobile_alignment",
+      "label": "Alignment",
+      "options": [
+        {
+          "value": "flex-start",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "flex-end",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "header",
+      "content": "Link 1"
+    },
+    {
+      "type": "text",
+      "id": "link_text_1",
+      "label": "Text",
+      "default": "About"
+    },
+    {
+      "type": "url",
+      "id": "link_url_1",
+      "label": "Link",
+      "info": "Use # for anchor links (e.g., #about)"
+    },
+    {
+      "type": "header",
+      "content": "Link 2"
+    },
+    {
+      "type": "text",
+      "id": "link_text_2",
+      "label": "Text",
+      "default": "Services"
+    },
+    {
+      "type": "url",
+      "id": "link_url_2",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Link 3"
+    },
+    {
+      "type": "text",
+      "id": "link_text_3",
+      "label": "Text",
+      "default": "Portfolio"
+    },
+    {
+      "type": "url",
+      "id": "link_url_3",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Link 4"
+    },
+    {
+      "type": "text",
+      "id": "link_text_4",
+      "label": "Text",
+      "default": "Contact"
+    },
+    {
+      "type": "url",
+      "id": "link_url_4",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Link 5"
+    },
+    {
+      "type": "text",
+      "id": "link_text_5",
+      "label": "Text"
+    },
+    {
+      "type": "url",
+      "id": "link_url_5",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Link 6"
+    },
+    {
+      "type": "text",
+      "id": "link_text_6",
+      "label": "Text"
+    },
+    {
+      "type": "url",
+      "id": "link_url_6",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Link 7"
+    },
+    {
+      "type": "text",
+      "id": "link_text_7",
+      "label": "Text"
+    },
+    {
+      "type": "url",
+      "id": "link_url_7",
+      "label": "Link"
+    },
+    {
+      "type": "header",
+      "content": "Link 8"
+    },
+    {
+      "type": "text",
+      "id": "link_text_8",
+      "label": "Text"
+    },
+    {
+      "type": "url",
+      "id": "link_url_8",
+      "label": "Link"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Navigation menu"
+    }
+  ]
+}
+{% endschema %}
