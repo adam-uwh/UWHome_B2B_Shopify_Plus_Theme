@@ -19,35 +19,63 @@
       "settings": {
         "collection": "ulster-weavers",
         "products_to_show": 12,
-        "header-8ced947999b8f127d3f1d9db3fdd3d59": null,
+        "header-6c4849790a1eb8062b26ef23eac35dc0": null,
         "title": "New from Ulster Weavers",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "header-d14c8aea011f60ea0b918123b76fbcf2": null,
+        "header-94e20846264a713aac4063fbb46e5d9f": null,
         "columns_desktop": 4,
         "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
-        "header-bc4ae4f74b1eb9933d0926ca706a8bce": null,
+        "header-6a36ae8888cf08492eb72589e8037eaf": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "header-2eb010794338c0dcbab781cddeb8d54a": null,
+        "header-f09457738a29cba124549488962a9ae0": null,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "header-31048065aec642f0f6c5e8fd68539e68": null,
+        "header-ce25ad3065c15ebf544275432e4253b0": null,
         "padding_top": 48,
         "padding_bottom": 52
       },
       "blocks": {},
       "block_order": []
+    },
+    "collection_list": {
+      "settings": {
+        "title": "Shop our Home collections",
+        "padding_bottom": 48
+      },
+      "blocks": {
+        "featured_collection1": {
+          "settings": {
+            "collection": "bedding"
+          }
+        },
+        "featured_collection2": {
+          "settings": {
+            "collection": "cushions"
+          }
+        },
+        "featured_collection5": {
+          "settings": {
+            "collection": "throws"
+          }
+        },
+        "featured_collection4": {
+          "settings": {
+            "collection": "curtains"
+          }
+        }
+      }
     },
     "multicolumn": {
       "settings": {
@@ -125,34 +153,6 @@
             "image": "shopify://shop_images/Ulster_Weavers_Logo_v2.png",
             "title": "",
             "link": "shopify://collections/ulster-weavers"
-          }
-        }
-      }
-    },
-    "collection_list": {
-      "settings": {
-        "padding_bottom": 48,
-        "title": "Shop our top Home collections"
-      },
-      "blocks": {
-        "featured_collection1": {
-          "settings": {
-            "collection": "bedding"
-          }
-        },
-        "featured_collection2": {
-          "settings": {
-            "collection": "cushions"
-          }
-        },
-        "featured_collection5": {
-          "settings": {
-            "collection": "throws"
-          }
-        },
-        "featured_collection4": {
-          "settings": {
-            "collection": "curtains"
           }
         }
       }
