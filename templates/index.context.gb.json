@@ -13,6 +13,42 @@
     "market": "gb"
   },
   "sections": {
+    "featured_collection_hxea4t": {
+      "type": "featured-collection",
+      "disabled": false,
+      "settings": {
+        "collection": "ulster-weavers",
+        "products_to_show": 12,
+        "header-8ced947999b8f127d3f1d9db3fdd3d59": null,
+        "title": "New from Ulster Weavers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "header-d14c8aea011f60ea0b918123b76fbcf2": null,
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-2",
+        "header-bc4ae4f74b1eb9933d0926ca706a8bce": null,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "header-2eb010794338c0dcbab781cddeb8d54a": null,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "header-31048065aec642f0f6c5e8fd68539e68": null,
+        "padding_top": 48,
+        "padding_bottom": 52
+      },
+      "blocks": {},
+      "block_order": []
+    },
     "multicolumn": {
       "settings": {
         "image_width": "full",
@@ -93,41 +129,33 @@
         }
       }
     },
-    "featured_collection_hxea4t": {
-      "type": "featured-collection",
-      "disabled": false,
+    "collection_list": {
       "settings": {
-        "collection": "ulster-weavers",
-        "products_to_show": 12,
-        "header-9f2b720bdb82a786e5ca3dc53148dab1": null,
-        "title": "New from Ulster Weavers",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "header-97e9e57dbe251e7306f013e119c1a4b2": null,
-        "columns_desktop": 4,
-        "enable_desktop_slider": true,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-2",
-        "header-2933faac6bbd2790eb327abd8e9e864f": null,
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "quick_add": "bulk",
-        "header-b31be6075cd6b6b0f041bd2d535350d1": null,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "header-d73406652b5f39e57ee0081d8c8dc81f": null,
-        "padding_top": 48,
-        "padding_bottom": 52
+        "padding_bottom": 48,
+        "title": "Shop our top Home collections"
       },
-      "blocks": {},
-      "block_order": []
+      "blocks": {
+        "featured_collection1": {
+          "settings": {
+            "collection": "bedding"
+          }
+        },
+        "featured_collection2": {
+          "settings": {
+            "collection": "cushions"
+          }
+        },
+        "featured_collection5": {
+          "settings": {
+            "collection": "throws"
+          }
+        },
+        "featured_collection4": {
+          "settings": {
+            "collection": "curtains"
+          }
+        }
+      }
     }
   },
   "order": [
