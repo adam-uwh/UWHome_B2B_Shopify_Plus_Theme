@@ -23,7 +23,7 @@
         "title": "New from Ulster Weavers",
         "heading_size": "h2",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "header-94e20846264a713aac4063fbb46e5d9f": null,
         "columns_desktop": 4,

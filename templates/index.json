@@ -1,1 +1,596 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"text":{"type":"text","settings":{"text":"Designed for living","text_style":"subtitle"}},"heading":{"type":"heading","settings":{"heading":"Welcome to the New UW Home","heading_size":"h0"}},"button":{"type":"buttons","settings":{"button_label_1":"Browse Catalogue","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["text","heading","button"],"custom_css":[".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}","h2 {text-wrap: balance;}"],"settings":{"image":"shopify:\/\/shop_images\/BS8-DCSET-NY_sn4.jpg","image_overlay_opacity":30,"image_height":"medium","image_behavior":"none","desktop_content_position":"middle-left","desktop_content_alignment":"left","show_text_box":false,"color_scheme":"scheme-5","stack_images_on_mobile":false,"mobile_content_alignment":"center","show_text_below":false}},"rich_text":{"type":"rich-text","blocks":{"text":{"type":"text","settings":{"text":"<p>Home textiles experts   •   Exclusive pricing   •   Full-service design<\/p>"}}},"block_order":["text"],"custom_css":["p {text-wrap: pretty;}",".rich-text__wrapper {padding: 0.4rem 0.75rem 0.15rem;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4","full_width":true,"padding_top":4,"padding_bottom":4}},"multicolumn1":{"type":"multicolumn","blocks":{"column7":{"type":"column","settings":{"title":"Customer 1","text":"<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"<\/p>","link_label":"","link":""}},"column8":{"type":"column","settings":{"title":"Customer 2","text":"<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"<\/p>","link_label":"","link":""}},"column9":{"type":"column","settings":{"title":"Customer 3","text":"<p>\"We love seeing the brands evolve with each season, and so do our customers.\"<\/p>","link_label":"","link":""}},"column10":{"type":"column","settings":{"title":"Customer 4","text":"<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"<\/p>","link_label":"","link":""}}},"block_order":["column7","column8","column9","column10"],"disabled":true,"settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":4,"column_alignment":"center","background_style":"none","color_scheme":"scheme-2","columns_mobile":"1","swipe_on_mobile":true,"padding_top":48,"padding_bottom":52}},"featured_collection1":{"type":"featured-collection","settings":{"collection":"bestselling-of-2025","products_to_show":12,"title":"This Year's Bestsellers","heading_size":"h2","description":"<p>Need<\/p>","show_description":true,"description_style":"body","columns_desktop":4,"enable_desktop_slider":true,"full_width":false,"show_view_all":true,"view_all_style":"solid","color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":true,"show_rating":false,"quick_add":"bulk","columns_mobile":"1","swipe_on_mobile":true,"padding_top":48,"padding_bottom":52}},"featured_collection_bB74HT":{"type":"featured-collection","settings":{"collection":"ulster-weavers","products_to_show":12,"title":"New from Ulster Weavers","heading_size":"h2","description":"","show_description":false,"description_style":"body","columns_desktop":4,"enable_desktop_slider":true,"full_width":false,"show_view_all":true,"view_all_style":"solid","color_scheme":"scheme-2","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":true,"show_rating":false,"quick_add":"bulk","columns_mobile":"1","swipe_on_mobile":true,"padding_top":48,"padding_bottom":52}},"collection_list":{"type":"collection-list","blocks":{"featured_collection1":{"type":"featured_collection","settings":{"collection":"tea-towels"}},"featured_collection2":{"type":"featured_collection","settings":{"collection":"aprons"}},"featured_collection5":{"type":"featured_collection","settings":{"collection":"oven-gloves"}},"featured_collection4":{"type":"featured_collection","settings":{"collection":"tote-bags"}}},"block_order":["featured_collection1","featured_collection2","featured_collection5","featured_collection4"],"custom_css":[".grid {row-gap: 12px;}"],"settings":{"title":"Shop our top collections","heading_size":"h2","image_ratio":"square","columns_desktop":4,"color_scheme":"scheme-5","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":48,"padding_bottom":0}},"collection_list_D3ANUP":{"type":"collection-list","blocks":{"featured_collection_JHXhHy":{"type":"featured_collection","settings":{"collection":"bedding"}},"featured_collection_9RjDqD":{"type":"featured_collection","settings":{"collection":"cushions"}},"featured_collection_NbMTaz":{"type":"featured_collection","settings":{"collection":"throws"}},"featured_collection_aEeFxb":{"type":"featured_collection","settings":{"collection":"curtains"}}},"block_order":["featured_collection_JHXhHy","featured_collection_9RjDqD","featured_collection_NbMTaz","featured_collection_aEeFxb"],"custom_css":[".grid {row-gap: 12px;}"],"settings":{"title":"","heading_size":"h2","image_ratio":"square","columns_desktop":4,"color_scheme":"scheme-5","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":12,"padding_bottom":60}},"featured_collection2":{"type":"featured-collection","disabled":true,"settings":{"collection":"","products_to_show":6,"title":"New arrivals","heading_size":"h2","description":"","show_description":false,"description_style":"body","columns_desktop":5,"enable_desktop_slider":true,"full_width":false,"show_view_all":false,"view_all_style":"solid","color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"quick_add":"bulk","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":52}},"multicolumn":{"type":"multicolumn","blocks":{"column1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Appletree_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/appletree"}},"column2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Bedlam_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/bedlam"}},"column3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Curtina_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/curtina"}},"column_437biK":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/D_D_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/dreams-drapes"}},"column4":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Drift_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/drift"}},"column5":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Fusion_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/fusion"}},"column_8Xe9AB":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/House_Llewlyn-Bowen_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/laurence-llewelyn-bowen"}},"column_MLpgme":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Serene_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/serene"}},"column_TJHLcX":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Soiree_Logo.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/soiree"}},"column6":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Ulster_Weavers_Logo_v2.png","title":"","text":"","link_label":"","link":"shopify:\/\/collections\/ulster-weavers"}}},"block_order":["column1","column2","column3","column_437biK","column4","column5","column_8Xe9AB","column_MLpgme","column_TJHLcX","column6"],"custom_css":[".multicolumn-card__info {padding-top: 0px;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":5,"column_alignment":"center","background_style":"none","color_scheme":"scheme-2","columns_mobile":"2","swipe_on_mobile":true,"padding_top":32,"padding_bottom":32}},"collage_r7M8pF":{"type":"collage","blocks":{"image_LRfGkY":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/CW9-TCOSM-NY_sn2.jpg"}},"product_XtrYgw":{"type":"product","settings":{"product":"ulster-weavers-connie-the-cow-tea-cosy-muff-one-size-in-navy","second_image":false}},"collection_nEENKn":{"type":"collection","settings":{"collection":"connie-the-cow"}}},"block_order":["image_LRfGkY","product_XtrYgw","collection_nEENKn"],"disabled":true,"name":"t:sections.collage.presets.name","settings":{"heading":"Featured Design","heading_size":"h2","desktop_layout":"left","mobile_layout":"collage","card_styles":"none","color_scheme":"","padding_top":36,"padding_bottom":36}},"multicolumn2":{"type":"multicolumn","blocks":{"column11":{"type":"column","settings":{"title":"Established Experts in Home Textiles","text":"<p>For over 140 years we've been a trusted leader in textiles, in the kitchen, bedroom and beyond.<\/p>","link_label":"Find out more","link":"shopify:\/\/pages\/about-us"}},"column12":{"type":"column","settings":{"title":"Full-Service Design for Global Retailers","text":"<p>We help your business operate efficiently with a seamless process through development to delivery.<\/p>","link_label":"Find out more","link":"shopify:\/\/pages\/services"}},"column13":{"type":"column","settings":{"title":"Innovation for Every Kind of Customer","text":"<p>Our 10 brilliant brands cover a variety of customer profiles and needs based on thorough research.<\/p>","link_label":"Find out more","link":"shopify:\/\/pages\/brands"}},"column14":{"type":"column","settings":{"title":"Sustainable Strategy For Better Business","text":"<p>Sustainability is woven into all we do, ensuring we're supporting your business alongside our planet.<\/p>","link_label":"Find out more","link":"shopify:\/\/pages\/sustainability"}}},"block_order":["column11","column12","column13","column14"],"custom_css":["h3 {text-wrap: balance;}"],"settings":{"title":"Working with UW Home","heading_size":"h2","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":4,"column_alignment":"left","background_style":"primary","color_scheme":"scheme-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":44,"padding_bottom":48}}},"order":["image_banner","rich_text","multicolumn1","featured_collection1","featured_collection_bB74HT","collection_list","collection_list_D3ANUP","featured_collection2","multicolumn","collage_r7M8pF","multicolumn2"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Designed for living",
+            "text_style": "subtitle"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to the New UW Home",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Browse Catalogue",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading",
+        "button"
+      ],
+      "custom_css": [
+        ".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}",
+        "h2 {text-wrap: balance;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BS8-DCSET-NY_sn4.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-5",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Home textiles experts   •   Exclusive pricing   •   Full-service design</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "custom_css": [
+        "p {text-wrap: pretty;}",
+        ".rich-text__wrapper {padding: 0.4rem 0.75rem 0.15rem;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "multicolumn1": {
+      "type": "multicolumn",
+      "blocks": {
+        "column7": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 1",
+            "text": "<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column8": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 2",
+            "text": "<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column9": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 3",
+            "text": "<p>\"We love seeing the brands evolve with each season, and so do our customers.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column10": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 4",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column7",
+        "column8",
+        "column9",
+        "column10"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection1": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "bestselling-of-2025",
+        "products_to_show": 12,
+        "title": "This Year's Bestsellers",
+        "heading_size": "h2",
+        "description": "<p>Need</p>",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_bB74HT": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "ulster-weavers",
+        "products_to_show": 12,
+        "title": "New from Ulster Weavers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tea-towels"
+          }
+        },
+        "featured_collection2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aprons"
+          }
+        },
+        "featured_collection5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oven-gloves"
+          }
+        },
+        "featured_collection4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tote-bags"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection1",
+        "featured_collection2",
+        "featured_collection5",
+        "featured_collection4"
+      ],
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
+      "settings": {
+        "title": "Shop our top collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-5",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_D3ANUP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_JHXhHy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bedding"
+          }
+        },
+        "featured_collection_9RjDqD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cushions"
+          }
+        },
+        "featured_collection_NbMTaz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "throws"
+          }
+        },
+        "featured_collection_aEeFxb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "curtains"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_JHXhHy",
+        "featured_collection_9RjDqD",
+        "featured_collection_NbMTaz",
+        "featured_collection_aEeFxb"
+      ],
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-5",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 60
+      }
+    },
+    "featured_collection2": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "products_to_show": 6,
+        "title": "New arrivals",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Appletree_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/appletree"
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bedlam_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bedlam"
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Curtina_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/curtina"
+          }
+        },
+        "column_437biK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/D_D_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/dreams-drapes"
+          }
+        },
+        "column4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Drift_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/drift"
+          }
+        },
+        "column5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Fusion_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/fusion"
+          }
+        },
+        "column_8Xe9AB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/House_Llewlyn-Bowen_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/laurence-llewelyn-bowen"
+          }
+        },
+        "column_MLpgme": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Serene_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/serene"
+          }
+        },
+        "column_TJHLcX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Soiree_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/soiree"
+          }
+        },
+        "column6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ulster_Weavers_Logo_v2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/ulster-weavers"
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "column_437biK",
+        "column4",
+        "column5",
+        "column_8Xe9AB",
+        "column_MLpgme",
+        "column_TJHLcX",
+        "column6"
+      ],
+      "custom_css": [
+        ".multicolumn-card__info {padding-top: 0px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "collage_r7M8pF": {
+      "type": "collage",
+      "blocks": {
+        "image_LRfGkY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CW9-TCOSM-NY_sn2.jpg"
+          }
+        },
+        "product_XtrYgw": {
+          "type": "product",
+          "settings": {
+            "product": "ulster-weavers-connie-the-cow-tea-cosy-muff-one-size-in-navy",
+            "second_image": false
+          }
+        },
+        "collection_nEENKn": {
+          "type": "collection",
+          "settings": {
+            "collection": "connie-the-cow"
+          }
+        }
+      },
+      "block_order": [
+        "image_LRfGkY",
+        "product_XtrYgw",
+        "collection_nEENKn"
+      ],
+      "disabled": true,
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "Featured Design",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn2": {
+      "type": "multicolumn",
+      "blocks": {
+        "column11": {
+          "type": "column",
+          "settings": {
+            "title": "Established Experts in Home Textiles",
+            "text": "<p>For over 140 years we've been a trusted leader in textiles, in the kitchen, bedroom and beyond.</p>",
+            "link_label": "Find out more",
+            "link": "shopify://pages/about-us"
+          }
+        },
+        "column12": {
+          "type": "column",
+          "settings": {
+            "title": "Full-Service Design for Global Retailers",
+            "text": "<p>We help your business operate efficiently with a seamless process through development to delivery.</p>",
+            "link_label": "Find out more",
+            "link": "shopify://pages/services"
+          }
+        },
+        "column13": {
+          "type": "column",
+          "settings": {
+            "title": "Innovation for Every Kind of Customer",
+            "text": "<p>Our 10 brilliant brands cover a variety of customer profiles and needs based on thorough research.</p>",
+            "link_label": "Find out more",
+            "link": "shopify://pages/brands"
+          }
+        },
+        "column14": {
+          "type": "column",
+          "settings": {
+            "title": "Sustainable Strategy For Better Business",
+            "text": "<p>Sustainability is woven into all we do, ensuring we're supporting your business alongside our planet.</p>",
+            "link_label": "Find out more",
+            "link": "shopify://pages/sustainability"
+          }
+        }
+      },
+      "block_order": [
+        "column11",
+        "column12",
+        "column13",
+        "column14"
+      ],
+      "custom_css": [
+        "h3 {text-wrap: balance;}"
+      ],
+      "settings": {
+        "title": "Working with UW Home",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "multicolumn1",
+    "featured_collection1",
+    "featured_collection_bB74HT",
+    "collection_list",
+    "collection_list_D3ANUP",
+    "featured_collection2",
+    "multicolumn",
+    "collage_r7M8pF",
+    "multicolumn2"
+  ]
+}
