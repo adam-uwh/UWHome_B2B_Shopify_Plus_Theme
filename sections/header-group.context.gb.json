@@ -22,6 +22,19 @@
         "padding_bottom": 4
       },
       "blocks": {}
+    },
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement-bar-0": {
+          "disabled": true,
+          "settings": {}
+        },
+        "announcement_DFQq4X": {
+          "disabled": false,
+          "settings": {}
+        }
+      }
     }
   }
 }
