@@ -70,18 +70,11 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "176398284798a8fd7c": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "3099883d-b496-4e53-9f38-60b273fac644",
-    "176398284798a8fd7c"
+    "3099883d-b496-4e53-9f38-60b273fac644"
   ]
 }
