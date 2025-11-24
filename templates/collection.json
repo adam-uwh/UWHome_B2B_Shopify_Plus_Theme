@@ -61,7 +61,6 @@
       "block_order": [
         "a7b4c98c-e388-4800-be9d-11645ef9ae99"
       ],
-      "disabled": true,
       "custom_css": [
         ".boost-pfs-filter-product-item-sale-price {font-family: Avenir, sans serif; font-weight: 700;}",
         ".boost-pfs-filter-option-title-text {font-family: Avenir, sans serif; font-weight: 400;}",
@@ -74,15 +73,6 @@
     },
     "176398284798a8fd7c": {
       "type": "apps",
-      "blocks": {
-        "searchanise_search_filter_app_block_w73wae": {
-          "type": "shopify://apps/searchanise-search-filter/blocks/app-block/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "searchanise_search_filter_app_block_w73wae"
-      ],
       "settings": {
         "include_margins": true
       }
