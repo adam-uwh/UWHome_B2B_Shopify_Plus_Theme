@@ -42,7 +42,9 @@
     height: 1.8rem;
   }
 </style>
-
+  {% comment %} XCloud Filter Added Here by AW {% endcomment %}
+  <div id="cloud_search_filters_root"></div>
+  {% comment %} XCloud Filter Added Here by AW {% endcomment %}
 {%- liquid
   assign sort_by = search.sort_by | default: search.default_sort_by
   assign terms = search.terms | escape
