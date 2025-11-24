@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-search",
-      "disabled": true,
       "custom_css": [
         ".text-body {font-family: Avenir, sans serif !important;}",
         ".select__select {font-family: Avenir, sans serif !important;}",
@@ -29,9 +28,9 @@
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_type": "horizontal",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "article_show_date": false,
         "article_show_author": false,
         "padding_top": 36,
@@ -49,6 +48,7 @@
       "block_order": [
         "2f46ea78-73a1-4b53-aae0-93220c02b23b"
       ],
+      "disabled": true,
       "custom_css": [
         ".boost-sd__filter-tree-horizontal-option-list {border-top: none; border-bottom: 1px solid rgba(var(--color-foreground), 0.25);}",
         ".boost-sd__filter-option-label--inline-block {margin-bottom: 0px; margin-top: 3px;}"
