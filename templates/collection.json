@@ -41,7 +41,7 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
-        "quick_add": "standard",
+        "quick_add": "bulk",
         "enable_filtering": false,
         "filter_type": "horizontal",
         "enable_sorting": false,
