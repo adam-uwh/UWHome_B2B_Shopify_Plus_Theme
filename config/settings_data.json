@@ -144,18 +144,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "d1251fe9-7e28-42b5-8f5f-50222b1f612d": {
-        "type": "shopify://apps/boost-ai-search-filter/blocks/boost-sd-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-        "disabled": false,
-        "settings": {
-          "templateId": "dt5iA2SfVP"
-        }
-      },
-      "6a5677f6-053b-4e6f-986e-45ead599a924": {
-        "type": "shopify://apps/boost-ai-search-filter/blocks/instant-search-app-embedded/7fc998ae-a150-4367-bab8-505d8a4503f7",
-        "disabled": false,
-        "settings": {}
-      },
       "17518349512066562465": {
         "type": "shopify://apps/edesk-all-in-one-helpdesk/blocks/app-embed/350f87d4-ab0c-426b-a37e-0c9ceac250b1",
         "disabled": false,
@@ -170,7 +158,7 @@
       },
       "6097499278999377719": {
         "type": "shopify://apps/globo-mega-menu/blocks/app-embed/7a00835e-fe40-45a5-a615-2eb4ab697b58",
-        "disabled": true,
+        "disabled": false,
         "settings": {}
       }
     },
