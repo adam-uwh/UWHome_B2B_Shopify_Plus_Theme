@@ -16,7 +16,7 @@
       "custom_css": [
         ".header__inline-menu {margin-top: 0.15rem;}",
         ".search__input {font-family: Avenir, sans serif;}",
-        ".gm-menu-installed {padding: 15px 10px 12px 10px !important;}"
+        ".gm-menu-ul {padding: 15px 10px 12px 10px !important;}"
       ],
       "settings": {
         "logo_position": "top-center",
