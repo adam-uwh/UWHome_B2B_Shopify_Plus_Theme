@@ -163,12 +163,7 @@
       },
       "11603319826519071303": {
         "type": "shopify://apps/q-b2b-wholesale-hide-price/blocks/omgrfq_script/6ae96252-e178-41e6-b102-e65f89a82876",
-        "disabled": true,
-        "settings": {}
-      },
-      "14082181514032464150": {
-        "type": "shopify://apps/o-request-a-quote/blocks/omgrfq_script/5f4ac0e6-8a57-4f3d-853e-0194eab86273",
-        "disabled": true,
+        "disabled": false,
         "settings": {}
       }
     },
