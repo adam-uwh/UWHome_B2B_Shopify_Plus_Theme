@@ -27,7 +27,7 @@
         "heading_4LrWmm": {
           "type": "heading",
           "settings": {
-            "heading": "Our Services",
+            "heading": "Our Brands",
             "heading_size": "h0"
           }
         },
@@ -211,14 +211,14 @@
         "heading_8RUQTc": {
           "type": "heading",
           "settings": {
-            "heading": "Services Tailored to You",
+            "heading": "Brands sub-title",
             "heading_size": "h1"
           }
         },
         "text_hCbtQ3": {
           "type": "text",
           "settings": {
-            "text": "<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling. </p><p>We also offer a tailored private label service – when partnering with us, we offer full-service design and sourcing across home textiles, kitchen, tableware and accessories.</p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.</p>"
+            "text": "<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, and lifestyle focus. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling.</p>"
           }
         },
         "button_6RhXFb": {
@@ -255,96 +255,118 @@
     "multicolumn_xW6BTh": {
       "type": "multicolumn",
       "blocks": {
-        "column_YpjH4X": {
+        "column_necrm7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Slide15.jpg",
-            "title": "Market Research",
+            "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
+            "title": "Fusion",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "See more",
+            "link": "shopify://collections/fusion"
           }
         },
-        "column_YgCB8r": {
+        "column_fA7bWW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Dunelm_Willow_Trail_Process_5047.jpg",
-            "title": "Design",
+            "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
+            "title": "Serene",
             "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qpcbzP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
-            "title": "Product Development",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "See more",
+            "link": "shopify://collections/serene"
           }
         },
         "column_nDKzcQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/161121DK1_277_1080px.jpg",
-            "title": "Sourcing",
+            "image": "shopify://shop_images/BS8-BSDSP-NY_sn3.jpg",
+            "title": "Dreams & Drapes",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "See more",
+            "link": "shopify://collections/dreams-drapes"
           }
         },
-        "column_hDKDmc": {
+        "column_YpjH4X": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Account_Management_0403.jpg",
-            "title": "Account Management",
+            "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
+            "title": "Appletree",
             "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_necrm7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Showroom_Packaging_DSC_0352_v2.jpg",
-            "title": "Merchandising",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Adgzgg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BHF-TRYSC-MI_sn3.jpg",
-            "title": "Content & Photography",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "See more",
+            "link": "shopify://collections/appletree"
           }
         },
         "column_xF7LfE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/chuttersnap-BNBA1h-NgdY-unsplash.jpg",
-            "title": "Stock & Delivery",
+            "image": "shopify://shop_images/MD0-DCSET-NY_sn2.jpg",
+            "title": "Soirée",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "See more",
+            "link": "shopify://collections/soiree"
+          }
+        },
+        "column_Adgzgg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+            "title": "Llewelyn-Bowen",
+            "text": "",
+            "link_label": "See more",
+            "link": "shopify://collections/laurence-llewelyn-bowen"
+          }
+        },
+        "column_qpcbzP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TAL-CURTE-GY_sn1.jpg",
+            "title": "Curtina",
+            "text": "",
+            "link_label": "See more",
+            "link": "shopify://collections/curtina"
+          }
+        },
+        "column_YgCB8r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CUI-DCSET-MI_sn1.jpg",
+            "title": "Bedlam",
+            "text": "",
+            "link_label": "See more",
+            "link": "shopify://collections/bedlam"
+          }
+        },
+        "column_GfCPFj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CF3-MUGBC-MI_sn3.jpg",
+            "title": "Ulster Weavers",
+            "text": "",
+            "link_label": "See more",
+            "link": "shopify://collections/ulster-weavers"
+          }
+        },
+        "column_hDKDmc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/QIN-THROW-CM_sn1_0c788ccf-b92e-4e1a-9814-671967ef316c.jpg",
+            "title": "Drift",
+            "text": "",
+            "link_label": "See more",
+            "link": "shopify://collections/drift"
           }
         }
       },
       "block_order": [
-        "column_YpjH4X",
-        "column_YgCB8r",
-        "column_qpcbzP",
-        "column_nDKzcQ",
-        "column_hDKDmc",
         "column_necrm7",
+        "column_fA7bWW",
+        "column_nDKzcQ",
+        "column_YpjH4X",
+        "column_xF7LfE",
         "column_Adgzgg",
-        "column_xF7LfE"
+        "column_qpcbzP",
+        "column_YgCB8r",
+        "column_GfCPFj",
+        "column_hDKDmc"
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}"
@@ -355,9 +377,9 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "circle",
-        "button_label": "Read more on our Services",
+        "button_label": "",
         "button_link": "#Banner-template--26509747519832__image_banner_tbLH6q",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "scheme-2",
@@ -369,6 +391,7 @@
     },
     "responive_image_KbRgK6": {
       "type": "responive-image",
+      "disabled": true,
       "name": "Responsive Image",
       "settings": {
         "image": "shopify://shop_images/Catch_of_The_Day_LS_1200x900px.jpg",
@@ -428,6 +451,7 @@
         "text_LXERcP",
         "button_88mceQ"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {color: #1a1a1a;}",
         "p {text-wrap: pretty;}"
@@ -488,9 +512,10 @@
         "collapsible_row_3E9Peq",
         "collapsible_row_xEdRFa"
       ],
+      "disabled": true,
       "custom_css": [
         ".collapsible-section-layout {padding-top: 0;}",
-        ".collapsible-content-wrapper-narrow {max-width: 78rem; padding-left: 0; padding-right: 0;}"
+        ".collapsible-content-wrapper-narrow {max-width: 84rem; padding-left: 3rem; padding-right: 3rem; margin-bottom: 1.5rem; margin-top: 0.15rem;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -541,6 +566,7 @@
         "text_8j6BLJ",
         "button_atC9xK"
       ],
+      "disabled": true,
       "name": "Direct to Consumer",
       "settings": {
         "desktop_content_position": "center",
@@ -645,6 +671,7 @@
         "column_kLmNaY",
         "column_renjmy"
       ],
+      "disabled": true,
       "custom_css": [
         ".multicolumn-card__image-wrapper {padding: 10px; margin: 0;}"
       ],
@@ -660,7 +687,7 @@
         "column_alignment": "center",
         "background_style": "none",
         "color_scheme": "scheme-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 60
@@ -668,6 +695,7 @@
     },
     "responive_image_WBkFgE": {
       "type": "responive-image",
+      "disabled": true,
       "custom_css": [
         ".responsive-image-section {background-color: #fff;}"
       ],
@@ -714,6 +742,7 @@
         "text_zmkk9Y",
         "button_nQrG99"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -761,6 +790,7 @@
         "text_Ljmn6d",
         "buttons_GBcLjn"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/D_D_AW25_Autumn_Foliage_Process_Banner_1.jpg",
@@ -782,7 +812,7 @@
         "heading_XFF3PN": {
           "type": "heading",
           "settings": {
-            "heading": "All Services",
+            "heading": "All Brands",
             "heading_size": "h1"
           }
         },
@@ -823,24 +853,13 @@
     "multirow_Afkegf": {
       "type": "multirow",
       "blocks": {
-        "row_nMibHz": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Slide15.jpg",
-            "caption": "",
-            "heading": "It Starts With Insight...",
-            "text": "<p>We ground our design strategy in thoughtful market research, drawing on global trend analysis and consumer insight from several leading forecasting platforms. Through extensive travel and trend exploration, we stay ahead of emerging trends in the home and interiors space. </p><p>Actively working to identify opportunities and gaps, we used all these insights to develop beautiful collections that are commercially viable and aligned with brand and customer needs.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "row_3eBXX3": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Dunelm_Willow_Trail_Process_5047.jpg",
+            "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
             "caption": "",
-            "heading": "15,000 Designs and Counting.",
-            "text": "<p>Creativity is at our core, whether it’s hand-painted illustrations from one of our talented artists, clever digitally drawn patterns, or designs from our extensive archive of heritage prints. </p><p>Our designers work collaboratively to create designs that are beautiful, commercial, and aligned with our brand stories.</p>",
+            "heading": "Fusion",
+            "text": "<p>Fusion brings fashion to your home with bold prints, vibrant colours, and trend-led designs that feel like home. From playful conversation prints to striking stripes, gorgeous geometrics and bold botanicals, these ranges are all about self-expression and standout style. Whether you're updating your bedroom or refreshing your signature style, Fusion blends personality, practicality, and feel-good designs.</p><p><strong>Designed by us. Loved by you.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -848,10 +867,10 @@
         "row_eaqJWH": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+            "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
             "caption": "",
-            "heading": "Not Just Products. Collections.",
-            "text": "<p>Our product development approach combines creativity, collaboration, and commercial focus. Informed by trend intelligence and consumer insights, we work collaboratively with customers to turn design concepts into well-developed, market-ready homeware products. </p><p>From everyday essentials to elevated pieces, our collections are designed and developed to be relevant, flexible, and commercially successful across a variety of homeware categories.</p>",
+            "heading": "Serene",
+            "text": "<p>Soft textures. Restful calm. This is how Serene transforms everyday spaces into personal havens, elevating sleep with tantalising finishes and styles that feel soft and soothing. Effortless to care for and timeless in style, Serene's bedding transforms any bedroom into a cocoon of understated luxury.</p><p><strong>Sink into softness, night after night.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -859,10 +878,21 @@
         "row_FQWjcP": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/161121DK1_277_1080px.jpg",
+            "image": "shopify://shop_images/BS8-DCSET-NY_sn1.jpg",
             "caption": "",
-            "heading": "Sourcing That Delivers.",
-            "text": "<p>Our Teams source product with quality and sustainability at the heart of their development. Our factories have been hand-picked to ensure we are always trading ethically, following strict auditing procedure, and implementing processes that are kind to the local environment. These products carry our sustainably sourced, ethically made logo.</p>",
+            "heading": "Dreams & Drapes",
+            "text": "<p>Dreams & Drapes is a British heritage brand offering timeless bedding collections with a classic touch. Inspired by traditional and archive-inspired florals, Jacobean patterns, and decorative motifs, our designs bring refined character and understated elegance to every bedroom.</p><p>With fully coordinated ranges across bedding, curtains, and cushions, Dreams & Drapes makes it easy to create a beautifully layered look that’s full of charm and lasting character. </p><p><strong>Timeless style, beautifully made.</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_nMibHz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
+            "caption": "",
+            "heading": "Appletree",
+            "text": "<p>Appletree offers thoughtfully curated bedding and home accessories that combine modern trends with sophistication. Each collection is defined by considered patterns, elegant textures, and crafted from premium cotton fabrics and sumptuous sateen weaves, bringing a sense of quiet luxury to everyday spaces. Appletree delivers elevated looks that feel current, confident, and effortlessly refined. </p><p><strong>Quiet luxury, everyday.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -870,10 +900,10 @@
         "row_tJCKmY": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Account_Management_0403.jpg",
+            "image": "shopify://shop_images/MD0-DCSET-NY_sn1.jpg",
             "caption": "",
-            "heading": "Account Support You Can Depend On.",
-            "text": "<p>Our professional and friendly Account Management team offers personalised support and clear, consistent communication at every stage. </p><p>From early product development to final delivery, we oversee a smooth, responsive process – one that we’re always improving to make collaboration feel effortless.</p>",
+            "heading": "Soirée",
+            "text": "<p>Soirée is the epitome of elegance, where chic meets uncompromising quality. Each season, our curated bedding collections blend crisp cotton-sateen with sumptuous faux furs and velvets, transforming the bedroom into a lavish sanctuary. Featuring this season’s most coveted colours and statement prints, our designs invite effortless layering of rich textures and sophisticated, trend-led style. </p><p><strong>Luxury in every detail. Beautiful sleep, redefined.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -881,10 +911,21 @@
         "row_4atknm": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Showroom_Packaging_DSC_0352_v2.jpg",
+            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
             "caption": "",
-            "heading": "Retail-Ready. Online Optimised.",
-            "text": "<p>We run a full suite of merchandising services, from multi-language packaging and barcode preparation, to tailored visual merchandising support. </p><p>Each and every detail is considered to ensure your product arrives shelf-ready, web-ready, and primed for standout performance on a global scale.</p>",
+            "heading": "Laurence Llewelyn-Bowen",
+            "text": "<p>Discover truly luxurious style from the king of interiors himself. Exclusively designed by Laurence Llewelyn-Bowen, these collections fuse theatrical flair with uncompromising quality to achieve ultimate opulence.</p><p>LLB brings a stylish and stately experience into the home, across bedding, accessories, and now dining too. Rooted in Laurence’s visionary design and meticulous craftsmanship, every piece delivers enduring luxury and show-stopping style, so every moment at home feels like a grand performance.</p><p><strong>Sleep in splendour.</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_VyAjkG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/CF3-MUGBC-MI_sn3.jpg",
+            "caption": "",
+            "heading": "Ulster Weavers",
+            "text": "<p>Ulster Weavers has been brightening homes for over 60 years with beautiful kitchen textiles and more recently, ceramics and serveware. </p><p>Full of colour, pattern and personality, every piece is designed to be practical, stylish and perfect for everyday life. Our craftsmanship consistently displays our passion for quality products.</p><p><strong>Home, made more.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -892,10 +933,10 @@
         "row_mYMHrR": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/BHF-DPLAT-MI_sn3.jpg",
+            "image": "shopify://shop_images/TAL-CURTE-NL_sn1_bcccb5b3-e87f-4d59-a708-ad645dcff3fd.jpg",
             "caption": "",
-            "heading": "Your Content Team in the Background.",
-            "text": "<p>Our creative team are here to give your products the perfect lift – we offer cohesive storytelling through fresh lifestyle imagery, product shots, and bespoke graphics for web and beyond.</p>",
+            "heading": "Curtina",
+            "text": "<p>Curtina is a leading brand of ready-made curtains, offering a wide variety of designs, textures, and colours to suit every home. Crafted from high quality and durable fabrics, our collections blend everyday elegance with practical functionality, delivering instant style that endures. With Curtina, you can transform any room quickly, confidently, and with lasting impact.</p><p><strong>Elevate your space with timeless style.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -903,24 +944,37 @@
         "row_zDjznk": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/chuttersnap-BNBA1h-NgdY-unsplash.jpg",
+            "image": "shopify://shop_images/CUI-DCSET-MI_sn1.jpg",
             "caption": "",
-            "heading": "Global Fulfilment. Local Reliability.",
-            "text": "<p>With distribution centres in the UK and US, and a responsive logistics network, we ensure that every order arrives on time, in full, and fit for shelf, site or doorstep. </p><p>Backed by accurate forecasting, ongoing promotional support, and full delivery visibility, you can trade with complete confidence.</p>",
+            "heading": "Bedlam",
+            "text": "<p>Bedlam is a design-led children’s bedding brand offering hand-painted, interactive collections that spark boundless creativity and playful exploration. Mix-and-match themes, reversible styles and evolving motifs that grow with your child, turning every room update into a fresh adventure. </p><p>With playful surprises like glow-in-the-dark prints and soft, easy-care fabrics, Bedlam makes bedtime routines fun for kids, perfect for big dreams and a great night’s sleep.</p><p><strong>Dream big. Sleep soundly.</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_KJ4rA7": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Hayden_throw_natural_5.jpg",
+            "caption": "",
+            "heading": "Drift Home",
+            "text": "<p>Every detail counts in creating the perfect sanctuary, which is our range from Drift Home is full of layerable throws and cushions, all made from the softest blend of recycled materials. Designed in calming, natural shades, each piece makes house feel like home.</p><p>Our curated selection of Drift bedding, adorned in beautiful nature-inspired prints, ensures better sleep with its soft cotton blends and ethical sourcing.</p><p><strong>Soothing style, crafted for comfort.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "row_nMibHz",
         "row_3eBXX3",
         "row_eaqJWH",
         "row_FQWjcP",
+        "row_nMibHz",
         "row_tJCKmY",
         "row_4atknm",
+        "row_VyAjkG",
         "row_mYMHrR",
-        "row_zDjznk"
+        "row_zDjznk",
+        "row_KJ4rA7"
       ],
       "custom_css": [
         ".image-with-text__media--small {height: 390px;}",
@@ -1100,7 +1154,7 @@
       ],
       "name": "Responsive Image",
       "settings": {
-        "image": "shopify://shop_images/161121DK1_228_1200px.jpg",
+        "image": "shopify://shop_images/Appletree_Style_Leilani_Process_4886_1200x900px.jpg",
         "alt_text": "",
         "color_scheme": "scheme-2",
         "width_option": "narrow",
@@ -1172,7 +1226,7 @@
         "text_TCnkwe": {
           "type": "text",
           "settings": {
-            "text": "<p>[Process of requesting a Company Account for D2C]</p><p>[Process of expressing interest in private label] If you'd like to ask a question or chat with us in more detail, please contact our friendly Sales Team.</p>"
+            "text": "<p>[Potential for private label if customer not seeing exactly what they're after]</p><p>[Process of expressing interest in private label] If you'd like to ask a question or chat with us in more detail, please contact our friendly Sales Team.</p>"
           }
         },
         "button_zDMYeP": {

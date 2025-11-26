@@ -1,1 +1,1230 @@
-{"sections":{"1763126440e0b0415e":{"type":"_blocks","settings":{}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"image_banner_p8CBLe":{"type":"image-banner","blocks":{"heading_4LrWmm":{"type":"heading","settings":{"heading":"Our Services","heading_size":"h0"}},"text_eexWDP":{"type":"text","disabled":true,"settings":{"text":"Learn what we can offer your business as a global leader in textiles.","text_style":"subtitle"}},"buttons_TJXhTt":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Button label","button_link_1":"","button_style_secondary_1":false,"button_label_2":"Button label","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_4LrWmm","text_eexWDP","buttons_TJXhTt"],"custom_css":["h2 {color: white;}","h2 screen and (max-width: 749px) {color: #1a1a1a;}","p {color: white;}"],"name":"t:sections.image-banner.presets.name","settings":{"image":"shopify:\/\/shop_images\/161121DK1_197_1200px.jpg","image_overlay_opacity":20,"image_height":"medium","image_behavior":"none","desktop_content_position":"middle-center","desktop_content_alignment":"center","show_text_box":false,"color_scheme":"scheme-2","stack_images_on_mobile":true,"mobile_content_alignment":"center","show_text_below":false}},"176312754100ce0da6":{"type":"_blocks","blocks":{"ai_gen_block_541c626_qbR9k8":{"type":"ai_gen_block_541c626","settings":{"color_scheme":"scheme-5","container_width":"full","alignment":"center","padding_top":0,"padding_bottom":0,"menu_padding":12,"border_radius":0,"show_border":false,"show_shadow":false,"font_size":14,"link_padding_vertical":4,"link_padding_horizontal":12,"link_border_radius":0,"item_spacing":12,"hover_style":"underline","show_active_state":false,"active_style":"underline","smooth_scroll":false,"scroll_offset":0,"mobile_layout":"horizontal","mobile_alignment":"center","link_text_1":"Direct to Consumer","link_url_1":"#shopify-section-template--26509747519832__responive_image_KbRgK6","link_text_2":"Private Label","link_url_2":"#shopify-section-template--26509747519832__responive_image_WBkFgE","link_text_3":"All Services","link_url_3":"#Banner-template--26509747519832__image_banner_tbLH6q","link_text_4":"Trade Account","link_url_4":"#shopify-section-template--26509747519832__responive_image_QNfPNc","link_text_5":"","link_url_5":"","link_text_6":"","link_url_6":"","link_text_7":"","link_url_7":"","link_text_8":"","link_url_8":""},"blocks":{}}},"block_order":["ai_gen_block_541c626_qbR9k8"],"settings":{}},"multicolumn_nEMCbX":{"type":"multicolumn","blocks":{"column_i6WYhy":{"type":"column","disabled":true,"settings":{"title":"","text":"","link_label":"Who We Are","link":"shopify:\/\/pages\/about-us"}},"column_ckHkQi":{"type":"column","settings":{"title":"","text":"","link_label":"Our Evolution","link":"#shopify-section-template--26438285721944__rich_text_MUzxed"}},"column_LPFAJG":{"type":"column","settings":{"title":"","text":"","link_label":"Mission & Values","link":"#shopify-section-template--26438285721944__responive_image_BMGLpU"}},"column_zd84Rd":{"type":"column","settings":{"title":"","text":"","link_label":"Global Collaboration","link":"#shopify-section-template--26438285721944__rich_text_zBtQP4"}},"column_VWcJAm":{"type":"column","settings":{"title":"","text":"","link_label":"Our Customers","link":"#shopify-section-template--26438285721944__rich_text_PbbAih"}}},"block_order":["column_i6WYhy","column_ckHkQi","column_LPFAJG","column_zd84Rd","column_VWcJAm"],"disabled":true,"name":"t:sections.multicolumn.presets.name","settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":4,"column_alignment":"center","background_style":"none","color_scheme":"scheme-5","columns_mobile":"2","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"rich_text_fwprFV":{"type":"rich-text","blocks":{"heading_8RUQTc":{"type":"heading","settings":{"heading":"Services Tailored to You","heading_size":"h1"}},"text_hCbtQ3":{"type":"text","settings":{"text":"<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling. <\/p><p>We also offer a tailored private label service – when partnering with us, we offer full-service design and sourcing across home textiles, kitchen, tableware and accessories.<\/p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.<\/p>"}},"button_6RhXFb":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_8RUQTc","text_hCbtQ3","button_6RhXFb"],"custom_css":["p {text-wrap: pretty;}"],"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"scheme-2","full_width":true,"padding_top":48,"padding_bottom":48}},"multicolumn_xW6BTh":{"type":"multicolumn","blocks":{"column_YpjH4X":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Slide15.jpg","title":"Market Research","text":"","link_label":"","link":""}},"column_YgCB8r":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Dunelm_Willow_Trail_Process_5047.jpg","title":"Design","text":"","link_label":"","link":""}},"column_qpcbzP":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/CFN-THROW-GD_sn6.jpg","title":"Product Development","text":"","link_label":"","link":""}},"column_nDKzcQ":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/161121DK1_277_1080px.jpg","title":"Sourcing","text":"","link_label":"","link":""}},"column_hDKDmc":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Account_Management_0403.jpg","title":"Account Management","text":"","link_label":"","link":""}},"column_necrm7":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Showroom_Packaging_DSC_0352_v2.jpg","title":"Merchandising","text":"","link_label":"","link":""}},"column_Adgzgg":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/BHF-TRYSC-MI_sn3.jpg","title":"Content & Photography","text":"","link_label":"","link":""}},"column_xF7LfE":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/chuttersnap-BNBA1h-NgdY-unsplash.jpg","title":"Stock & Delivery","text":"","link_label":"","link":""}}},"block_order":["column_YpjH4X","column_YgCB8r","column_qpcbzP","column_nDKzcQ","column_hDKDmc","column_necrm7","column_Adgzgg","column_xF7LfE"],"custom_css":["h3 {font-family: Big Caslon, serif; font-weight: 400;}"],"name":"t:sections.multicolumn.presets.name","settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"circle","button_label":"Read more on our Services","button_link":"#Banner-template--26509747519832__image_banner_tbLH6q","columns_desktop":4,"column_alignment":"center","background_style":"primary","color_scheme":"scheme-2","columns_mobile":"2","swipe_on_mobile":false,"padding_top":0,"padding_bottom":60}},"responive_image_KbRgK6":{"type":"responive-image","name":"Responsive Image","settings":{"image":"shopify:\/\/shop_images\/Catch_of_The_Day_LS_1200x900px.jpg","alt_text":"","color_scheme":"","width_option":"narrow","padding_top":"large","padding_bottom":"none"}},"rich_text_GPraHE":{"type":"rich-text","blocks":{"heading_qW67q9":{"type":"heading","settings":{"heading":"Direct to Consumer","heading_size":"h1"}},"text_3tXYty":{"type":"text","settings":{"text":"<p>Our DSV (Drop Ship Vendor) service lets trade partners sell direct-to-consumer without the inventory or shipping headaches. You share customer orders with us and we fulfil, pack and dispatch them straight to the end customer under your instructions.<\/p>"}},"heading_hRNQqf":{"type":"heading","settings":{"heading":"Why Use Our DSV Service?","heading_size":"h2"}},"text_LXERcP":{"type":"text","settings":{"text":"<ul><li><strong>Lower overheads:<\/strong> no need to hold or stage additional products for delivery.<\/li><li><strong>Faster delivery:<\/strong> orders move directly from our warehouses to the customer, reducing transit and handling time.<\/li><li><strong>Scalability:<\/strong> handle seasonal spikes, promotional campaigns and national rollouts without hiring seasonal staff or extra warehousing.<\/li><li><strong>Brand control:<\/strong> we can ship using courier labels with your name and logo and include your customised customer dispatch notes.<\/li><li><strong>Reduced returns complexity:<\/strong> consolidated returns handling and clear reconciliation for trade customers.<\/li><li><strong>Expert handling:<\/strong> handled by teams experienced in careful textiles packing, protective covers and quality checks on every order.<\/li><\/ul>"}},"button_88mceQ":{"type":"button","disabled":true,"settings":{"button_label":"Request an Account","button_link":"shopify:\/\/pages\/company-account-request","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_qW67q9","text_3tXYty","heading_hRNQqf","text_LXERcP","button_88mceQ"],"custom_css":["h2 {color: #1a1a1a;}","p {text-wrap: pretty;}"],"name":"Direct to Consumer","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"","full_width":true,"padding_top":48,"padding_bottom":20}},"collapsible_content_A4RDjX":{"type":"collapsible-content","blocks":{"collapsible_row_6M4fFt":{"type":"collapsible_row","settings":{"heading":"Turnaround times","icon":"stopwatch","row_content":"<p>Our typical processing time is 1-3 business days from receipt of a validated order.<\/p>","page":""}},"collapsible_row_N3kCkw":{"type":"collapsible_row","settings":{"heading":"Shipping options","icon":"box","row_content":"<p>Standard domestic and international options; tracked courier for all shipments by default.<\/p>","page":""}},"collapsible_row_3E9Peq":{"type":"collapsible_row","settings":{"heading":"Minimum order\/volume","icon":"clipboard","row_content":"<p>None for all DSV orders sent one-by-one.<\/p>","page":""}},"collapsible_row_xEdRFa":{"type":"collapsible_row","settings":{"heading":"Quality control","icon":"star","row_content":"<p>Each shipment goes through inspection to ensure products arrive in perfect condition.<\/p>","page":""}}},"block_order":["collapsible_row_6M4fFt","collapsible_row_N3kCkw","collapsible_row_3E9Peq","collapsible_row_xEdRFa"],"custom_css":[".collapsible-section-layout {padding-top: 0;}",".collapsible-content-wrapper-narrow {max-width: 78rem; padding-left: 0; padding-right: 0;}"],"name":"t:sections.collapsible_content.presets.name","settings":{"caption":"","heading":"Operational Details & Service Levels","heading_size":"h2","heading_alignment":"left","layout":"none","container_color_scheme":"scheme-1","color_scheme":"","open_first_collapsible_row":false,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":0,"padding_bottom":20}},"rich_text_6qcatR":{"type":"rich-text","blocks":{"heading_nPiGGC":{"type":"heading","settings":{"heading":"Getting Set Up","heading_size":"h2"}},"text_8j6BLJ":{"type":"text","settings":{"text":"<p>We require customers to apply for a Company Account in order to access our DSV service. Click through to the short application form below, and leave the rest to us! We expect your application to be reviewed and (if approved) set up within 3-5 business days. From there, you'll be able to see exclusive pricing and easily buy what you need for your business.<\/p><p>For more information on getting set up and our DSV process, please read our FAQs.<\/p>"}},"button_atC9xK":{"type":"button","settings":{"button_label":"Read our FAQs","button_link":"shopify:\/\/pages\/faqs","button_style_secondary":false,"button_label_2":"Request an Account","button_link_2":"shopify:\/\/pages\/company-account-request","button_style_secondary_2":false}}},"block_order":["heading_nPiGGC","text_8j6BLJ","button_atC9xK"],"name":"Direct to Consumer","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"","full_width":true,"padding_top":0,"padding_bottom":48}},"multicolumn_c3fUUq":{"type":"multicolumn","blocks":{"column_XLHmwY":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Appletree_x_Ginger_Home_Malaysia_2x_e1770cca-2d3a-4f0b-af7f-61ac9fbc56d4.png","title":"","text":"","link_label":"","link":""}},"column_6UzTWW":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Cocette___Co_France_2x_65588dd5-1048-490b-9b15-4eb61ca313fa.png","title":"","text":"","link_label":"","link":""}},"column_J4bxFA":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Trippoltz_Umbaeren_Austria_2x_a87fecf3-7456-4493-8c39-3896bb6e7cc9.png","title":"","text":"","link_label":"","link":""}},"column_8k9QUe":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Webbs_of_Tenterden_Kent_UK_2x_e05ee98b-c154-4971-bd5e-581f3222ac6e.png","title":"","text":"","link_label":"","link":""}},"column_JX9RhJ":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Solprateado_Portugal_2x_4af2b374-01d2-4401-a194-777d6d5779d3.png","title":"","text":"","link_label":"","link":""}},"column_CLmU8V":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Pod_Shop_Bristol_UK_2x_1cfd8e83-eb00-44cd-86af-7ecd9cabbadc.png","title":"","text":"","link_label":"","link":""}},"column_kLmNaY":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Speckled_Hen_Australia_2x_310259f3-f28d-4104-bb0b-8d9f9307e913.png","title":"","text":"","link_label":"","link":""}},"column_renjmy":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Insta_Post_Ulster_Weavers_x_Window_Panes_USA_2x_e71877b2-bb95-4e48-87b0-96dfff913425.png","title":"","text":"","link_label":"","link":""}}},"block_order":["column_XLHmwY","column_6UzTWW","column_J4bxFA","column_8k9QUe","column_JX9RhJ","column_CLmU8V","column_kLmNaY","column_renjmy"],"custom_css":[".multicolumn-card__image-wrapper {padding: 10px; margin: 0;}"],"name":"t:sections.multicolumn.presets.name","settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"#Banner-template--26509747519832__image_banner_tbLH6q","columns_desktop":4,"column_alignment":"center","background_style":"none","color_scheme":"scheme-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":0,"padding_bottom":60}},"responive_image_WBkFgE":{"type":"responive-image","custom_css":[".responsive-image-section {background-color: #fff;}"],"name":"Responsive Image","settings":{"image":"shopify:\/\/shop_images\/Dunelm_Floral_Process_0015_1200x800px.jpg","alt_text":"","color_scheme":"scheme-2","width_option":"narrow","padding_top":"large","padding_bottom":"none"}},"rich_text_jAbEN4":{"type":"rich-text","blocks":{"heading_MHphma":{"type":"heading","settings":{"heading":"Private Label","heading_size":"h1"}},"text_zmkk9Y":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper. Suspendisse consectetur, nisi sed luctus vehicula, enim tellus pellentesque arcu, ac rutrum augue felis ut tellus. Mauris facilisis ut purus sed venenatis.<\/p><p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer tincidunt nibh dignissim, semper libero ut, efficitur eros. Donec dapibus justo in lectus aliquam tristique. Integer scelerisque laoreet nunc, ac commodo sem imperdiet a. Fusce nec massa pulvinar, condimentum ipsum vitae, tincidunt enim. Cras mollis, ligula a semper accumsan, lorem turpis porta tellus, vel tempus odio nulla vel arcu. Morbi tincidunt orci id tortor ullamcorper dapibus eget vitae massa.<\/p><p>In at turpis id felis varius fermentum tincidunt vitae turpis. In elit augue, interdum et nunc ut, luctus dignissim orci. Donec porta accumsan varius. Ut eros erat, tempus et pellentesque sed, lacinia id sem. Duis nec mauris vehicula, porta nulla ac, tincidunt dolor. Suspendisse in tortor a neque tempus pretium eu id risus. In eget varius nulla, ac ultrices justo. Donec tristique, ipsum a vestibulum fermentum, sapien felis luctus sem, non aliquet felis enim eu elit. Donec arcu dolor, scelerisque sed turpis facilisis, dignissim pulvinar dui.<\/p>"}},"button_nQrG99":{"type":"button","settings":{"button_label":"Read our FAQs","button_link":"shopify:\/\/pages\/faqs","button_style_secondary":false,"button_label_2":"Contact us","button_link_2":"shopify:\/\/pages\/contact","button_style_secondary_2":false}}},"block_order":["heading_MHphma","text_zmkk9Y","button_nQrG99"],"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"scheme-2","full_width":true,"padding_top":48,"padding_bottom":48}},"image_banner_tbLH6q":{"type":"image-banner","blocks":{"heading_cCHKEj":{"type":"heading","disabled":true,"settings":{"heading":"International Collaboration","heading_size":"h1"}},"text_Ljmn6d":{"type":"text","disabled":true,"settings":{"text":"Give customers details about the banner image(s) or content on the template.","text_style":"body"}},"buttons_GBcLjn":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Button label","button_link_1":"","button_style_secondary_1":false,"button_label_2":"Button label","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_cCHKEj","text_Ljmn6d","buttons_GBcLjn"],"name":"t:sections.image-banner.presets.name","settings":{"image":"shopify:\/\/shop_images\/D_D_AW25_Autumn_Foliage_Process_Banner_1.jpg","image_overlay_opacity":0,"image_height":"adapt","image_behavior":"none","desktop_content_position":"middle-center","desktop_content_alignment":"center","show_text_box":false,"color_scheme":"scheme-5","stack_images_on_mobile":true,"mobile_content_alignment":"center","show_text_below":true}},"rich_text_zBtQP4":{"type":"rich-text","blocks":{"heading_XFF3PN":{"type":"heading","settings":{"heading":"All Services","heading_size":"h1"}},"text_6PMwpL":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper.<\/p>"}},"button_dJAyGq":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_XFF3PN","text_6PMwpL","button_dJAyGq"],"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"","full_width":true,"padding_top":48,"padding_bottom":0}},"multirow_Afkegf":{"type":"multirow","blocks":{"row_nMibHz":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/Slide15.jpg","caption":"","heading":"It Starts With Insight...","text":"<p>We ground our design strategy in thoughtful market research, drawing on global trend analysis and consumer insight from several leading forecasting platforms. Through extensive travel and trend exploration, we stay ahead of emerging trends in the home and interiors space. <\/p><p>Actively working to identify opportunities and gaps, we used all these insights to develop beautiful collections that are commercially viable and aligned with brand and customer needs.<\/p>","button_label":"","button_link":""}},"row_3eBXX3":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/Dunelm_Willow_Trail_Process_5047.jpg","caption":"","heading":"15,000 Designs and Counting.","text":"<p>Creativity is at our core, whether it’s hand-painted illustrations from one of our talented artists, clever digitally drawn patterns, or designs from our extensive archive of heritage prints. <\/p><p>Our designers work collaboratively to create designs that are beautiful, commercial, and aligned with our brand stories.<\/p>","button_label":"","button_link":""}},"row_eaqJWH":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/CFN-THROW-GD_sn6.jpg","caption":"","heading":"Not Just Products. Collections.","text":"<p>Our product development approach combines creativity, collaboration, and commercial focus. Informed by trend intelligence and consumer insights, we work collaboratively with customers to turn design concepts into well-developed, market-ready homeware products. <\/p><p>From everyday essentials to elevated pieces, our collections are designed and developed to be relevant, flexible, and commercially successful across a variety of homeware categories.<\/p>","button_label":"","button_link":""}},"row_FQWjcP":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/161121DK1_277_1080px.jpg","caption":"","heading":"Sourcing That Delivers.","text":"<p>Our Teams source product with quality and sustainability at the heart of their development. Our factories have been hand-picked to ensure we are always trading ethically, following strict auditing procedure, and implementing processes that are kind to the local environment. These products carry our sustainably sourced, ethically made logo.<\/p>","button_label":"","button_link":""}},"row_tJCKmY":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/Account_Management_0403.jpg","caption":"","heading":"Account Support You Can Depend On.","text":"<p>Our professional and friendly Account Management team offers personalised support and clear, consistent communication at every stage. <\/p><p>From early product development to final delivery, we oversee a smooth, responsive process – one that we’re always improving to make collaboration feel effortless.<\/p>","button_label":"","button_link":""}},"row_4atknm":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/Showroom_Packaging_DSC_0352_v2.jpg","caption":"","heading":"Retail-Ready. Online Optimised.","text":"<p>We run a full suite of merchandising services, from multi-language packaging and barcode preparation, to tailored visual merchandising support. <\/p><p>Each and every detail is considered to ensure your product arrives shelf-ready, web-ready, and primed for standout performance on a global scale.<\/p>","button_label":"","button_link":""}},"row_mYMHrR":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/BHF-DPLAT-MI_sn3.jpg","caption":"","heading":"Your Content Team in the Background.","text":"<p>Our creative team are here to give your products the perfect lift – we offer cohesive storytelling through fresh lifestyle imagery, product shots, and bespoke graphics for web and beyond.<\/p>","button_label":"","button_link":""}},"row_zDjznk":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/chuttersnap-BNBA1h-NgdY-unsplash.jpg","caption":"","heading":"Global Fulfilment. Local Reliability.","text":"<p>With distribution centres in the UK and US, and a responsive logistics network, we ensure that every order arrives on time, in full, and fit for shelf, site or doorstep. <\/p><p>Backed by accurate forecasting, ongoing promotional support, and full delivery visibility, you can trade with complete confidence.<\/p>","button_label":"","button_link":""}}},"block_order":["row_nMibHz","row_3eBXX3","row_eaqJWH","row_FQWjcP","row_tJCKmY","row_4atknm","row_mYMHrR","row_zDjznk"],"custom_css":[".image-with-text__media--small {height: 390px;}","p {text-wrap: pretty;}"],"name":"t:sections.multirow.presets.name","settings":{"image_height":"small","desktop_image_width":"small","image_layout":"alternate-left","heading_size":"h2","text_style":"body","button_style":"secondary","desktop_content_position":"middle","desktop_content_alignment":"left","mobile_content_alignment":"left","section_color_scheme":"","row_color_scheme":"scheme-2","padding_top":48,"padding_bottom":60}},"rich_text_PbbAih":{"type":"rich-text","blocks":{"heading_jU8Cr7":{"type":"heading","settings":{"heading":"Our Customers","heading_size":"h1"}},"text_azqKYq":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at purus non ligula placerat sagittis. In posuere lacinia finibus. Curabitur ornare dui mi, sed euismod massa blandit et. Mauris eu tellus a erat placerat efficitur. Nunc facilisis in urna at venenatis. Donec id elementum elit. <\/p><p>Duis eget sem pellentesque, efficitur augue a, interdum sem. Donec sagittis a ante nec luctus. Sed pretium aliquam neque, ullamcorper semper orci pharetra sit amet. Vestibulum nec erat et turpis dictum malesuada.<\/p><p>Donec malesuada facilisis bibendum. Suspendisse at vestibulum magna, at euismod nulla. Duis quam dolor, faucibus non purus quis, laoreet consectetur sem. <\/p>"}},"button_FbaTyY":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_jU8Cr7","text_azqKYq","button_FbaTyY"],"disabled":true,"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"scheme-2","full_width":true,"padding_top":48,"padding_bottom":48}},"multicolumn_GU4Nnk":{"type":"multicolumn","blocks":{"column_kgGdR9":{"type":"column","settings":{"title":"Customer 1","text":"<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"<\/p>","link_label":"","link":""}},"column_QRNBpn":{"type":"column","settings":{"title":"Customer 2","text":"<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"<\/p>","link_label":"","link":""}},"column_CeWjBc":{"type":"column","settings":{"title":"Customer 3","text":"<p>\"We love seeing the brands evolve with each season, and so do our customers.\"<\/p>","link_label":"","link":""}},"column_nKgXfU":{"type":"column","settings":{"title":"Customer 4","text":"<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"<\/p>","link_label":"","link":""}},"column_hgwd87":{"type":"column","settings":{"title":"Customer 5","text":"<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"<\/p>","link_label":"","link":""}},"column_6QJ6y3":{"type":"column","settings":{"title":"Customer 6","text":"<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"<\/p>","link_label":"","link":""}},"column_9wWemX":{"type":"column","settings":{"title":"Customer 7","text":"<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"<\/p>","link_label":"","link":""}},"column_HKDBFt":{"type":"column","settings":{"title":"Customer 8","text":"<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"<\/p>","link_label":"","link":""}}},"block_order":["column_kgGdR9","column_QRNBpn","column_CeWjBc","column_nKgXfU","column_hgwd87","column_6QJ6y3","column_9wWemX","column_HKDBFt"],"disabled":true,"name":"t:sections.multicolumn.presets.name","settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":4,"column_alignment":"left","background_style":"primary","color_scheme":"scheme-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":60}},"responive_image_QNfPNc":{"type":"responive-image","custom_css":[".responsive-image-section {background-color: #fff;}"],"name":"Responsive Image","settings":{"image":"shopify:\/\/shop_images\/161121DK1_228_1200px.jpg","alt_text":"","color_scheme":"scheme-2","width_option":"narrow","padding_top":"large","padding_bottom":"none"}},"image_banner_GfbKca":{"type":"image-banner","blocks":{"heading_m6pmze":{"type":"heading","settings":{"heading":"Our Customers","heading_size":"h1"}},"text_AdUW6F":{"type":"text","settings":{"text":"We work with a number of businesses","text_style":"body"}},"buttons_i8WWLD":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Button label","button_link_1":"","button_style_secondary_1":false,"button_label_2":"Button label","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_m6pmze","text_AdUW6F","buttons_i8WWLD"],"disabled":true,"name":"t:sections.image-banner.presets.name","settings":{"image":"shopify:\/\/shop_images\/Our_Customers_Banner.jpg","image_overlay_opacity":0,"image_height":"adapt","image_behavior":"ambient","desktop_content_position":"middle-center","desktop_content_alignment":"center","show_text_box":true,"color_scheme":"scheme-5","stack_images_on_mobile":true,"mobile_content_alignment":"center","show_text_below":true}},"rich_text_RnGYpt":{"type":"rich-text","blocks":{"heading_hRXrrY":{"type":"heading","settings":{"heading":"Let's Build Something Together","heading_size":"h1"}},"text_TCnkwe":{"type":"text","settings":{"text":"<p>[Process of requesting a Company Account for D2C]<\/p><p>[Process of expressing interest in private label] If you'd like to ask a question or chat with us in more detail, please contact our friendly Sales Team.<\/p>"}},"button_zDMYeP":{"type":"button","settings":{"button_label":"Request an Account","button_link":"shopify:\/\/pages\/company-account-request","button_style_secondary":false,"button_label_2":"Contact us","button_link_2":"shopify:\/\/pages\/contact","button_style_secondary_2":false}}},"block_order":["heading_hRXrrY","text_TCnkwe","button_zDMYeP"],"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"scheme-2","full_width":true,"padding_top":48,"padding_bottom":60}}},"order":["1763126440e0b0415e","main","image_banner_p8CBLe","176312754100ce0da6","multicolumn_nEMCbX","rich_text_fwprFV","multicolumn_xW6BTh","responive_image_KbRgK6","rich_text_GPraHE","collapsible_content_A4RDjX","rich_text_6qcatR","multicolumn_c3fUUq","responive_image_WBkFgE","rich_text_jAbEN4","image_banner_tbLH6q","rich_text_zBtQP4","multirow_Afkegf","rich_text_PbbAih","multicolumn_GU4Nnk","responive_image_QNfPNc","image_banner_GfbKca","rich_text_RnGYpt"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1763126440e0b0415e": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_p8CBLe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4LrWmm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h0"
+          }
+        },
+        "text_eexWDP": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Learn what we can offer your business as a global leader in textiles.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_TJXhTt": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4LrWmm",
+        "text_eexWDP",
+        "buttons_TJXhTt"
+      ],
+      "custom_css": [
+        "h2 {color: white;}",
+        "h2 screen and (max-width: 749px) {color: #1a1a1a;}",
+        "p {color: white;}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/161121DK1_197_1200px.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-2",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "176312754100ce0da6": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_541c626_qbR9k8": {
+          "type": "ai_gen_block_541c626",
+          "settings": {
+            "color_scheme": "scheme-5",
+            "container_width": "full",
+            "alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "menu_padding": 12,
+            "border_radius": 0,
+            "show_border": false,
+            "show_shadow": false,
+            "font_size": 14,
+            "link_padding_vertical": 4,
+            "link_padding_horizontal": 12,
+            "link_border_radius": 0,
+            "item_spacing": 12,
+            "hover_style": "underline",
+            "show_active_state": false,
+            "active_style": "underline",
+            "smooth_scroll": false,
+            "scroll_offset": 0,
+            "mobile_layout": "horizontal",
+            "mobile_alignment": "center",
+            "link_text_1": "Direct to Consumer",
+            "link_url_1": "#shopify-section-template--26509747519832__responive_image_KbRgK6",
+            "link_text_2": "Private Label",
+            "link_url_2": "#shopify-section-template--26509747519832__responive_image_WBkFgE",
+            "link_text_3": "All Services",
+            "link_url_3": "#Banner-template--26509747519832__image_banner_tbLH6q",
+            "link_text_4": "Trade Account",
+            "link_url_4": "#shopify-section-template--26509747519832__responive_image_QNfPNc",
+            "link_text_5": "",
+            "link_url_5": "",
+            "link_text_6": "",
+            "link_url_6": "",
+            "link_text_7": "",
+            "link_url_7": "",
+            "link_text_8": "",
+            "link_url_8": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_541c626_qbR9k8"
+      ],
+      "settings": {}
+    },
+    "multicolumn_nEMCbX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_i6WYhy": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Who We Are",
+            "link": "shopify://pages/about-us"
+          }
+        },
+        "column_ckHkQi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Our Evolution",
+            "link": "#shopify-section-template--26438285721944__rich_text_MUzxed"
+          }
+        },
+        "column_LPFAJG": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Mission & Values",
+            "link": "#shopify-section-template--26438285721944__responive_image_BMGLpU"
+          }
+        },
+        "column_zd84Rd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Global Collaboration",
+            "link": "#shopify-section-template--26438285721944__rich_text_zBtQP4"
+          }
+        },
+        "column_VWcJAm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Our Customers",
+            "link": "#shopify-section-template--26438285721944__rich_text_PbbAih"
+          }
+        }
+      },
+      "block_order": [
+        "column_i6WYhy",
+        "column_ckHkQi",
+        "column_LPFAJG",
+        "column_zd84Rd",
+        "column_VWcJAm"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_fwprFV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8RUQTc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Services Tailored to You",
+            "heading_size": "h1"
+          }
+        },
+        "text_hCbtQ3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling. </p><p>We also offer a tailored private label service – when partnering with us, we offer full-service design and sourcing across home textiles, kitchen, tableware and accessories.</p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.</p>"
+          }
+        },
+        "button_6RhXFb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8RUQTc",
+        "text_hCbtQ3",
+        "button_6RhXFb"
+      ],
+      "custom_css": [
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "multicolumn_xW6BTh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YpjH4X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Slide15.jpg",
+            "title": "Market Research",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YgCB8r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Dunelm_Willow_Trail_Process_5047.jpg",
+            "title": "Design",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qpcbzP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+            "title": "Product Development",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nDKzcQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/161121DK1_277_1080px.jpg",
+            "title": "Sourcing",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hDKDmc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Account_Management_0403.jpg",
+            "title": "Account Management",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_necrm7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Showroom_Packaging_DSC_0352_v2.jpg",
+            "title": "Merchandising",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Adgzgg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BHF-TRYSC-MI_sn3.jpg",
+            "title": "Content & Photography",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xF7LfE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/chuttersnap-BNBA1h-NgdY-unsplash.jpg",
+            "title": "Stock & Delivery",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YpjH4X",
+        "column_YgCB8r",
+        "column_qpcbzP",
+        "column_nDKzcQ",
+        "column_hDKDmc",
+        "column_necrm7",
+        "column_Adgzgg",
+        "column_xF7LfE"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "button_label": "Read more on our Services",
+        "button_link": "#Banner-template--26509747519832__image_banner_tbLH6q",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "responive_image_KbRgK6": {
+      "type": "responive-image",
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/Catch_of_The_Day_LS_1200x900px.jpg",
+        "alt_text": "",
+        "color_scheme": "",
+        "width_option": "narrow",
+        "padding_top": "large",
+        "padding_bottom": "none"
+      }
+    },
+    "rich_text_GPraHE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qW67q9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Direct to Consumer",
+            "heading_size": "h1"
+          }
+        },
+        "text_3tXYty": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our DSV (Drop Ship Vendor) service lets trade partners sell direct-to-consumer without the inventory or shipping headaches. You share customer orders with us and we fulfil, pack and dispatch them straight to the end customer under your instructions.</p>"
+          }
+        },
+        "heading_hRNQqf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Use Our DSV Service?",
+            "heading_size": "h2"
+          }
+        },
+        "text_LXERcP": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Lower overheads:</strong> no need to hold or stage additional products for delivery.</li><li><strong>Faster delivery:</strong> orders move directly from our warehouses to the customer, reducing transit and handling time.</li><li><strong>Scalability:</strong> handle seasonal spikes, promotional campaigns and national rollouts without hiring seasonal staff or extra warehousing.</li><li><strong>Brand control:</strong> we can ship using courier labels with your name and logo and include your customised customer dispatch notes.</li><li><strong>Reduced returns complexity:</strong> consolidated returns handling and clear reconciliation for trade customers.</li><li><strong>Expert handling:</strong> handled by teams experienced in careful textiles packing, protective covers and quality checks on every order.</li></ul>"
+          }
+        },
+        "button_88mceQ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Request an Account",
+            "button_link": "shopify://pages/company-account-request",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qW67q9",
+        "text_3tXYty",
+        "heading_hRNQqf",
+        "text_LXERcP",
+        "button_88mceQ"
+      ],
+      "custom_css": [
+        "h2 {color: #1a1a1a;}",
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "Direct to Consumer",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 20
+      }
+    },
+    "collapsible_content_A4RDjX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_6M4fFt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Turnaround times",
+            "icon": "stopwatch",
+            "row_content": "<p>Our typical processing time is 1-3 business days from receipt of a validated order.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_N3kCkw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping options",
+            "icon": "box",
+            "row_content": "<p>Standard domestic and international options; tracked courier for all shipments by default.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3E9Peq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Minimum order/volume",
+            "icon": "clipboard",
+            "row_content": "<p>None for all DSV orders sent one-by-one.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xEdRFa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quality control",
+            "icon": "star",
+            "row_content": "<p>Each shipment goes through inspection to ensure products arrive in perfect condition.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_6M4fFt",
+        "collapsible_row_N3kCkw",
+        "collapsible_row_3E9Peq",
+        "collapsible_row_xEdRFa"
+      ],
+      "custom_css": [
+        ".collapsible-section-layout {padding-top: 0;}",
+        ".collapsible-content-wrapper-narrow {max-width: 84rem; padding-left: 3rem; padding-right: 3rem; margin-bottom: 1.5rem; margin-top: 0.15rem;}"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Operational Details & Service Levels",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "container_color_scheme": "scheme-1",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_6qcatR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nPiGGC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Getting Set Up",
+            "heading_size": "h2"
+          }
+        },
+        "text_8j6BLJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We require customers to apply for a Company Account in order to access our DSV service. Click through to the short application form below, and leave the rest to us! We expect your application to be reviewed and (if approved) set up within 3-5 business days. From there, you'll be able to see exclusive pricing and easily buy what you need for your business.</p><p>For more information on getting set up and our DSV process, please read our FAQs.</p>"
+          }
+        },
+        "button_atC9xK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read our FAQs",
+            "button_link": "shopify://pages/faqs",
+            "button_style_secondary": false,
+            "button_label_2": "Request an Account",
+            "button_link_2": "shopify://pages/company-account-request",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nPiGGC",
+        "text_8j6BLJ",
+        "button_atC9xK"
+      ],
+      "name": "Direct to Consumer",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 48
+      }
+    },
+    "multicolumn_c3fUUq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XLHmwY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Appletree_x_Ginger_Home_Malaysia_2x_e1770cca-2d3a-4f0b-af7f-61ac9fbc56d4.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6UzTWW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Cocette___Co_France_2x_65588dd5-1048-490b-9b15-4eb61ca313fa.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_J4bxFA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Trippoltz_Umbaeren_Austria_2x_a87fecf3-7456-4493-8c39-3896bb6e7cc9.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8k9QUe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Webbs_of_Tenterden_Kent_UK_2x_e05ee98b-c154-4971-bd5e-581f3222ac6e.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JX9RhJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Solprateado_Portugal_2x_4af2b374-01d2-4401-a194-777d6d5779d3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CLmU8V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Pod_Shop_Bristol_UK_2x_1cfd8e83-eb00-44cd-86af-7ecd9cabbadc.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kLmNaY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Speckled_Hen_Australia_2x_310259f3-f28d-4104-bb0b-8d9f9307e913.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_renjmy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Window_Panes_USA_2x_e71877b2-bb95-4e48-87b0-96dfff913425.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XLHmwY",
+        "column_6UzTWW",
+        "column_J4bxFA",
+        "column_8k9QUe",
+        "column_JX9RhJ",
+        "column_CLmU8V",
+        "column_kLmNaY",
+        "column_renjmy"
+      ],
+      "custom_css": [
+        ".multicolumn-card__image-wrapper {padding: 10px; margin: 0;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "#Banner-template--26509747519832__image_banner_tbLH6q",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "responive_image_WBkFgE": {
+      "type": "responive-image",
+      "custom_css": [
+        ".responsive-image-section {background-color: #fff;}"
+      ],
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/Dunelm_Floral_Process_0015_1200x800px.jpg",
+        "alt_text": "",
+        "color_scheme": "scheme-2",
+        "width_option": "narrow",
+        "padding_top": "large",
+        "padding_bottom": "none"
+      }
+    },
+    "rich_text_jAbEN4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MHphma": {
+          "type": "heading",
+          "settings": {
+            "heading": "Private Label",
+            "heading_size": "h1"
+          }
+        },
+        "text_zmkk9Y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper. Suspendisse consectetur, nisi sed luctus vehicula, enim tellus pellentesque arcu, ac rutrum augue felis ut tellus. Mauris facilisis ut purus sed venenatis.</p><p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer tincidunt nibh dignissim, semper libero ut, efficitur eros. Donec dapibus justo in lectus aliquam tristique. Integer scelerisque laoreet nunc, ac commodo sem imperdiet a. Fusce nec massa pulvinar, condimentum ipsum vitae, tincidunt enim. Cras mollis, ligula a semper accumsan, lorem turpis porta tellus, vel tempus odio nulla vel arcu. Morbi tincidunt orci id tortor ullamcorper dapibus eget vitae massa.</p><p>In at turpis id felis varius fermentum tincidunt vitae turpis. In elit augue, interdum et nunc ut, luctus dignissim orci. Donec porta accumsan varius. Ut eros erat, tempus et pellentesque sed, lacinia id sem. Duis nec mauris vehicula, porta nulla ac, tincidunt dolor. Suspendisse in tortor a neque tempus pretium eu id risus. In eget varius nulla, ac ultrices justo. Donec tristique, ipsum a vestibulum fermentum, sapien felis luctus sem, non aliquet felis enim eu elit. Donec arcu dolor, scelerisque sed turpis facilisis, dignissim pulvinar dui.</p>"
+          }
+        },
+        "button_nQrG99": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read our FAQs",
+            "button_link": "shopify://pages/faqs",
+            "button_style_secondary": false,
+            "button_label_2": "Contact us",
+            "button_link_2": "shopify://pages/contact",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MHphma",
+        "text_zmkk9Y",
+        "button_nQrG99"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "image_banner_tbLH6q": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_cCHKEj": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "International Collaboration",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ljmn6d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_GBcLjn": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cCHKEj",
+        "text_Ljmn6d",
+        "buttons_GBcLjn"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/D_D_AW25_Autumn_Foliage_Process_Banner_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-5",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_zBtQP4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XFF3PN": {
+          "type": "heading",
+          "settings": {
+            "heading": "All Services",
+            "heading_size": "h1"
+          }
+        },
+        "text_6PMwpL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper.</p>"
+          }
+        },
+        "button_dJAyGq": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XFF3PN",
+        "text_6PMwpL",
+        "button_dJAyGq"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_Afkegf": {
+      "type": "multirow",
+      "blocks": {
+        "row_nMibHz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Slide15.jpg",
+            "caption": "",
+            "heading": "It Starts With Insight...",
+            "text": "<p>We ground our design strategy in thoughtful market research, drawing on global trend analysis and consumer insight from several leading forecasting platforms. Through extensive travel and trend exploration, we stay ahead of emerging trends in the home and interiors space. </p><p>Actively working to identify opportunities and gaps, we used all these insights to develop beautiful collections that are commercially viable and aligned with brand and customer needs.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_3eBXX3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Dunelm_Willow_Trail_Process_5047.jpg",
+            "caption": "",
+            "heading": "15,000 Designs and Counting.",
+            "text": "<p>Creativity is at our core, whether it’s hand-painted illustrations from one of our talented artists, clever digitally drawn patterns, or designs from our extensive archive of heritage prints. </p><p>Our designers work collaboratively to create designs that are beautiful, commercial, and aligned with our brand stories.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_eaqJWH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+            "caption": "",
+            "heading": "Not Just Products. Collections.",
+            "text": "<p>Our product development approach combines creativity, collaboration, and commercial focus. Informed by trend intelligence and consumer insights, we work collaboratively with customers to turn design concepts into well-developed, market-ready homeware products. </p><p>From everyday essentials to elevated pieces, our collections are designed and developed to be relevant, flexible, and commercially successful across a variety of homeware categories.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_FQWjcP": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/161121DK1_277_1080px.jpg",
+            "caption": "",
+            "heading": "Sourcing That Delivers.",
+            "text": "<p>Our Teams source product with quality and sustainability at the heart of their development. Our factories have been hand-picked to ensure we are always trading ethically, following strict auditing procedure, and implementing processes that are kind to the local environment. These products carry our sustainably sourced, ethically made logo.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_tJCKmY": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Account_Management_0403.jpg",
+            "caption": "",
+            "heading": "Account Support You Can Depend On.",
+            "text": "<p>Our professional and friendly Account Management team offers personalised support and clear, consistent communication at every stage. </p><p>From early product development to final delivery, we oversee a smooth, responsive process – one that we’re always improving to make collaboration feel effortless.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_4atknm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Showroom_Packaging_DSC_0352_v2.jpg",
+            "caption": "",
+            "heading": "Retail-Ready. Online Optimised.",
+            "text": "<p>We run a full suite of merchandising services, from multi-language packaging and barcode preparation, to tailored visual merchandising support. </p><p>Each and every detail is considered to ensure your product arrives shelf-ready, web-ready, and primed for standout performance on a global scale.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mYMHrR": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/BHF-DPLAT-MI_sn3.jpg",
+            "caption": "",
+            "heading": "Your Content Team in the Background.",
+            "text": "<p>Our creative team are here to give your products the perfect lift – we offer cohesive storytelling through fresh lifestyle imagery, product shots, and bespoke graphics for web and beyond.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_zDjznk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/chuttersnap-BNBA1h-NgdY-unsplash.jpg",
+            "caption": "",
+            "heading": "Global Fulfilment. Local Reliability.",
+            "text": "<p>With distribution centres in the UK and US, and a responsive logistics network, we ensure that every order arrives on time, in full, and fit for shelf, site or doorstep. </p><p>Backed by accurate forecasting, ongoing promotional support, and full delivery visibility, you can trade with complete confidence.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_nMibHz",
+        "row_3eBXX3",
+        "row_eaqJWH",
+        "row_FQWjcP",
+        "row_tJCKmY",
+        "row_4atknm",
+        "row_mYMHrR",
+        "row_zDjznk"
+      ],
+      "custom_css": [
+        ".image-with-text__media--small {height: 390px;}",
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "image_layout": "alternate-left",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-2",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_PbbAih": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jU8Cr7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Customers",
+            "heading_size": "h1"
+          }
+        },
+        "text_azqKYq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at purus non ligula placerat sagittis. In posuere lacinia finibus. Curabitur ornare dui mi, sed euismod massa blandit et. Mauris eu tellus a erat placerat efficitur. Nunc facilisis in urna at venenatis. Donec id elementum elit. </p><p>Duis eget sem pellentesque, efficitur augue a, interdum sem. Donec sagittis a ante nec luctus. Sed pretium aliquam neque, ullamcorper semper orci pharetra sit amet. Vestibulum nec erat et turpis dictum malesuada.</p><p>Donec malesuada facilisis bibendum. Suspendisse at vestibulum magna, at euismod nulla. Duis quam dolor, faucibus non purus quis, laoreet consectetur sem. </p>"
+          }
+        },
+        "button_FbaTyY": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jU8Cr7",
+        "text_azqKYq",
+        "button_FbaTyY"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "multicolumn_GU4Nnk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kgGdR9": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 1",
+            "text": "<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QRNBpn": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 2",
+            "text": "<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CeWjBc": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 3",
+            "text": "<p>\"We love seeing the brands evolve with each season, and so do our customers.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nKgXfU": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 4",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hgwd87": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 5",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6QJ6y3": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 6",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9wWemX": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 7",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HKDBFt": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 8",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kgGdR9",
+        "column_QRNBpn",
+        "column_CeWjBc",
+        "column_nKgXfU",
+        "column_hgwd87",
+        "column_6QJ6y3",
+        "column_9wWemX",
+        "column_HKDBFt"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "responive_image_QNfPNc": {
+      "type": "responive-image",
+      "custom_css": [
+        ".responsive-image-section {background-color: #fff;}"
+      ],
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/161121DK1_228_1200px.jpg",
+        "alt_text": "",
+        "color_scheme": "scheme-2",
+        "width_option": "narrow",
+        "padding_top": "large",
+        "padding_bottom": "none"
+      }
+    },
+    "image_banner_GfbKca": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_m6pmze": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Customers",
+            "heading_size": "h1"
+          }
+        },
+        "text_AdUW6F": {
+          "type": "text",
+          "settings": {
+            "text": "We work with a number of businesses",
+            "text_style": "body"
+          }
+        },
+        "buttons_i8WWLD": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_m6pmze",
+        "text_AdUW6F",
+        "buttons_i8WWLD"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Our_Customers_Banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "ambient",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-5",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_RnGYpt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hRXrrY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's Build Something Together",
+            "heading_size": "h1"
+          }
+        },
+        "text_TCnkwe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>[Process of requesting a Company Account for D2C]</p><p>[Process of expressing interest in private label] If you'd like to ask a question or chat with us in more detail, please contact our friendly Sales Team.</p>"
+          }
+        },
+        "button_zDMYeP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request an Account",
+            "button_link": "shopify://pages/company-account-request",
+            "button_style_secondary": false,
+            "button_label_2": "Contact us",
+            "button_link_2": "shopify://pages/contact",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hRXrrY",
+        "text_TCnkwe",
+        "button_zDMYeP"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "1763126440e0b0415e",
+    "main",
+    "image_banner_p8CBLe",
+    "176312754100ce0da6",
+    "multicolumn_nEMCbX",
+    "rich_text_fwprFV",
+    "multicolumn_xW6BTh",
+    "responive_image_KbRgK6",
+    "rich_text_GPraHE",
+    "collapsible_content_A4RDjX",
+    "rich_text_6qcatR",
+    "multicolumn_c3fUUq",
+    "responive_image_WBkFgE",
+    "rich_text_jAbEN4",
+    "image_banner_tbLH6q",
+    "rich_text_zBtQP4",
+    "multirow_Afkegf",
+    "rich_text_PbbAih",
+    "multicolumn_GU4Nnk",
+    "responive_image_QNfPNc",
+    "image_banner_GfbKca",
+    "rich_text_RnGYpt"
+  ]
+}
