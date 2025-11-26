@@ -163,7 +163,7 @@
       },
       "11603319826519071303": {
         "type": "shopify://apps/q-b2b-wholesale-hide-price/blocks/omgrfq_script/6ae96252-e178-41e6-b102-e65f89a82876",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     },
