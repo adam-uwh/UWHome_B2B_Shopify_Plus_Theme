@@ -21,9 +21,50 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1764169994a2d69b1d": {
+      "type": "apps",
+      "blocks": {
+        "b2b_bulk_order_csv_upload_quick_order_GKTK7y": {
+          "type": "shopify://apps/b2b-bulk-order-csv-upload/blocks/quick-order/b91f1957-9831-4558-a9bd-a04919462f16",
+          "settings": {
+            "text_color": "#303030",
+            "button_color": "#121212",
+            "button_background_color": "#ffffff",
+            "button_border_color": "#121212",
+            "active_button_background_color": "#303030",
+            "active_button_text_color": "#ffffff",
+            "input_box_background_color": "#f3f3f3",
+            "input_box_border_color": "#efecec",
+            "multi_line_text_color": "#242833",
+            "file_upload_text_color": "#121212",
+            "success": "#939393",
+            "error": "#f44336",
+            "instruction_text_color": "#303030",
+            "instruction_background_color": "#ffffff",
+            "summary_table_border_color": "#e2dede",
+            "summary_table_header_background_color": "#f7f7f7",
+            "summary_table_background_color": "#ffffff",
+            "summary_table_text_color": "#303030",
+            "summary_table_actions": "#939393",
+            "button_font_size": 14,
+            "input_font_size": 15,
+            "global_font_size": 15,
+            "heading_font_size": 16,
+            "download_catalog_button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "b2b_bulk_order_csv_upload_quick_order_GKTK7y"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1764169994a2d69b1d"
   ]
 }
