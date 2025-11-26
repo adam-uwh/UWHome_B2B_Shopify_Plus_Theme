@@ -160,6 +160,11 @@
         "type": "shopify://apps/globo-mega-menu/blocks/app-embed/7a00835e-fe40-45a5-a615-2eb4ab697b58",
         "disabled": false,
         "settings": {}
+      },
+      "11603319826519071303": {
+        "type": "shopify://apps/q-b2b-wholesale-hide-price/blocks/omgrfq_script/6ae96252-e178-41e6-b102-e65f89a82876",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
