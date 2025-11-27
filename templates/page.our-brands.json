@@ -9,10 +9,6 @@
  */
 {
   "sections": {
-    "1763126440e0b0415e": {
-      "type": "_blocks",
-      "settings": {}
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -129,82 +125,6 @@
       ],
       "settings": {}
     },
-    "multicolumn_nEMCbX": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_i6WYhy": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Who We Are",
-            "link": "shopify://pages/about-us"
-          }
-        },
-        "column_ckHkQi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Our Evolution",
-            "link": "#shopify-section-template--26438285721944__rich_text_MUzxed"
-          }
-        },
-        "column_LPFAJG": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Mission & Values",
-            "link": "#shopify-section-template--26438285721944__responive_image_BMGLpU"
-          }
-        },
-        "column_zd84Rd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Global Collaboration",
-            "link": "#shopify-section-template--26438285721944__rich_text_zBtQP4"
-          }
-        },
-        "column_VWcJAm": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Our Customers",
-            "link": "#shopify-section-template--26438285721944__rich_text_PbbAih"
-          }
-        }
-      },
-      "block_order": [
-        "column_i6WYhy",
-        "column_ckHkQi",
-        "column_LPFAJG",
-        "column_zd84Rd",
-        "column_VWcJAm"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "color_scheme": "scheme-5",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_fwprFV": {
       "type": "rich-text",
       "blocks": {
@@ -220,24 +140,11 @@
           "settings": {
             "text": "<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, and lifestyle focus. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling.</p>"
           }
-        },
-        "button_6RhXFb": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_8RUQTc",
-        "text_hCbtQ3",
-        "button_6RhXFb"
+        "text_hCbtQ3"
       ],
       "custom_css": [
         "p {text-wrap: pretty;}"
@@ -389,423 +296,6 @@
         "padding_bottom": 60
       }
     },
-    "responive_image_KbRgK6": {
-      "type": "responive-image",
-      "disabled": true,
-      "name": "Responsive Image",
-      "settings": {
-        "image": "shopify://shop_images/Catch_of_The_Day_LS_1200x900px.jpg",
-        "alt_text": "",
-        "color_scheme": "",
-        "width_option": "narrow",
-        "padding_top": "large",
-        "padding_bottom": "none"
-      }
-    },
-    "rich_text_GPraHE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_qW67q9": {
-          "type": "heading",
-          "settings": {
-            "heading": "Direct to Consumer",
-            "heading_size": "h1"
-          }
-        },
-        "text_3tXYty": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our DSV (Drop Ship Vendor) service lets trade partners sell direct-to-consumer without the inventory or shipping headaches. You share customer orders with us and we fulfil, pack and dispatch them straight to the end customer under your instructions.</p>"
-          }
-        },
-        "heading_hRNQqf": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why Use Our DSV Service?",
-            "heading_size": "h2"
-          }
-        },
-        "text_LXERcP": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Lower overheads:</strong> no need to hold or stage additional products for delivery.</li><li><strong>Faster delivery:</strong> orders move directly from our warehouses to the customer, reducing transit and handling time.</li><li><strong>Scalability:</strong> handle seasonal spikes, promotional campaigns and national rollouts without hiring seasonal staff or extra warehousing.</li><li><strong>Brand control:</strong> we can ship using courier labels with your name and logo and include your customised customer dispatch notes.</li><li><strong>Reduced returns complexity:</strong> consolidated returns handling and clear reconciliation for trade customers.</li><li><strong>Expert handling:</strong> handled by teams experienced in careful textiles packing, protective covers and quality checks on every order.</li></ul>"
-          }
-        },
-        "button_88mceQ": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Request an Account",
-            "button_link": "shopify://pages/company-account-request",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_qW67q9",
-        "text_3tXYty",
-        "heading_hRNQqf",
-        "text_LXERcP",
-        "button_88mceQ"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {color: #1a1a1a;}",
-        "p {text-wrap: pretty;}"
-      ],
-      "name": "Direct to Consumer",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 20
-      }
-    },
-    "collapsible_content_A4RDjX": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_6M4fFt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Turnaround times",
-            "icon": "stopwatch",
-            "row_content": "<p>Our typical processing time is 1-3 business days from receipt of a validated order.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_N3kCkw": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Shipping options",
-            "icon": "box",
-            "row_content": "<p>Standard domestic and international options; tracked courier for all shipments by default.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_3E9Peq": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Minimum order/volume",
-            "icon": "clipboard",
-            "row_content": "<p>None for all DSV orders sent one-by-one.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_xEdRFa": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Quality control",
-            "icon": "star",
-            "row_content": "<p>Each shipment goes through inspection to ensure products arrive in perfect condition.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_6M4fFt",
-        "collapsible_row_N3kCkw",
-        "collapsible_row_3E9Peq",
-        "collapsible_row_xEdRFa"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".collapsible-section-layout {padding-top: 0;}",
-        ".collapsible-content-wrapper-narrow {max-width: 84rem; padding-left: 3rem; padding-right: 3rem; margin-bottom: 1.5rem; margin-top: 0.15rem;}"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "",
-        "heading": "Operational Details & Service Levels",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "none",
-        "container_color_scheme": "scheme-1",
-        "color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 0,
-        "padding_bottom": 20
-      }
-    },
-    "rich_text_6qcatR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nPiGGC": {
-          "type": "heading",
-          "settings": {
-            "heading": "Getting Set Up",
-            "heading_size": "h2"
-          }
-        },
-        "text_8j6BLJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We require customers to apply for a Company Account in order to access our DSV service. Click through to the short application form below, and leave the rest to us! We expect your application to be reviewed and (if approved) set up within 3-5 business days. From there, you'll be able to see exclusive pricing and easily buy what you need for your business.</p><p>For more information on getting set up and our DSV process, please read our FAQs.</p>"
-          }
-        },
-        "button_atC9xK": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read our FAQs",
-            "button_link": "shopify://pages/faqs",
-            "button_style_secondary": false,
-            "button_label_2": "Request an Account",
-            "button_link_2": "shopify://pages/company-account-request",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_nPiGGC",
-        "text_8j6BLJ",
-        "button_atC9xK"
-      ],
-      "disabled": true,
-      "name": "Direct to Consumer",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 48
-      }
-    },
-    "multicolumn_c3fUUq": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_XLHmwY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Appletree_x_Ginger_Home_Malaysia_2x_e1770cca-2d3a-4f0b-af7f-61ac9fbc56d4.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6UzTWW": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Cocette___Co_France_2x_65588dd5-1048-490b-9b15-4eb61ca313fa.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_J4bxFA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Trippoltz_Umbaeren_Austria_2x_a87fecf3-7456-4493-8c39-3896bb6e7cc9.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_8k9QUe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Webbs_of_Tenterden_Kent_UK_2x_e05ee98b-c154-4971-bd5e-581f3222ac6e.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_JX9RhJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Solprateado_Portugal_2x_4af2b374-01d2-4401-a194-777d6d5779d3.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_CLmU8V": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Pod_Shop_Bristol_UK_2x_1cfd8e83-eb00-44cd-86af-7ecd9cabbadc.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_kLmNaY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Speckled_Hen_Australia_2x_310259f3-f28d-4104-bb0b-8d9f9307e913.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_renjmy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Post_Ulster_Weavers_x_Window_Panes_USA_2x_e71877b2-bb95-4e48-87b0-96dfff913425.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_XLHmwY",
-        "column_6UzTWW",
-        "column_J4bxFA",
-        "column_8k9QUe",
-        "column_JX9RhJ",
-        "column_CLmU8V",
-        "column_kLmNaY",
-        "column_renjmy"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".multicolumn-card__image-wrapper {padding: 10px; margin: 0;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "#Banner-template--26509747519832__image_banner_tbLH6q",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 60
-      }
-    },
-    "responive_image_WBkFgE": {
-      "type": "responive-image",
-      "disabled": true,
-      "custom_css": [
-        ".responsive-image-section {background-color: #fff;}"
-      ],
-      "name": "Responsive Image",
-      "settings": {
-        "image": "shopify://shop_images/Dunelm_Floral_Process_0015_1200x800px.jpg",
-        "alt_text": "",
-        "color_scheme": "scheme-2",
-        "width_option": "narrow",
-        "padding_top": "large",
-        "padding_bottom": "none"
-      }
-    },
-    "rich_text_jAbEN4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MHphma": {
-          "type": "heading",
-          "settings": {
-            "heading": "Private Label",
-            "heading_size": "h1"
-          }
-        },
-        "text_zmkk9Y": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper. Suspendisse consectetur, nisi sed luctus vehicula, enim tellus pellentesque arcu, ac rutrum augue felis ut tellus. Mauris facilisis ut purus sed venenatis.</p><p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer tincidunt nibh dignissim, semper libero ut, efficitur eros. Donec dapibus justo in lectus aliquam tristique. Integer scelerisque laoreet nunc, ac commodo sem imperdiet a. Fusce nec massa pulvinar, condimentum ipsum vitae, tincidunt enim. Cras mollis, ligula a semper accumsan, lorem turpis porta tellus, vel tempus odio nulla vel arcu. Morbi tincidunt orci id tortor ullamcorper dapibus eget vitae massa.</p><p>In at turpis id felis varius fermentum tincidunt vitae turpis. In elit augue, interdum et nunc ut, luctus dignissim orci. Donec porta accumsan varius. Ut eros erat, tempus et pellentesque sed, lacinia id sem. Duis nec mauris vehicula, porta nulla ac, tincidunt dolor. Suspendisse in tortor a neque tempus pretium eu id risus. In eget varius nulla, ac ultrices justo. Donec tristique, ipsum a vestibulum fermentum, sapien felis luctus sem, non aliquet felis enim eu elit. Donec arcu dolor, scelerisque sed turpis facilisis, dignissim pulvinar dui.</p>"
-          }
-        },
-        "button_nQrG99": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read our FAQs",
-            "button_link": "shopify://pages/faqs",
-            "button_style_secondary": false,
-            "button_label_2": "Contact us",
-            "button_link_2": "shopify://pages/contact",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_MHphma",
-        "text_zmkk9Y",
-        "button_nQrG99"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "scheme-2",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 48
-      }
-    },
-    "image_banner_tbLH6q": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_cCHKEj": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "International Collaboration",
-            "heading_size": "h1"
-          }
-        },
-        "text_Ljmn6d": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_GBcLjn": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_cCHKEj",
-        "text_Ljmn6d",
-        "buttons_GBcLjn"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/D_D_AW25_Autumn_Foliage_Process_Banner_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false,
-        "color_scheme": "scheme-5",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
     "rich_text_zBtQP4": {
       "type": "rich-text",
       "blocks": {
@@ -850,11 +340,543 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_N8g6tX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FdXw39": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fusion",
+            "heading_size": "h1"
+          }
+        },
+        "text_YQN4UW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fusion brings fashion to your home with bold prints, vibrant colours, and trend-led designs that feel like home. From playful conversation prints to striking stripes, gorgeous geometrics and bold botanicals, these ranges are all about self-expression and standout style. Whether you're updating your bedroom or refreshing your signature style, Fusion blends personality, practicality, and feel-good designs.</p><p><strong>Designed by us. Loved by you.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_xbXAjy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/fusion",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FdXw39",
+        "text_YQN4UW",
+        "button_xbXAjy"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_wCqMKM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4ir4Uz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Serene",
+            "heading_size": "h1"
+          }
+        },
+        "text_amjNMF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Soft textures. Restful calm. This is how Serene transforms everyday spaces into personal havens, elevating sleep with tantalising finishes and styles that feel soft and soothing. Effortless to care for and timeless in style, Serene's bedding transforms any bedroom into a cocoon of understated luxury.</p><p><strong>Sink into softness, night after night.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_yEDAp8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/serene",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4ir4Uz",
+        "text_amjNMF",
+        "button_yEDAp8"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_UBwWrg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jMtip8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dreams & Drapes",
+            "heading_size": "h1"
+          }
+        },
+        "text_QH7n8Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dreams & Drapes is a British heritage brand offering timeless bedding collections with a classic touch. Inspired by traditional and archive-inspired florals, Jacobean patterns, and decorative motifs, our designs bring refined character and understated elegance to every bedroom.</p><p>With fully coordinated ranges across bedding, curtains, and cushions, Dreams & Drapes makes it easy to create a beautifully layered look that’s full of charm and lasting character. </p><p><strong>Timeless style, beautifully made.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_P7EAnk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/dreams-drapes",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jMtip8",
+        "text_QH7n8Q",
+        "button_P7EAnk"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/BS8-DCSET-NY_sn1.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "image_banner_qg3ABB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GxgrHG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Appletree",
+            "heading_size": "h1"
+          }
+        },
+        "text_4jdwAt": {
+          "type": "text",
+          "settings": {
+            "text": "Appletree offers thoughtfully curated bedding and home accessories that combine modern trends with sophistication. Each collection is defined by considered patterns, elegant textures, and crafted from premium cotton fabrics and sumptuous sateen weaves, bringing a sense of quiet luxury to everyday spaces. Appletree delivers elevated looks that feel current, confident, and effortlessly refined. <strong>Quiet luxury, everyday.</strong>",
+            "text_style": "body"
+          }
+        },
+        "buttons_7rxYJi": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/appletree",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GxgrHG",
+        "text_4jdwAt",
+        "buttons_7rxYJi"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "left",
+        "show_text_below": true
+      }
+    },
+    "image_with_text_UVNhTj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Q8iRjg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soirée",
+            "heading_size": "h1"
+          }
+        },
+        "text_QG7bRk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Soirée is the epitome of elegance, where chic meets uncompromising quality. Each season, our curated bedding collections blend crisp cotton-sateen with sumptuous faux furs and velvets, transforming the bedroom into a lavish sanctuary. Featuring this season’s most coveted colours and statement prints, our designs invite effortless layering of rich textures and sophisticated, trend-led style. </p><p><strong>Luxury in every detail. Beautiful sleep, redefined.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_KnMqar": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/soiree",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q8iRjg",
+        "text_QG7bRk",
+        "button_KnMqar"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/MD0-DCSET-NY_sn1.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 60,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_HiN7HH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_L9kVAF": {
+          "type": "heading",
+          "settings": {
+            "heading": "House Llewelyn-Bowen",
+            "heading_size": "h1"
+          }
+        },
+        "text_ALcxRw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover truly luxurious style from the king of interiors himself. Exclusively designed by Laurence Llewelyn-Bowen, these collections fuse theatrical flair with uncompromising quality to achieve ultimate opulence.</p><p>LLB brings a stylish and stately experience into the home, across bedding, accessories, and now dining too. Rooted in Laurence’s visionary design and meticulous craftsmanship, every piece delivers enduring luxury and show-stopping style, so every moment at home feels like a grand performance.</p><p><strong>Sleep in splendour.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_EWXgaL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/laurence-llewelyn-bowen",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_L9kVAF",
+        "text_ALcxRw",
+        "button_EWXgaL"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_Nn38wf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_drYrXR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ulster Weavers",
+            "heading_size": "h1"
+          }
+        },
+        "text_RKfr6A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ulster Weavers has been brightening homes for over 60 years with beautiful kitchen textiles and more recently, ceramics and serveware. </p><p>Full of colour, pattern and personality, every piece is designed to be practical, stylish and perfect for everyday life. Our craftsmanship consistently displays our passion for quality products.</p><p><strong>Home, made more.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_FNzjhg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/ulster-weavers",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_drYrXR",
+        "text_RKfr6A",
+        "button_FNzjhg"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/CF3-MUGBC-MI_sn3.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_NCEfwE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MxNLhq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bedlam",
+            "heading_size": "h1"
+          }
+        },
+        "text_d6J9dF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bedlam is a design-led children’s bedding brand offering hand-painted, interactive collections that spark boundless creativity and playful exploration. Mix-and-match themes, reversible styles and evolving motifs that grow with your child, turning every room update into a fresh adventure. </p><p>With playful surprises like glow-in-the-dark prints and soft, easy-care fabrics, Bedlam makes bedtime routines fun for kids, perfect for big dreams and a great night’s sleep.</p><p><strong>Dream big. Sleep soundly.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_gjUec9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/bedlam",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MxNLhq",
+        "text_d6J9dF",
+        "button_gjUec9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/CUI-DCSET-MI_sn1.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "image_banner_8fyKBx": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_T8hEXH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ulster Weavers",
+            "heading_size": "h1"
+          }
+        },
+        "text_ctWcez": {
+          "type": "text",
+          "settings": {
+            "text": "Ulster Weavers has been brightening homes for over 60 years with beautiful kitchen textiles and more recently, ceramics and serveware. Full of colour, pattern and personality, every piece is designed to be practical, stylish and perfect for everyday life. Our craftsmanship consistently displays our passion for quality products.<strong>Home, made more.</strong>",
+            "text_style": "body"
+          }
+        },
+        "buttons_JRtDNi": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/ulster-weavers",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_T8hEXH",
+        "text_ctWcez",
+        "buttons_JRtDNi"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/97750aea-9620-4c0f-a1f3-f4344ca6b205.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "left",
+        "show_text_below": true
+      }
+    },
+    "image_with_text_fPeRHP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6Y3e3E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Curtina",
+            "heading_size": "h1"
+          }
+        },
+        "text_mNGTT9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Curtina is a leading brand of ready-made curtains, offering a wide variety of designs, textures, and colours to suit every home. Crafted from high quality and durable fabrics, our collections blend everyday elegance with practical functionality, delivering instant style that endures. With Curtina, you can transform any room quickly, confidently, and with lasting impact.</p><p><strong>Elevate your space with timeless style.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_KVtb9y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/curtina",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Y3e3E",
+        "text_mNGTT9",
+        "button_KVtb9y"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/TAL-CURTE-NL_sn1_bcccb5b3-e87f-4d59-a708-ad645dcff3fd.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_UwCEpP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dM6jWV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Drift Home",
+            "heading_size": "h1"
+          }
+        },
+        "text_t7x7ET": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every detail counts in creating the perfect sanctuary, which is our range from Drift Home is full of layerable throws and cushions, all made from the softest blend of recycled materials. Designed in calming, natural shades, each piece makes house feel like home.</p><p>Our curated selection of Drift bedding, adorned in beautiful nature-inspired prints, ensures better sleep with its soft cotton blends and ethical sourcing.</p><p><strong>Soothing style, crafted for comfort.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_3L6ppe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/drift",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dM6jWV",
+        "text_t7x7ET",
+        "button_3L6ppe"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Hayden_throw_natural_5.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
     "multirow_Afkegf": {
       "type": "multirow",
       "blocks": {
         "row_3eBXX3": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
             "caption": "",
@@ -866,6 +888,7 @@
         },
         "row_eaqJWH": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
             "caption": "",
@@ -877,6 +900,7 @@
         },
         "row_FQWjcP": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/BS8-DCSET-NY_sn1.jpg",
             "caption": "",
@@ -888,6 +912,7 @@
         },
         "row_nMibHz": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
             "caption": "",
@@ -899,6 +924,7 @@
         },
         "row_tJCKmY": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/MD0-DCSET-NY_sn1.jpg",
             "caption": "",
@@ -910,6 +936,7 @@
         },
         "row_4atknm": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
             "caption": "",
@@ -921,6 +948,7 @@
         },
         "row_VyAjkG": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/CF3-MUGBC-MI_sn3.jpg",
             "caption": "",
@@ -932,6 +960,7 @@
         },
         "row_mYMHrR": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/TAL-CURTE-NL_sn1_bcccb5b3-e87f-4d59-a708-ad645dcff3fd.jpg",
             "caption": "",
@@ -943,6 +972,7 @@
         },
         "row_zDjznk": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/CUI-DCSET-MI_sn1.jpg",
             "caption": "",
@@ -976,6 +1006,7 @@
         "row_zDjznk",
         "row_KJ4rA7"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__media--small {height: 480px;}",
         "p {text-wrap: pretty;}"
@@ -997,156 +1028,6 @@
         "padding_bottom": 60
       }
     },
-    "rich_text_PbbAih": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jU8Cr7": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Customers",
-            "heading_size": "h1"
-          }
-        },
-        "text_azqKYq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at purus non ligula placerat sagittis. In posuere lacinia finibus. Curabitur ornare dui mi, sed euismod massa blandit et. Mauris eu tellus a erat placerat efficitur. Nunc facilisis in urna at venenatis. Donec id elementum elit. </p><p>Duis eget sem pellentesque, efficitur augue a, interdum sem. Donec sagittis a ante nec luctus. Sed pretium aliquam neque, ullamcorper semper orci pharetra sit amet. Vestibulum nec erat et turpis dictum malesuada.</p><p>Donec malesuada facilisis bibendum. Suspendisse at vestibulum magna, at euismod nulla. Duis quam dolor, faucibus non purus quis, laoreet consectetur sem. </p>"
-          }
-        },
-        "button_FbaTyY": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_jU8Cr7",
-        "text_azqKYq",
-        "button_FbaTyY"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "scheme-2",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 48
-      }
-    },
-    "multicolumn_GU4Nnk": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kgGdR9": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 1",
-            "text": "<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QRNBpn": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 2",
-            "text": "<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_CeWjBc": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 3",
-            "text": "<p>\"We love seeing the brands evolve with each season, and so do our customers.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_nKgXfU": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 4",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hgwd87": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 5",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6QJ6y3": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 6",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9wWemX": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 7",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HKDBFt": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 8",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_kgGdR9",
-        "column_QRNBpn",
-        "column_CeWjBc",
-        "column_nKgXfU",
-        "column_hgwd87",
-        "column_6QJ6y3",
-        "column_9wWemX",
-        "column_HKDBFt"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 60
-      }
-    },
     "responive_image_QNfPNc": {
       "type": "responive-image",
       "custom_css": [
@@ -1160,57 +1041,6 @@
         "width_option": "narrow",
         "padding_top": "large",
         "padding_bottom": "none"
-      }
-    },
-    "image_banner_GfbKca": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_m6pmze": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Customers",
-            "heading_size": "h1"
-          }
-        },
-        "text_AdUW6F": {
-          "type": "text",
-          "settings": {
-            "text": "We work with a number of businesses",
-            "text_style": "body"
-          }
-        },
-        "buttons_i8WWLD": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_m6pmze",
-        "text_AdUW6F",
-        "buttons_i8WWLD"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Our_Customers_Banner.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "image_behavior": "ambient",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "scheme-5",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
       }
     },
     "rich_text_RnGYpt": {
@@ -1258,27 +1088,25 @@
     }
   },
   "order": [
-    "1763126440e0b0415e",
     "main",
     "image_banner_p8CBLe",
     "176312754100ce0da6",
-    "multicolumn_nEMCbX",
     "rich_text_fwprFV",
     "multicolumn_xW6BTh",
-    "responive_image_KbRgK6",
-    "rich_text_GPraHE",
-    "collapsible_content_A4RDjX",
-    "rich_text_6qcatR",
-    "multicolumn_c3fUUq",
-    "responive_image_WBkFgE",
-    "rich_text_jAbEN4",
-    "image_banner_tbLH6q",
     "rich_text_zBtQP4",
+    "image_with_text_N8g6tX",
+    "image_with_text_wCqMKM",
+    "image_with_text_UBwWrg",
+    "image_banner_qg3ABB",
+    "image_with_text_UVNhTj",
+    "image_with_text_HiN7HH",
+    "image_with_text_Nn38wf",
+    "image_with_text_NCEfwE",
+    "image_banner_8fyKBx",
+    "image_with_text_fPeRHP",
+    "image_with_text_UwCEpP",
     "multirow_Afkegf",
-    "rich_text_PbbAih",
-    "multicolumn_GU4Nnk",
     "responive_image_QNfPNc",
-    "image_banner_GfbKca",
     "rich_text_RnGYpt"
   ]
 }
