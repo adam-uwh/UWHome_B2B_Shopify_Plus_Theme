@@ -24,9 +24,9 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".text-body {font-family: Avenir, sans serif !important;}",
-        ".select__select {font-family: Avenir, sans serif !important;}",
-        ".facet-filters {font-family: Avenir, sans serif !important;}",
+        ".text-body {font-family: Avenir, Raleway, sans serif !important;}",
+        ".select__select {font-family: Avenir, Raleway, sans serif !important;}",
+        ".facet-filters {font-family: Avenir, Raleway, sans serif !important;}",
         ".price-item {font-weight: 500;}",
         ".price__sale {font-weight: 500;}",
         ".button {border: 1px solid black;}"
@@ -51,15 +51,6 @@
     },
     "3099883d-b496-4e53-9f38-60b273fac644": {
       "type": "apps",
-      "blocks": {
-        "a7b4c98c-e388-4800-be9d-11645ef9ae99": {
-          "type": "shopify://apps/boost-ai-search-filter/blocks/filter-product-list-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "a7b4c98c-e388-4800-be9d-11645ef9ae99"
-      ],
       "disabled": true,
       "custom_css": [
         ".boost-pfs-filter-product-item-sale-price {font-family: Avenir, sans serif; font-weight: 700;}",

@@ -123,6 +123,7 @@
       "block_order": [
         "ai_gen_block_541c626_qbR9k8"
       ],
+      "disabled": true,
       "settings": {}
     },
     "rich_text_fwprFV": {
@@ -169,7 +170,7 @@
             "title": "Fusion",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/fusion"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_N8g6tX"
           }
         },
         "column_fA7bWW": {
@@ -179,7 +180,7 @@
             "title": "Serene",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/serene"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_wCqMKM"
           }
         },
         "column_nDKzcQ": {
@@ -189,7 +190,7 @@
             "title": "Dreams & Drapes",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/dreams-drapes"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_UBwWrg"
           }
         },
         "column_YpjH4X": {
@@ -199,7 +200,7 @@
             "title": "Appletree",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/appletree"
+            "link": "#Banner-template--26620041462104__image_banner_qg3ABB"
           }
         },
         "column_xF7LfE": {
@@ -209,7 +210,7 @@
             "title": "Soirée",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/soiree"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_UVNhTj"
           }
         },
         "column_Adgzgg": {
@@ -219,17 +220,7 @@
             "title": "Llewelyn-Bowen",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/laurence-llewelyn-bowen"
-          }
-        },
-        "column_qpcbzP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/TAL-CURTE-GY_sn1.jpg",
-            "title": "Curtina",
-            "text": "",
-            "link_label": "See more",
-            "link": "shopify://collections/curtina"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_HiN7HH"
           }
         },
         "column_YgCB8r": {
@@ -239,7 +230,7 @@
             "title": "Bedlam",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/bedlam"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_NCEfwE"
           }
         },
         "column_GfCPFj": {
@@ -249,7 +240,17 @@
             "title": "Ulster Weavers",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/ulster-weavers"
+            "link": "#shopify-section-template--26620041462104__image_banner_8fyKBx"
+          }
+        },
+        "column_qpcbzP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TAL-CURTE-NL_sn1_bcccb5b3-e87f-4d59-a708-ad645dcff3fd.jpg",
+            "title": "Curtina",
+            "text": "",
+            "link_label": "See more",
+            "link": "#ImageWithText--template--26620041462104__image_with_text_fPeRHP"
           }
         },
         "column_hDKDmc": {
@@ -259,7 +260,7 @@
             "title": "Drift",
             "text": "",
             "link_label": "See more",
-            "link": "shopify://collections/drift"
+            "link": "#ImageWithText--template--26620041462104__image_with_text_UwCEpP"
           }
         }
       },
@@ -270,9 +271,9 @@
         "column_YpjH4X",
         "column_xF7LfE",
         "column_Adgzgg",
-        "column_qpcbzP",
         "column_YgCB8r",
         "column_GfCPFj",
+        "column_qpcbzP",
         "column_hDKDmc"
       ],
       "custom_css": [
@@ -518,6 +519,9 @@
         "text_4jdwAt",
         "buttons_7rxYJi"
       ],
+      "custom_css": [
+        ".banner__box {max-width: 705px;}"
+      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
@@ -739,7 +743,7 @@
         "text_ctWcez": {
           "type": "text",
           "settings": {
-            "text": "Ulster Weavers has been brightening homes for over 60 years with beautiful kitchen textiles and more recently, ceramics and serveware. Full of colour, pattern and personality, every piece is designed to be practical, stylish and perfect for everyday life. Our craftsmanship consistently displays our passion for quality products.<strong>Home, made more.</strong>",
+            "text": "<strong>Home, made more. </strong>Ulster Weavers has been brightening homes for over 60 years with beautiful kitchen textiles and more recently, ceramics and serveware. Full of colour, pattern and personality, every piece is designed to be practical, stylish and perfect for everyday life. Our craftsmanship consistently displays our passion for quality products.",
             "text_style": "body"
           }
         },
@@ -759,6 +763,9 @@
         "heading_T8hEXH",
         "text_ctWcez",
         "buttons_JRtDNi"
+      ],
+      "custom_css": [
+        ".banner__box {max-width: 705px;}"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
