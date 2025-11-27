@@ -13,7 +13,7 @@
     "logo_width": 120,
     "type_header_font": "libre_caslon_text_n4",
     "heading_scale": 105,
-    "type_body_font": "poppins_n4",
+    "type_body_font": "raleway_n4",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -159,11 +159,6 @@
       "6097499278999377719": {
         "type": "shopify://apps/globo-mega-menu/blocks/app-embed/7a00835e-fe40-45a5-a615-2eb4ab697b58",
         "disabled": false,
-        "settings": {}
-      },
-      "11603319826519071303": {
-        "type": "shopify://apps/q-b2b-wholesale-hide-price/blocks/omgrfq_script/6ae96252-e178-41e6-b102-e65f89a82876",
-        "disabled": true,
         "settings": {}
       },
       "14824862318023893024": {
@@ -436,18 +431,18 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".h1 {font-family: Big Caslon, serif;}",
-      ".h2 {font-family: Big Caslon, serif;}",
-      ".h3 {font-family: Big Caslon, serif;}",
-      ".h4 {font-family: Big Caslon, serif;}",
-      ".h5 {font-family: Avenir, sans serif;}",
-      ".h6 {font-family: Big Caslon, serif;}",
-      "p {font-family: Avenir, sans serif;}",
-      ".price {font-family: Avenir, sans serif;}",
-      ".link {font-family: Avenir, sans serif;}",
-      ".button {font-family: Avenir, sans serif;}",
-      ".field {font-family: Avenir, sans serif !important;}",
-      "body {font-family: Avenir, sans serif !important;}"
+      ".h1 {font-family: \"Big Caslon\", \"Libre Caslon\", serif;}",
+      ".h2 {font-family: \"Big Caslon\", \"Libre Caslon\", serif;}",
+      ".h3 {font-family: \"Big Caslon\", \"Libre Caslon\", serif;}",
+      ".h4 {font-family: \"Big Caslon\", \"Libre Caslon\", serif;}",
+      ".h5 {font-family: Avenir, Raleway, sans serif;}",
+      ".h6 {font-family: Avenir, Raleway, sans serif;}",
+      "p {font-family: Avenir, Raleway, sans serif;}",
+      ".price {font-family: Avenir, Raleway, sans serif;}",
+      ".link {font-family: Avenir, Raleway, sans serif;}",
+      ".button {font-family: Avenir, Raleway, sans serif;}",
+      ".field {font-family: Avenir, Raleway, sans serif !important;}",
+      "body {font-family: Avenir, Raleway, sans serif !important;}"
     ]
   }
 }
