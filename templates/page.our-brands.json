@@ -372,6 +372,9 @@
         "text_YQN4UW",
         "button_xbXAjy"
       ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
@@ -420,6 +423,9 @@
         "text_amjNMF",
         "button_yEDAp8"
       ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
@@ -467,6 +473,9 @@
         "heading_jMtip8",
         "text_QH7n8Q",
         "button_P7EAnk"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -568,6 +577,9 @@
         "text_QG7bRk",
         "button_KnMqar"
       ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/MD0-DCSET-NY_sn1.jpg",
@@ -615,6 +627,9 @@
         "heading_L9kVAF",
         "text_ALcxRw",
         "button_EWXgaL"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -712,6 +727,9 @@
         "heading_MxNLhq",
         "text_d6J9dF",
         "button_gjUec9"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -813,6 +831,9 @@
         "text_mNGTT9",
         "button_KVtb9y"
       ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/TAL-CURTE-NL_sn1_bcccb5b3-e87f-4d59-a708-ad645dcff3fd.jpg",
@@ -861,6 +882,9 @@
         "text_t7x7ET",
         "button_3L6ppe"
       ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Hayden_throw_natural_5.jpg",
@@ -875,7 +899,7 @@
         "section_color_scheme": "",
         "color_scheme": "scheme-1",
         "padding_top": 48,
-        "padding_bottom": 60
+        "padding_bottom": 48
       }
     },
     "multirow_Afkegf": {
@@ -1035,6 +1059,139 @@
         "padding_bottom": 60
       }
     },
+    "multicolumn_PLjjej": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GUKVzJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Appletree_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/appletree"
+          }
+        },
+        "column_Erq6w3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bedlam_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bedlam"
+          }
+        },
+        "column_4t8a6h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Curtina_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/curtina"
+          }
+        },
+        "column_GLiG7c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/D_D_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/dreams-drapes"
+          }
+        },
+        "column_y9Kabt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Drift_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/drift"
+          }
+        },
+        "column_TDWp8Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Fusion_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/fusion"
+          }
+        },
+        "column_JVqYhN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/House_Llewlyn-Bowen_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/laurence-llewelyn-bowen"
+          }
+        },
+        "column_y4JrqC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Serene_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/serene"
+          }
+        },
+        "column_LknTy7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Soiree_Logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/soiree"
+          }
+        },
+        "column_4wdaax": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ulster_Weavers_Logo_v2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/ulster-weavers"
+          }
+        }
+      },
+      "block_order": [
+        "column_GUKVzJ",
+        "column_Erq6w3",
+        "column_4t8a6h",
+        "column_GLiG7c",
+        "column_y9Kabt",
+        "column_TDWp8Q",
+        "column_JVqYhN",
+        "column_y4JrqC",
+        "column_LknTy7",
+        "column_4wdaax"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 48
+      }
+    },
     "responive_image_QNfPNc": {
       "type": "responive-image",
       "custom_css": [
@@ -1113,6 +1270,7 @@
     "image_with_text_fPeRHP",
     "image_with_text_UwCEpP",
     "multirow_Afkegf",
+    "multicolumn_PLjjej",
     "responive_image_QNfPNc",
     "rich_text_RnGYpt"
   ]
