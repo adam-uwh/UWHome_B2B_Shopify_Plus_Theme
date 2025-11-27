@@ -997,39 +997,6 @@
     "multirow_Afkegf": {
       "type": "multirow",
       "blocks": {
-        "row_3eBXX3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
-            "caption": "",
-            "heading": "Fusion",
-            "text": "<p>Fusion brings fashion to your home with bold prints, vibrant colours, and trend-led designs that feel like home. From playful conversation prints to striking stripes, gorgeous geometrics and bold botanicals, these ranges are all about self-expression and standout style. Whether you're updating your bedroom or refreshing your signature style, Fusion blends personality, practicality, and feel-good designs.</p><p><strong>Designed by us. Loved by you.</strong></p>",
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/fusion"
-          }
-        },
-        "row_eaqJWH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
-            "caption": "",
-            "heading": "Serene",
-            "text": "<p>Soft textures. Restful calm. This is how Serene transforms everyday spaces into personal havens, elevating sleep with tantalising finishes and styles that feel soft and soothing. Effortless to care for and timeless in style, Serene's bedding transforms any bedroom into a cocoon of understated luxury.</p><p><strong>Sink into softness, night after night.</strong></p>",
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/serene"
-          }
-        },
-        "row_FQWjcP": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/BS8-DCSET-NY_sn1.jpg",
-            "caption": "",
-            "heading": "Dreams & Drapes",
-            "text": "<p>Dreams & Drapes is a British heritage brand offering timeless bedding collections with a classic touch. Inspired by traditional and archive-inspired florals, Jacobean patterns, and decorative motifs, our designs bring refined character and understated elegance to every bedroom.</p><p>With fully coordinated ranges across bedding, curtains, and cushions, Dreams & Drapes makes it easy to create a beautifully layered look that’s full of charm and lasting character. </p><p><strong>Timeless style, beautifully made.</strong></p>",
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/dreams-drapes"
-          }
-        },
         "row_nMibHz": {
           "type": "row",
           "settings": {
@@ -1109,9 +1076,6 @@
         }
       },
       "block_order": [
-        "row_3eBXX3",
-        "row_eaqJWH",
-        "row_FQWjcP",
         "row_nMibHz",
         "row_tJCKmY",
         "row_4atknm",
