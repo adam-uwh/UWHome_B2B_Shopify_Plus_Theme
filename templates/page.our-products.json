@@ -1,0 +1,1164 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1763126440e0b0415e": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_p8CBLe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4LrWmm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Introducing UW Home",
+            "heading_size": "h0"
+          }
+        },
+        "text_eexWDP": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Learn what we can offer your business as a global leader in textiles.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_TJXhTt": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4LrWmm",
+        "text_eexWDP",
+        "buttons_TJXhTt"
+      ],
+      "custom_css": [
+        "h2 {color: white;}",
+        "h2 screen and (max-width: 749px) {color: #1a1a1a;}",
+        "p {color: white;}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/CW0-DCSET-GN_sn4.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-2",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "176312754100ce0da6": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_541c626_qbR9k8": {
+          "type": "ai_gen_block_541c626",
+          "settings": {
+            "color_scheme": "scheme-5",
+            "container_width": "full",
+            "alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "menu_padding": 12,
+            "border_radius": 0,
+            "show_border": false,
+            "show_shadow": false,
+            "font_size": 14,
+            "link_padding_vertical": 4,
+            "link_padding_horizontal": 12,
+            "link_border_radius": 0,
+            "item_spacing": 12,
+            "hover_style": "underline",
+            "show_active_state": false,
+            "active_style": "underline",
+            "smooth_scroll": false,
+            "scroll_offset": 0,
+            "mobile_layout": "horizontal",
+            "mobile_alignment": "center",
+            "link_text_1": "Our Evolution",
+            "link_url_1": "/pages/about-us#shopify-section-template--26551649599832__rich_text_MUzxed",
+            "link_text_2": "Mission & Values",
+            "link_url_2": "/pages/about-us#shopify-section-template--26551649599832__responive_image_BMGLpU",
+            "link_text_3": "International Collaboration",
+            "link_url_3": "/pages/about-us#shopify-section-template--26551649599832__responive_image_NiCHHP",
+            "link_text_4": "",
+            "link_url_4": "",
+            "link_text_5": "",
+            "link_url_5": "",
+            "link_text_6": "",
+            "link_url_6": "",
+            "link_text_7": "",
+            "link_url_7": "",
+            "link_text_8": "",
+            "link_url_8": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_541c626_qbR9k8"
+      ],
+      "settings": {}
+    },
+    "multicolumn_nEMCbX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_i6WYhy": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Who We Are",
+            "link": "shopify://pages/about-us"
+          }
+        },
+        "column_ckHkQi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Our Evolution",
+            "link": "#shopify-section-template--26438285721944__rich_text_MUzxed"
+          }
+        },
+        "column_LPFAJG": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Mission & Values",
+            "link": "#shopify-section-template--26438285721944__responive_image_BMGLpU"
+          }
+        },
+        "column_zd84Rd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Global Collaboration",
+            "link": "#shopify-section-template--26438285721944__rich_text_zBtQP4"
+          }
+        },
+        "column_VWcJAm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Our Customers",
+            "link": "#shopify-section-template--26438285721944__rich_text_PbbAih"
+          }
+        }
+      },
+      "block_order": [
+        "column_i6WYhy",
+        "column_ckHkQi",
+        "column_LPFAJG",
+        "column_zd84Rd",
+        "column_VWcJAm"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_fwprFV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8RUQTc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Who We Are",
+            "heading_size": "h1"
+          }
+        },
+        "text_hCbtQ3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>UW Home is a family-run homeware retailer based in the UK, with over 140 years of specialist expertise in textiles. We exist to deliver beautifully designed, quality products at a fair price, from ethical sources, to retail outlets worldwide.</p><p>Alongside our 10 diverse and design-led homeware brands,  we offer a number of services to accommodate a variety of businesses around the worl</p><p>[Update the below please as it's already used as an intro to services]</p><p>***UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling.</p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.***</p>"
+          }
+        },
+        "button_6RhXFb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8RUQTc",
+        "text_hCbtQ3",
+        "button_6RhXFb"
+      ],
+      "custom_css": [
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "multicolumn_xW6BTh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YpjH4X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
+            "title": "Bedding",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YgCB8r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
+            "title": "Accessories",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qpcbzP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MO4-RUGOD-TA_sn1.jpg",
+            "title": "Rugs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ybptnb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sandringham_Bath_Mat_Natural_01.jpg",
+            "title": "Towels",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AjiRph": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CK5-DBLGL-MI_sn2.jpg",
+            "title": "Kitchenware",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Kx9Y9e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BHF-BOWLP-MI_sn4.jpg",
+            "title": "Ceramics",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YpjH4X",
+        "column_YgCB8r",
+        "column_qpcbzP",
+        "column_ybptnb",
+        "column_AjiRph",
+        "column_Kx9Y9e"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "17628689041c1c2c0c": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_16224b1_V8PDJy": {
+          "type": "ai_gen_block_16224b1",
+          "name": "AI Timeline - WIP",
+          "settings": {
+            "section_width": 1200,
+            "column_gap": 60,
+            "row_spacing": 80,
+            "line_thickness": 3,
+            "line_color": "#857550",
+            "marker_style": "circle",
+            "marker_size": 20,
+            "marker_color": "#857550",
+            "marker_border": 4,
+            "marker_border_color": "#ffffff",
+            "image_height": 450,
+            "image_height_mobile": 200,
+            "image_radius": 8,
+            "year_size": 36,
+            "year_color": "#1a1a1a",
+            "subtitle_size": 20,
+            "subtitle_color": "#1a1a1a",
+            "text_size": 16,
+            "text_color": "#1a1a1a",
+            "year_1": "1880",
+            "subtitle_1": "",
+            "text_1": "Ulster Weavers textile company was originally founded in 1880. Throughout the late 19th and early 20th century, the company continued to spin, weave, bleach, dye and finish the high-quality linen, for which Ireland and Ulster had become famous all over the world.",
+            "image_1": "shopify://shop_images/Firefly_Loom_Generated_Image_570547_55.jpg",
+            "year_2": "1960",
+            "subtitle_2": "",
+            "text_2": "During the 1960’s, the company brought its years of textile expertise to the kitchen sector – specialising at first in Irish Linen Tea Towel manufacturing and, over the years, expanding the range to include all types of kitchen co-ordinates, bags and giftware. ",
+            "image_2": "shopify://shop_images/1968_Tea_Towels_Catalogue_BW_55.jpg",
+            "year_3": "1990",
+            "subtitle_3": "",
+            "text_3": "By 1990 the company was trading as two different businesses; Ulster Weavers Home Fashions (specialised in kitchen textiles and giftware) and Ulster Weavers Apparel (specialised in apparel fabrics), however, in 2010 both of them were merged to form Ulster Weavers Limited.",
+            "image_3": "shopify://shop_images/Cut-length_Service_BW_55.jpg",
+            "year_4": "2018",
+            "subtitle_4": "",
+            "text_4": "In 2018, Ulster Weavers acquired J Rosenthal & Sons (JRS) a Manchester-based ready-made bedding and curtain products specialist. Established back in 1911, JRS was a third-generation family-run business, much like Ulster Weavers, and was steeped in history with a passion for all things textiles. ",
+            "image_4": "shopify://shop_images/about-2-bw-55.jpg",
+            "year_5": "",
+            "subtitle_5": "",
+            "text_5": "",
+            "year_6": "",
+            "subtitle_6": "",
+            "text_6": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_16224b1_V8PDJy"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "rich_text_MUzxed": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9hAJbM": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Evolution of UW Home",
+            "heading_size": "h1"
+          }
+        },
+        "text_F6ncdP": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling.</p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.</p>"
+          }
+        },
+        "button_7qR7nb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9hAJbM",
+        "text_F6ncdP",
+        "button_7qR7nb"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "1762867409f9f3a7d3": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "multirow_i9U3XE": {
+      "type": "multirow",
+      "blocks": {
+        "row_qT3LbH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Firefly_Loom_Generated_Image_570547_55.jpg",
+            "caption": "",
+            "heading": "1880",
+            "text": "<p>Ulster Weavers textile company was originally founded in 1880. Throughout the late 19th and early 20th century, the company continued to spin, weave, bleach, dye and finish the high-quality linen, for which Ireland and Ulster had become famous all over the world.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_KMCcMk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1968_Tea_Towels_Catalogue_BW_55.jpg",
+            "caption": "",
+            "heading": "1960",
+            "text": "<p>During the 1960’s, the company brought its years of textile expertise to the kitchen sector – specialising at first in Irish Linen Tea Towel manufacturing and, over the years, expanding the range to include all types of kitchen co-ordinates, bags and giftware. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_XdY4UQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Cut-length_Service_BW_55.jpg",
+            "caption": "",
+            "heading": "1990",
+            "text": "<p>By 1990 the company was trading as two different businesses; Ulster Weavers Home Fashions (specialised in kitchen textiles and giftware) and Ulster Weavers Apparel (specialised in apparel fabrics), however, in 2010 both of them were merged to form Ulster Weavers Limited.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_RYA4nH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/about-2-bw-55.jpg",
+            "caption": "",
+            "heading": "2018",
+            "text": "<p>In 2018, Ulster Weavers acquired J Rosenthal & Sons (JRS) a Manchester-based ready-made bedding and curtain products specialist. Established back in 1911, JRS was a third-generation family-run business, much like Ulster Weavers, and was steeped in history with a passion for all things textiles. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_qT3LbH",
+        "row_KMCcMk",
+        "row_XdY4UQ",
+        "row_RYA4nH"
+      ],
+      "custom_css": [
+        "h2 {color: #857550;}",
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-2",
+        "padding_top": 40,
+        "padding_bottom": 48
+      }
+    },
+    "rich_text_GPraHE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qW67q9": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Future in Mind",
+            "heading_size": "h1"
+          }
+        },
+        "text_3tXYty": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The purchase of JRS was a strategic acquisition, with the aim of becoming a one stop shop for the design and supply of beautiful home products and accessories for every room in the house. </p><p>It facilitated an ambition to grow Ulster Weavers’ market share within the homewares arena, whilst also enabling the newly acquired business to access a greater spread of customers. </p><p>To this day, we continue to manufacture small runs in Northern Ireland, where products can now carry the “<em>Made In Britain</em>” logo and we also produce bespoke small print run kitchen textile items at our Manchester site.</p>"
+          }
+        },
+        "button_88mceQ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qW67q9",
+        "text_3tXYty",
+        "button_88mceQ"
+      ],
+      "custom_css": [
+        "h2 {color: #1a1a1a;}",
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 48
+      }
+    },
+    "responive_image_KbRgK6": {
+      "type": "responive-image",
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/150721DK1_154_1200px.jpg",
+        "alt_text": "",
+        "color_scheme": "",
+        "width_option": "narrow",
+        "padding_top": "none",
+        "padding_bottom": "large"
+      }
+    },
+    "rich_text_jAbEN4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MHphma": {
+          "type": "heading",
+          "settings": {
+            "heading": "UW Home Today",
+            "heading_size": "h1"
+          }
+        },
+        "text_zmkk9Y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In early 2024, we moved one step further to consolidate our homeware brands under the umbrella of UW Home. This strategic move allowed our business to streamline its offerings and provide a cohesive experience for our well-established and valued customers.</p><p>UW Home’s current product range is wide and varied and now include ceramics, bathroom and outdoor textiles. Collections are inspired by the latest design and colour trends, developed by our in-house design studio, taking inspiration from global research and extensive travel. Ranges include timeless classics, modern heritage, trend-led looks and much, much more.</p><p>Our UW Home teams design and source products with sustainability at the heart of their development journey. Our products are predominantly produced from consciously chosen substrates and are made in factories that take the time to ensure their processes are kind to the environment around them. These products carry the “<em>sustainably sourced, ethically made</em>“ logo. </p><p>We have a dedicated team based in our Manchester office to support all admin functions, Merchandising, Accounts, Logistics and Quality Control and two impressive warehouse spaces to service our customers orders daily.</p>"
+          }
+        },
+        "button_nQrG99": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MHphma",
+        "text_zmkk9Y",
+        "button_nQrG99"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 48
+      }
+    },
+    "responive_image_BMGLpU": {
+      "type": "responive-image",
+      "custom_css": [
+        ".responsive-image-section {background-color: #1f2844;}"
+      ],
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/UW_Home_Start_Your_Journey_20259_6f6b4917-8825-45f4-ad9d-4ef914fb012f.jpg",
+        "alt_text": "",
+        "color_scheme": "scheme-5",
+        "width_option": "narrow",
+        "padding_top": "small",
+        "padding_bottom": "none"
+      }
+    },
+    "rich_text_GdiGfX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DRWj9M": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mission & Values",
+            "heading_size": "h1"
+          }
+        },
+        "text_jaKgwX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At UW Home, our values are woven into everything we do. From design excellence to ethical sourcing, we make every decision with care – ensuring it's right for us and for you. These principles guide every corner of our business, shaping products and experiences that reflect quality, respect, craftsmanship and innovation.</p>"
+          }
+        },
+        "heading_qzAPUC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainability",
+            "heading_size": "h1"
+          }
+        },
+        "text_MHKABQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe good design goes hand in hand with responsible sourcing. Sustainability guides the way we work, from the partners we choose to the materials and processes behind every product. We collaborate with suppliers who share our commitment to transparency, safe production, and reducing environmental impact, with clear expectations around water, energy, waste and chemical management.</p><p>And we’re always improving. By actively monitoring our supply chain and supporting better practices, we’re working towards a future where responsible production is simply the standard.</p>"
+          }
+        },
+        "button_Pi4CyY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "shopify://pages/sustainability",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DRWj9M",
+        "text_jaKgwX",
+        "heading_qzAPUC",
+        "text_MHKABQ",
+        "button_Pi4CyY"
+      ],
+      "custom_css": [
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "responive_image_NiCHHP": {
+      "type": "responive-image",
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/UW_Home_International_Collaboration_Banner.jpg",
+        "alt_text": "",
+        "color_scheme": "",
+        "width_option": "full",
+        "padding_top": "none",
+        "padding_bottom": "large"
+      }
+    },
+    "image_banner_tbLH6q": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_cCHKEj": {
+          "type": "heading",
+          "settings": {
+            "heading": "International Collaboration",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ljmn6d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_GBcLjn": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cCHKEj",
+        "text_Ljmn6d",
+        "buttons_GBcLjn"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/UW_Home_International_Collaboration_Banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-5",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_zBtQP4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XFF3PN": {
+          "type": "heading",
+          "settings": {
+            "heading": "International Collaboration",
+            "heading_size": "h1"
+          }
+        },
+        "text_6PMwpL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From humble beginnings in Northern Ireland 140 years ago, we've used our expertise to grow our reach worldwide. We take pride in the diverse collaboration taking place across our supply chain, ensuring we can deliver quality products to retailers – big and small – globally.</p>"
+          }
+        },
+        "button_dJAyGq": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XFF3PN",
+        "text_6PMwpL",
+        "button_dJAyGq"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_Afkegf": {
+      "type": "multirow",
+      "blocks": {
+        "row_nMibHz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/161121DK1_054_1200px.jpg",
+            "caption": "",
+            "heading": "Supplying Global Retailers",
+            "text": "<p>The UK is the largest market for UW Home; however, we ship our products globally, exporting to North America, Latin America, Europe, Asia and Australia. We welcome buyers from around the world to our Design & Production facility in Belfast, Northern Ireland, and our Showroom and studio facility in Manchester, England.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_3eBXX3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Account_Management_0405.jpg",
+            "caption": "",
+            "heading": "Support Around the World",
+            "text": "<p>Our Head Office teams span across two locations – the birthplace of our brand in Lisburn, Northern Ireland, and Manchester, where we house our Showroom and warehousing facilities. In New York, our international office connects us with customers across the Atlantic. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_eaqJWH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Nandini_Factory_1598.jpg",
+            "caption": "",
+            "heading": "Responsible Manufacturing",
+            "text": "<p>We also have sourcing hubs in Pakistan, India and China, located close to our partner factories, where the vast majority of our manufacturing takes place. These teams help ensure a smooth process, consistent quality and responsible production as we continue to grow globally.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_nMibHz",
+        "row_3eBXX3",
+        "row_eaqJWH"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "image_layout": "alternate-left",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-2",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_PbbAih": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jU8Cr7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Customers",
+            "heading_size": "h1"
+          }
+        },
+        "text_azqKYq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at purus non ligula placerat sagittis. In posuere lacinia finibus. Curabitur ornare dui mi, sed euismod massa blandit et. Mauris eu tellus a erat placerat efficitur. Nunc facilisis in urna at venenatis. Donec id elementum elit. </p><p>Duis eget sem pellentesque, efficitur augue a, interdum sem. Donec sagittis a ante nec luctus. Sed pretium aliquam neque, ullamcorper semper orci pharetra sit amet. Vestibulum nec erat et turpis dictum malesuada.</p><p>Donec malesuada facilisis bibendum. Suspendisse at vestibulum magna, at euismod nulla. Duis quam dolor, faucibus non purus quis, laoreet consectetur sem. </p>"
+          }
+        },
+        "button_FbaTyY": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jU8Cr7",
+        "text_azqKYq",
+        "button_FbaTyY"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "multicolumn_GU4Nnk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kgGdR9": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 1",
+            "text": "<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QRNBpn": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 2",
+            "text": "<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CeWjBc": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 3",
+            "text": "<p>\"We love seeing the brands evolve with each season, and so do our customers.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nKgXfU": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 4",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hgwd87": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 5",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6QJ6y3": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 6",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9wWemX": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 7",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HKDBFt": {
+          "type": "column",
+          "settings": {
+            "title": "Customer 8",
+            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kgGdR9",
+        "column_QRNBpn",
+        "column_CeWjBc",
+        "column_nKgXfU",
+        "column_hgwd87",
+        "column_6QJ6y3",
+        "column_9wWemX",
+        "column_HKDBFt"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "responive_image_QNfPNc": {
+      "type": "responive-image",
+      "custom_css": [
+        ".responsive-image-section {background-color: #fff;}"
+      ],
+      "name": "Responsive Image",
+      "settings": {
+        "image": "shopify://shop_images/161121DK1_197_1200px.jpg",
+        "alt_text": "",
+        "color_scheme": "scheme-2",
+        "width_option": "narrow",
+        "padding_top": "large",
+        "padding_bottom": "none"
+      }
+    },
+    "image_banner_GfbKca": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_m6pmze": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Customers",
+            "heading_size": "h1"
+          }
+        },
+        "text_AdUW6F": {
+          "type": "text",
+          "settings": {
+            "text": "We work with a number of businesses",
+            "text_style": "body"
+          }
+        },
+        "buttons_i8WWLD": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_m6pmze",
+        "text_AdUW6F",
+        "buttons_i8WWLD"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Our_Customers_Banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "ambient",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-5",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_RnGYpt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hRXrrY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want To Know More?",
+            "heading_size": "h1"
+          }
+        },
+        "text_TCnkwe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With over 60,000 designs, teams across the globe and a history spanning back 140 years, we've got plenty to talk about. If you'd like to ask a question or chat with us in a bit more detail, please contact us – our expert Sales Team will be happy to take you on the journey! </p><p>We also have a variety of services tailored to suit every kind of retailer. Take a look at what we can offer your business, from off-the-shelf products to private label opportunities.</p>"
+          }
+        },
+        "button_zDMYeP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "button_label_2": "Explore services",
+            "button_link_2": "shopify://pages/services",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hRXrrY",
+        "text_TCnkwe",
+        "button_zDMYeP"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "1763126440e0b0415e",
+    "main",
+    "image_banner_p8CBLe",
+    "176312754100ce0da6",
+    "multicolumn_nEMCbX",
+    "rich_text_fwprFV",
+    "multicolumn_xW6BTh",
+    "17628689041c1c2c0c",
+    "rich_text_MUzxed",
+    "1762867409f9f3a7d3",
+    "multirow_i9U3XE",
+    "rich_text_GPraHE",
+    "responive_image_KbRgK6",
+    "rich_text_jAbEN4",
+    "responive_image_BMGLpU",
+    "rich_text_GdiGfX",
+    "responive_image_NiCHHP",
+    "image_banner_tbLH6q",
+    "rich_text_zBtQP4",
+    "multirow_Afkegf",
+    "rich_text_PbbAih",
+    "multicolumn_GU4Nnk",
+    "responive_image_QNfPNc",
+    "image_banner_GfbKca",
+    "rich_text_RnGYpt"
+  ]
+}
