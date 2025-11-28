@@ -45,7 +45,8 @@
       ],
       "custom_css": [
         ".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}",
-        "h2 {text-wrap: balance;}"
+        "h2 {text-wrap: balance;}",
+        "@media screen and (max-width: 749px) {.banner--medium:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {min-height: 450px; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/BS8-DCSET-NY_sn4.jpg",

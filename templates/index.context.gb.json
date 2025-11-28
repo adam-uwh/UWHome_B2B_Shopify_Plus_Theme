@@ -19,30 +19,30 @@
       "settings": {
         "collection": "ulster-weavers",
         "products_to_show": 12,
-        "header-6ce27467743401958be7a03e19e57535": null,
+        "header-5c40b4b6f54a22c444b0743a203091f9": null,
         "title": "New from Ulster Weavers",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "header-19fcce5eb0bbeef84618876832cb701c": null,
+        "header-92f44fdccb6094d135ece7ee8accf309": null,
         "columns_desktop": 4,
         "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
-        "header-c41e14952d8259f3efbd6b0d6eadc958": null,
+        "header-21200d9175b0b10a6448f9b64bb05641": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "header-ec3a4499f4531aaa3f38538979afd36d": null,
+        "header-46f29ce251805a72382279a3425f5fb4": null,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "header-7231fe18948012d5e33df29ba147285f": null,
+        "header-bf9035a6fbbbad189da495c4670d15be": null,
         "padding_top": 48,
         "padding_bottom": 52
       },
@@ -52,7 +52,7 @@
     "collection_list": {
       "settings": {
         "title": "Shop our Home collections",
-        "padding_bottom": 48
+        "padding_bottom": 56
       },
       "blocks": {
         "featured_collection1": {
