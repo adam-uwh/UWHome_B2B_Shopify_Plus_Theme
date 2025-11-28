@@ -1,7 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "sort": "alphabetical",
@@ -9,9 +19,190 @@
         "columns_desktop": 3,
         "columns_mobile": "2"
       }
+    },
+    "collection_list_eK8pNd": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_kg4PVX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bee-bloom"
+          }
+        },
+        "featured_collection_jbHnTJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-in-show"
+          }
+        },
+        "featured_collection_wEHWyR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "blackthorn"
+          }
+        },
+        "featured_collection_cjJWiQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "boho-floral"
+          }
+        },
+        "featured_collection_jCKmiP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "catch-of-the-day"
+          }
+        },
+        "featured_collection_7mNACi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "confetti-floral"
+          }
+        },
+        "featured_collection_GNikK6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "connie-the-cow"
+          }
+        },
+        "featured_collection_PwyeNJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cool-cats"
+          }
+        },
+        "featured_collection_6mEDki": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cottage-garden"
+          }
+        },
+        "featured_collection_4xaQwR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dog-days"
+          }
+        },
+        "featured_collection_dnT9ye": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "emmeline"
+          }
+        },
+        "featured_collection_B9zTww": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feline-friends"
+          }
+        },
+        "featured_collection_jDrtKR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "finch-flower"
+          }
+        },
+        "featured_collection_eigKc8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "herbs-spices"
+          }
+        },
+        "featured_collection_Wkr3tC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pantry-cats"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_kg4PVX",
+        "featured_collection_jbHnTJ",
+        "featured_collection_wEHWyR",
+        "featured_collection_cjJWiQ",
+        "featured_collection_jCKmiP",
+        "featured_collection_7mNACi",
+        "featured_collection_GNikK6",
+        "featured_collection_PwyeNJ",
+        "featured_collection_6mEDki",
+        "featured_collection_4xaQwR",
+        "featured_collection_dnT9ye",
+        "featured_collection_B9zTww",
+        "featured_collection_jDrtKR",
+        "featured_collection_eigKc8",
+        "featured_collection_Wkr3tC"
+      ],
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Ulster Weavers Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 12
+      }
+    },
+    "collection_list_jLGFUi": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_NgqJ8k": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "summer-fruits"
+          }
+        },
+        "featured_collection_MCafdK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vegetable-medley"
+          }
+        },
+        "featured_collection_DntLJx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "willow-toile"
+          }
+        },
+        "featured_collection_bcEbGD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "woolly-sheep"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_NgqJ8k",
+        "featured_collection_MCafdK",
+        "featured_collection_DntLJx",
+        "featured_collection_bcEbGD"
+      ],
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_list_eK8pNd",
+    "collection_list_jLGFUi"
   ]
 }
