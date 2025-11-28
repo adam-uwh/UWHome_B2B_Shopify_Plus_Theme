@@ -170,7 +170,7 @@
         "column_YgCB8r": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/HBI-DBLGL-GY_sn2.jpg",
+            "image": "shopify://shop_images/BHF-GAUGL-MI_sn2.jpg",
             "title": "Oven Gloves",
             "text": "<p>Our Oven Gloves and Gauntlets come in a range of styles.</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Double Oven Gloves and Gauntlet styles]</p>",
             "link_label": "Shop the collection",
@@ -187,27 +187,30 @@
             "link": "shopify://collections/aprons"
           }
         },
-        "column_ybptnb": {
-          "type": "column",
-          "settings": {
-            "title": "Microwave Mitts",
-            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware and steam up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
-            "link_label": "Shop the collection",
-            "link": "shopify://collections/microwave-mitts"
-          }
-        },
         "column_AjiRph": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/HBI-POTMI-GY_sn2.jpg",
             "title": "Pot Mats & Mitts",
             "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/pot-mats"
           }
         },
+        "column_ybptnb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VGT-MICRO-MI_sn2.jpg",
+            "title": "Microwave Mitts",
+            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware and steam up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/microwave-mitts"
+          }
+        },
         "column_Kx9Y9e": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/34c3e912-34a5-40a3-be78-e5eeeb073abe.jpg",
             "title": "Tea Cosies",
             "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot serveware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
             "link_label": "Shop the collection",
@@ -219,8 +222,8 @@
         "column_YpjH4X",
         "column_YgCB8r",
         "column_qpcbzP",
-        "column_ybptnb",
         "column_AjiRph",
+        "column_ybptnb",
         "column_Kx9Y9e"
       ],
       "custom_css": [
@@ -251,7 +254,7 @@
         "column_idtMG6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/PM5-SPLA4-MI_sn1.jpg",
+            "image": "shopify://shop_images/BHF-DPLAT-MI_sn3.jpg",
             "title": "Plates",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
@@ -425,6 +428,7 @@
         "column_EL6Ah6": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/618PLCB_LS.jpg",
             "title": "Cotton Tote Bags",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
@@ -434,6 +438,7 @@
         "column_p6cBLE": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/8MLMW36_LS.jpg",
             "title": "Water Bottles",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
@@ -492,7 +497,7 @@
         "column_DPK4YJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FYS-FBSST-BE_sn1.jpg",
+            "image": "shopify://shop_images/TS2-FBSST-GN_sn1.jpg",
             "title": "Bed Sheets",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
@@ -502,7 +507,7 @@
         "column_74n6Gj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/plain-dye_Pillowcases_Green_01_New.jpg",
+            "image": "shopify://shop_images/SAY-PCH2P-WE_sn1.jpg",
             "title": "Pillowcases & Shams",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
