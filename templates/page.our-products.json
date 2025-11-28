@@ -82,21 +82,21 @@
             "scroll_offset": 0,
             "mobile_layout": "horizontal",
             "mobile_alignment": "center",
-            "link_text_1": "Our Evolution",
+            "link_text_1": "Kitchen Textiles",
             "link_url_1": "/pages/about-us#shopify-section-template--26551649599832__rich_text_MUzxed",
-            "link_text_2": "Mission & Values",
+            "link_text_2": "Kitchen Ceramics",
             "link_url_2": "/pages/about-us#shopify-section-template--26551649599832__responive_image_BMGLpU",
-            "link_text_3": "International Collaboration",
+            "link_text_3": "Tabletop Accessories",
             "link_url_3": "/pages/about-us#shopify-section-template--26551649599832__responive_image_NiCHHP",
-            "link_text_4": "",
+            "link_text_4": "Personal Accessories",
             "link_url_4": "",
-            "link_text_5": "",
+            "link_text_5": "Bedding & Accessories",
             "link_url_5": "",
-            "link_text_6": "",
+            "link_text_6": "Curtains",
             "link_url_6": "",
-            "link_text_7": "",
+            "link_text_7": "Bathroom",
             "link_url_7": "",
-            "link_text_8": "",
+            "link_text_8": "Outdoor Textiles",
             "link_url_8": ""
           },
           "blocks": {}
@@ -106,82 +106,6 @@
         "ai_gen_block_541c626_qbR9k8"
       ],
       "settings": {}
-    },
-    "multicolumn_nEMCbX": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_i6WYhy": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Who We Are",
-            "link": "shopify://pages/about-us"
-          }
-        },
-        "column_ckHkQi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Our Evolution",
-            "link": "#shopify-section-template--26438285721944__rich_text_MUzxed"
-          }
-        },
-        "column_LPFAJG": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Mission & Values",
-            "link": "#shopify-section-template--26438285721944__responive_image_BMGLpU"
-          }
-        },
-        "column_zd84Rd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Global Collaboration",
-            "link": "#shopify-section-template--26438285721944__rich_text_zBtQP4"
-          }
-        },
-        "column_VWcJAm": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Our Customers",
-            "link": "#shopify-section-template--26438285721944__rich_text_PbbAih"
-          }
-        }
-      },
-      "block_order": [
-        "column_i6WYhy",
-        "column_ckHkQi",
-        "column_LPFAJG",
-        "column_zd84Rd",
-        "column_VWcJAm"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "color_scheme": "scheme-5",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     },
     "rich_text_fwprFV": {
       "type": "rich-text",
@@ -196,7 +120,7 @@
         "text_hCbtQ3": {
           "type": "text",
           "settings": {
-            "text": "<p>[Update the below please as it's already used as an intro to services]</p><p>***Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team.***</p>"
+            "text": "<p>[Update the below please as it's already used as an intro to services, could probably be a bit wordier and talk about some of the techniques we use for certain products]</p><p>***Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team.***</p>"
           }
         },
         "button_6RhXFb": {
@@ -248,8 +172,8 @@
           "settings": {
             "image": "shopify://shop_images/HBI-DBLGL-GY_sn2.jpg",
             "title": "Oven Gloves",
-            "text": "<p>Lorem ipsum</p><p>[Materials, finishes, embellishments]</p><p>[Double Oven Gloves and Gauntlet styles]</p>",
-            "link_label": "Shop now",
+            "text": "<p>Our Oven Gloves and Gauntlets come in a range of styles.</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Double Oven Gloves and Gauntlet styles]</p>",
+            "link_label": "Shop the collection",
             "link": "shopify://collections/oven-gloves"
           }
         },
@@ -259,38 +183,35 @@
             "image": "shopify://shop_images/CD9-APRPV-MI_sn2.jpg",
             "title": "Aprons",
             "text": "<p>Our Cotton Aprons feature an adjustable necktie and a roomy pocket (or two!) to add comfort and convenience to kitchen routines.</p><p>[Materials, finishes, embellishments]</p><p>[Cotton and PVC Aprons]</p>",
-            "link_label": "Shop now",
+            "link_label": "Shop the collection",
             "link": "shopify://collections/aprons"
           }
         },
         "column_ybptnb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Sandringham_Bath_Mat_Natural_01.jpg",
-            "title": "Towels",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "title": "Microwave Mitts",
+            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware and steam up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/microwave-mitts"
           }
         },
         "column_AjiRph": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CK5-DBLGL-MI_sn2.jpg",
-            "title": "Kitchenware",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "title": "Pot Mats & Mitts",
+            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/pot-mats"
           }
         },
         "column_Kx9Y9e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BHF-BOWLP-MI_sn4.jpg",
-            "title": "Ceramics",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "title": "Tea Cosies",
+            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot serveware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/tea-cosies"
           }
         }
       },
@@ -303,7 +224,8 @@
         "column_Kx9Y9e"
       ],
       "custom_css": [
-        "h3 {font-family: Big Caslon, serif; font-weight: 400;}"
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -329,71 +251,42 @@
         "column_idtMG6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
-            "title": "Tea Towels",
-            "text": "<p>Lorem ipsum</p><p>Materials</p>",
-            "link_label": "Shop now",
-            "link": "shopify://collections/tea-towels"
+            "image": "shopify://shop_images/PM5-SPLA4-MI_sn1.jpg",
+            "title": "Plates",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/plates-bowls"
           }
         },
         "column_qgd4j3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
-            "title": "Accessories",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/8WLSH62_LS.jpg",
+            "title": "Bowls",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/plates-bowls"
           }
         },
         "column_PbFkjL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MO4-RUGOD-TA_sn1.jpg",
-            "title": "Rugs",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_kUqziY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Sandringham_Bath_Mat_Natural_01.jpg",
-            "title": "Towels",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_LPJHwa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/CK5-DBLGL-MI_sn2.jpg",
-            "title": "Kitchenware",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_JX9q8M": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BHF-BOWLP-MI_sn4.jpg",
-            "title": "Ceramics",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/PYA-MUGBC-MI_sn2.jpg",
+            "title": "Mugs",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/mugs"
           }
         }
       },
       "block_order": [
         "column_idtMG6",
         "column_qgd4j3",
-        "column_PbFkjL",
-        "column_kUqziY",
-        "column_LPJHwa",
-        "column_JX9q8M"
+        "column_PbFkjL"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -404,12 +297,172 @@
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_XcdbFf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VmT8wX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BS4-PMT4P-MI_sn2.jpg",
+            "title": "Placemats",
+            "text": "<p>We craft our placemats with longevity and function in mind.</p><ul><li>Made primarily from MDF</li><li>Laminated finish with sealed edges for  durability</li><li>Natural cork reverse for heat resistance</li><li>Digitally printed paper face</li><li>Sold in packs of four</li></ul><p>We also make cotton placemats, designed with a scallop trim and sold in packs of two.</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/placemats"
+          }
+        },
+        "column_wC3Gfh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/35d05c8a-b628-44c5-a07d-8017bd90724a.jpg",
+            "title": "Coasters",
+            "text": "<p>Our coasters coordinate perfectly with our selection of placemats.</p><ul><li>Made primarily from MDF</li><li>Laminated finish with sealed edges for  durability</li><li>Natural cork reverse for heat resistance</li><li>Digitally printed paper face</li><li>Sold in packs of four</li></ul>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/coasters"
+          }
+        },
+        "column_EJAmKa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CK5-TRSML-MI_sn2.jpg",
+            "title": "Serving Trays",
+            "text": "<p>Our easy-care trays make serving simple around the home.</p><ul><li>Made from 100% melamine</li><li>Wipe clean finish</li><li>Dishwasher-safe</li><li>Digitally printed</li></ul><p>Available in two sizes – choose from small trays or scatter trays to suit your needs.</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/serving-trays"
+          }
+        },
+        "column_CAwCCb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PL8-NAP4P-GN_sn1.jpg",
+            "title": "Napkins",
+            "text": "<p>Add the finishing touch to the table with our napkins.</p><ul><li>Made from 100% cotton</li><li>Digitally printed or embellished</li><li>Sold in packs of two</li></ul>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/napkins"
+          }
+        },
+        "column_AV34RT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DFC-TABRN-GN_sn2.jpg",
+            "title": "Table Runners",
+            "text": "<p>A new product range, our table runners add extra flair.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Digitally printed</li><li>Reversible design</li></ul>",
+            "link_label": "Shop the collection",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VmT8wX",
+        "column_wC3Gfh",
+        "column_EJAmKa",
+        "column_CAwCCb",
+        "column_AV34RT"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Tabletop Accessories",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_L7Yg9n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PqyqLD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PYA-BAGPK-MI_sn2.jpg",
+            "title": "Foldable Bags",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/tote-bags"
+          }
+        },
+        "column_Ux7T8E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BHF-BAGPS-MI_sn2.jpg",
+            "title": "Shopper Bags",
+            "text": "<p>We craft our placemats with longevity and function in mind.</p><ul><li>Made from 100% cotton</li><li>Wipe-clean PVC coating</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>Small size available only.</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/tote-bags"
+          }
+        },
+        "column_qKFLCQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5BTFG613_LS.jpg",
+            "title": "Shoulder Bags",
+            "text": "<p>Make shopping simple and stylish with our shoulder bags.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>We offer a range of shoulder bags with either a PVC, matte PVC or canvas finish. The PVC options are wipe-clean.</p>",
+            "link_label": "Shop the collection",
+            "link": ""
+          }
+        },
+        "column_EL6Ah6": {
+          "type": "column",
+          "settings": {
+            "title": "Cotton Tote Bags",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/tote-bags"
+          }
+        },
+        "column_p6cBLE": {
+          "type": "column",
+          "settings": {
+            "title": "Water Bottles",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PqyqLD",
+        "column_Ux7T8E",
+        "column_qKFLCQ",
+        "column_EL6Ah6",
+        "column_p6cBLE"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Personal Accessories",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
         "padding_bottom": 60
       }
     },
@@ -420,8 +473,38 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
-            "title": "Bedding",
-            "text": "",
+            "title": "Duvet Cover Sets",
+            "text": "<p>[Short two line intro]</p><p></p><ul><li>Variety of sizes, from junior through to superking</li><li>Finished with digital, rotary and screen prints</li><li>Set includes duvet cover and pillowcase(s)</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, embroidery, ruching, [more...............]</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hb7dke": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ABP-BSDSP-OV_sn1.jpg",
+            "title": "Bedspreads",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DPK4YJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TS2-FBSST-GN_sn1.jpg",
+            "title": "Bed Sheets",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_74n6Gj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/plain-dye_Pillowcases_Green_01_New.jpg",
+            "title": "Pillowcases & Shams",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
@@ -430,38 +513,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
-            "title": "Accessories",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hb7dke": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/MO4-RUGOD-TA_sn1.jpg",
-            "title": "Rugs",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DPK4YJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Sandringham_Bath_Mat_Natural_01.jpg",
-            "title": "Towels",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_74n6Gj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/CK5-DBLGL-MI_sn2.jpg",
-            "title": "Kitchenware",
-            "text": "",
+            "title": "Cushions",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
@@ -469,9 +522,8 @@
         "column_qLY3f7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BHF-BOWLP-MI_sn4.jpg",
-            "title": "Ceramics",
-            "text": "",
+            "title": "Throws",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
@@ -479,631 +531,211 @@
       },
       "block_order": [
         "column_FQRFMx",
-        "column_Yd9gB7",
         "column_hb7dke",
         "column_DPK4YJ",
         "column_74n6Gj",
+        "column_Yd9gB7",
         "column_qLY3f7"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Bedroom",
+        "title": "Bedding & Accessories",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 60
-      }
-    },
-    "17628689041c1c2c0c": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_16224b1_V8PDJy": {
-          "type": "ai_gen_block_16224b1",
-          "name": "AI Timeline - WIP",
-          "settings": {
-            "section_width": 1200,
-            "column_gap": 60,
-            "row_spacing": 80,
-            "line_thickness": 3,
-            "line_color": "#857550",
-            "marker_style": "circle",
-            "marker_size": 20,
-            "marker_color": "#857550",
-            "marker_border": 4,
-            "marker_border_color": "#ffffff",
-            "image_height": 450,
-            "image_height_mobile": 200,
-            "image_radius": 8,
-            "year_size": 36,
-            "year_color": "#1a1a1a",
-            "subtitle_size": 20,
-            "subtitle_color": "#1a1a1a",
-            "text_size": 16,
-            "text_color": "#1a1a1a",
-            "year_1": "1880",
-            "subtitle_1": "",
-            "text_1": "Ulster Weavers textile company was originally founded in 1880. Throughout the late 19th and early 20th century, the company continued to spin, weave, bleach, dye and finish the high-quality linen, for which Ireland and Ulster had become famous all over the world.",
-            "image_1": "shopify://shop_images/Firefly_Loom_Generated_Image_570547_55.jpg",
-            "year_2": "1960",
-            "subtitle_2": "",
-            "text_2": "During the 1960’s, the company brought its years of textile expertise to the kitchen sector – specialising at first in Irish Linen Tea Towel manufacturing and, over the years, expanding the range to include all types of kitchen co-ordinates, bags and giftware. ",
-            "image_2": "shopify://shop_images/1968_Tea_Towels_Catalogue_BW_55.jpg",
-            "year_3": "1990",
-            "subtitle_3": "",
-            "text_3": "By 1990 the company was trading as two different businesses; Ulster Weavers Home Fashions (specialised in kitchen textiles and giftware) and Ulster Weavers Apparel (specialised in apparel fabrics), however, in 2010 both of them were merged to form Ulster Weavers Limited.",
-            "image_3": "shopify://shop_images/Cut-length_Service_BW_55.jpg",
-            "year_4": "2018",
-            "subtitle_4": "",
-            "text_4": "In 2018, Ulster Weavers acquired J Rosenthal & Sons (JRS) a Manchester-based ready-made bedding and curtain products specialist. Established back in 1911, JRS was a third-generation family-run business, much like Ulster Weavers, and was steeped in history with a passion for all things textiles. ",
-            "image_4": "shopify://shop_images/about-2-bw-55.jpg",
-            "year_5": "",
-            "subtitle_5": "",
-            "text_5": "",
-            "year_6": "",
-            "subtitle_6": "",
-            "text_6": ""
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_16224b1_V8PDJy"
-      ],
-      "disabled": true,
-      "settings": {}
-    },
-    "rich_text_MUzxed": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_9hAJbM": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Evolution of UW Home",
-            "heading_size": "h1"
-          }
-        },
-        "text_F6ncdP": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling.</p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.</p>"
-          }
-        },
-        "button_7qR7nb": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_9hAJbM",
-        "text_F6ncdP",
-        "button_7qR7nb"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 0
-      }
-    },
-    "1762867409f9f3a7d3": {
-      "type": "_blocks",
-      "settings": {}
-    },
-    "multirow_i9U3XE": {
-      "type": "multirow",
-      "blocks": {
-        "row_qT3LbH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Firefly_Loom_Generated_Image_570547_55.jpg",
-            "caption": "",
-            "heading": "1880",
-            "text": "<p>Ulster Weavers textile company was originally founded in 1880. Throughout the late 19th and early 20th century, the company continued to spin, weave, bleach, dye and finish the high-quality linen, for which Ireland and Ulster had become famous all over the world.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_KMCcMk": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/1968_Tea_Towels_Catalogue_BW_55.jpg",
-            "caption": "",
-            "heading": "1960",
-            "text": "<p>During the 1960’s, the company brought its years of textile expertise to the kitchen sector – specialising at first in Irish Linen Tea Towel manufacturing and, over the years, expanding the range to include all types of kitchen co-ordinates, bags and giftware. </p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_XdY4UQ": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Cut-length_Service_BW_55.jpg",
-            "caption": "",
-            "heading": "1990",
-            "text": "<p>By 1990 the company was trading as two different businesses; Ulster Weavers Home Fashions (specialised in kitchen textiles and giftware) and Ulster Weavers Apparel (specialised in apparel fabrics), however, in 2010 both of them were merged to form Ulster Weavers Limited.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_RYA4nH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/about-2-bw-55.jpg",
-            "caption": "",
-            "heading": "2018",
-            "text": "<p>In 2018, Ulster Weavers acquired J Rosenthal & Sons (JRS) a Manchester-based ready-made bedding and curtain products specialist. Established back in 1911, JRS was a third-generation family-run business, much like Ulster Weavers, and was steeped in history with a passion for all things textiles. </p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_qT3LbH",
-        "row_KMCcMk",
-        "row_XdY4UQ",
-        "row_RYA4nH"
-      ],
-      "name": "t:sections.multirow.presets.name",
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
-        "image_layout": "alternate-left",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "row_color_scheme": "scheme-2",
-        "padding_top": 40,
-        "padding_bottom": 48
-      }
-    },
-    "rich_text_GPraHE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_qW67q9": {
-          "type": "heading",
-          "settings": {
-            "heading": "A Future in Mind",
-            "heading_size": "h1"
-          }
-        },
-        "text_3tXYty": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The purchase of JRS was a strategic acquisition, with the aim of becoming a one stop shop for the design and supply of beautiful home products and accessories for every room in the house. </p><p>It facilitated an ambition to grow Ulster Weavers’ market share within the homewares arena, whilst also enabling the newly acquired business to access a greater spread of customers. </p><p>To this day, we continue to manufacture small runs in Northern Ireland, where products can now carry the “<em>Made In Britain</em>” logo and we also produce bespoke small print run kitchen textile items at our Manchester site.</p>"
-          }
-        },
-        "button_88mceQ": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_qW67q9",
-        "text_3tXYty",
-        "button_88mceQ"
-      ],
-      "custom_css": [
-        "h2 {color: #1a1a1a;}",
-        "p {text-wrap: pretty;}"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 48
-      }
-    },
-    "responive_image_KbRgK6": {
-      "type": "responive-image",
-      "name": "Responsive Image",
-      "settings": {
-        "image": "shopify://shop_images/150721DK1_154_1200px.jpg",
-        "alt_text": "",
-        "color_scheme": "",
-        "width_option": "narrow",
-        "padding_top": "none",
-        "padding_bottom": "large"
-      }
-    },
-    "rich_text_jAbEN4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_MHphma": {
-          "type": "heading",
-          "settings": {
-            "heading": "UW Home Today",
-            "heading_size": "h1"
-          }
-        },
-        "text_zmkk9Y": {
-          "type": "text",
-          "settings": {
-            "text": "<p>In early 2024, we moved one step further to consolidate our homeware brands under the umbrella of UW Home. This strategic move allowed our business to streamline its offerings and provide a cohesive experience for our well-established and valued customers.</p><p>UW Home’s current product range is wide and varied and now include ceramics, bathroom and outdoor textiles. Collections are inspired by the latest design and colour trends, developed by our in-house design studio, taking inspiration from global research and extensive travel. Ranges include timeless classics, modern heritage, trend-led looks and much, much more.</p><p>Our UW Home teams design and source products with sustainability at the heart of their development journey. Our products are predominantly produced from consciously chosen substrates and are made in factories that take the time to ensure their processes are kind to the environment around them. These products carry the “<em>sustainably sourced, ethically made</em>“ logo. </p><p>We have a dedicated team based in our Manchester office to support all admin functions, Merchandising, Accounts, Logistics and Quality Control and two impressive warehouse spaces to service our customers orders daily.</p>"
-          }
-        },
-        "button_nQrG99": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_MHphma",
-        "text_zmkk9Y",
-        "button_nQrG99"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 48
-      }
-    },
-    "responive_image_NiCHHP": {
-      "type": "responive-image",
-      "name": "Responsive Image",
-      "settings": {
-        "image": "shopify://shop_images/UW_Home_International_Collaboration_Banner.jpg",
-        "alt_text": "",
-        "color_scheme": "",
-        "width_option": "full",
-        "padding_top": "none",
-        "padding_bottom": "large"
-      }
-    },
-    "image_banner_tbLH6q": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_cCHKEj": {
-          "type": "heading",
-          "settings": {
-            "heading": "International Collaboration",
-            "heading_size": "h1"
-          }
-        },
-        "text_Ljmn6d": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_GBcLjn": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_cCHKEj",
-        "text_Ljmn6d",
-        "buttons_GBcLjn"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/UW_Home_International_Collaboration_Banner.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "scheme-5",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
-    "rich_text_zBtQP4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_XFF3PN": {
-          "type": "heading",
-          "settings": {
-            "heading": "International Collaboration",
-            "heading_size": "h1"
-          }
-        },
-        "text_6PMwpL": {
-          "type": "text",
-          "settings": {
-            "text": "<p>From humble beginnings in Northern Ireland 140 years ago, we've used our expertise to grow our reach worldwide. We take pride in the diverse collaboration taking place across our supply chain, ensuring we can deliver quality products to retailers – big and small – globally.</p>"
-          }
-        },
-        "button_dJAyGq": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_XFF3PN",
-        "text_6PMwpL",
-        "button_dJAyGq"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multirow_Afkegf": {
-      "type": "multirow",
-      "blocks": {
-        "row_nMibHz": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/161121DK1_054_1200px.jpg",
-            "caption": "",
-            "heading": "Supplying Global Retailers",
-            "text": "<p>The UK is the largest market for UW Home; however, we ship our products globally, exporting to North America, Latin America, Europe, Asia and Australia. We welcome buyers from around the world to our Design & Production facility in Belfast, Northern Ireland, and our Showroom and studio facility in Manchester, England.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_3eBXX3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Account_Management_0405.jpg",
-            "caption": "",
-            "heading": "Support Around the World",
-            "text": "<p>Our Head Office teams span across two locations – the birthplace of our brand in Lisburn, Northern Ireland, and Manchester, where we house our Showroom and warehousing facilities. In New York, our international office connects us with customers across the Atlantic. </p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_eaqJWH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Nandini_Factory_1598.jpg",
-            "caption": "",
-            "heading": "Responsible Manufacturing",
-            "text": "<p>We also have sourcing hubs in Pakistan, India and China, located close to our partner factories, where the vast majority of our manufacturing takes place. These teams help ensure a smooth process, consistent quality and responsible production as we continue to grow globally.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_nMibHz",
-        "row_3eBXX3",
-        "row_eaqJWH"
-      ],
-      "name": "t:sections.multirow.presets.name",
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
-        "image_layout": "alternate-left",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "row_color_scheme": "scheme-2",
         "padding_top": 48,
         "padding_bottom": 60
       }
     },
-    "rich_text_PbbAih": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jU8Cr7": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Customers",
-            "heading_size": "h1"
-          }
-        },
-        "text_azqKYq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at purus non ligula placerat sagittis. In posuere lacinia finibus. Curabitur ornare dui mi, sed euismod massa blandit et. Mauris eu tellus a erat placerat efficitur. Nunc facilisis in urna at venenatis. Donec id elementum elit. </p><p>Duis eget sem pellentesque, efficitur augue a, interdum sem. Donec sagittis a ante nec luctus. Sed pretium aliquam neque, ullamcorper semper orci pharetra sit amet. Vestibulum nec erat et turpis dictum malesuada.</p><p>Donec malesuada facilisis bibendum. Suspendisse at vestibulum magna, at euismod nulla. Duis quam dolor, faucibus non purus quis, laoreet consectetur sem. </p>"
-          }
-        },
-        "button_FbaTyY": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_jU8Cr7",
-        "text_azqKYq",
-        "button_FbaTyY"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "scheme-2",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 48
-      }
-    },
-    "multicolumn_GU4Nnk": {
+    "multicolumn_Gpg7PC": {
       "type": "multicolumn",
       "blocks": {
-        "column_kgGdR9": {
+        "column_QLhbpr": {
           "type": "column",
           "settings": {
-            "title": "Customer 1",
-            "text": "<p>\"Buying with UW Home generated profits of over £XX,XXX in 2024.\"</p>",
+            "title": "Pencil Pleat Curtains",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_QRNBpn": {
+        "column_WAj3Qr": {
           "type": "column",
           "settings": {
-            "title": "Customer 2",
-            "text": "<p>\"UW Home always go above and beyond, offering brilliant support beginning to end.\"</p>",
+            "title": "Eyelet Curtains",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_CeWjBc": {
+        "column_6yRyna": {
           "type": "column",
           "settings": {
-            "title": "Customer 3",
-            "text": "<p>\"We love seeing the brands evolve with each season, and so do our customers.\"</p>",
+            "title": "Voiles",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_nKgXfU": {
+        "column_CBDahr": {
           "type": "column",
           "settings": {
-            "title": "Customer 4",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "title": "Panels",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_hgwd87": {
+        "column_wmMpmN": {
           "type": "column",
           "settings": {
-            "title": "Customer 5",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6QJ6y3": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 6",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9wWemX": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 7",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HKDBFt": {
-          "type": "column",
-          "settings": {
-            "title": "Customer 8",
-            "text": "<p>\"Thanks to UW Home, we've seen an increase of XX% in revenue from bedding.\"</p>",
+            "title": "Linings",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_kgGdR9",
-        "column_QRNBpn",
-        "column_CeWjBc",
-        "column_nKgXfU",
-        "column_hgwd87",
-        "column_6QJ6y3",
-        "column_9wWemX",
-        "column_HKDBFt"
+        "column_QLhbpr",
+        "column_WAj3Qr",
+        "column_6yRyna",
+        "column_CBDahr",
+        "column_wmMpmN"
       ],
-      "disabled": true,
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
+        "title": "Curtains",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_cbH8nD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_KpaYbH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sandringham_Bath_Sheet_Blue_01new.jpg",
+            "title": "Bath & Hand Towels",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bNyFDQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Drift_Home_Abode_Bath_Mat_Terracotta_01.jpg",
+            "title": "Bath & Shower Mats",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_KpaYbH",
+        "column_bNyFDQ"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Bathroom",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_yMVWaC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_r36JGr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CY6-CUSHN-PK_sn1.jpg",
+            "title": "Outdoor Cushions",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GmdL3f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/RCU-RUGOD-BE_sn1.jpg",
+            "title": "Outdoor Rugs",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_r36JGr",
+        "column_GmdL3f"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Outdoor Textiles",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
         "padding_bottom": 60
       }
     },
     "responive_image_QNfPNc": {
       "type": "responive-image",
+      "disabled": true,
       "custom_css": [
         ".responsive-image-section {background-color: #fff;}"
       ],
@@ -1115,57 +747,6 @@
         "width_option": "narrow",
         "padding_top": "large",
         "padding_bottom": "none"
-      }
-    },
-    "image_banner_GfbKca": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_m6pmze": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Customers",
-            "heading_size": "h1"
-          }
-        },
-        "text_AdUW6F": {
-          "type": "text",
-          "settings": {
-            "text": "We work with a number of businesses",
-            "text_style": "body"
-          }
-        },
-        "buttons_i8WWLD": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_m6pmze",
-        "text_AdUW6F",
-        "buttons_i8WWLD"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Our_Customers_Banner.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "image_behavior": "ambient",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "scheme-5",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
       }
     },
     "rich_text_RnGYpt": {
@@ -1201,6 +782,7 @@
         "text_TCnkwe",
         "button_zDMYeP"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -1217,26 +799,16 @@
     "main",
     "image_banner_p8CBLe",
     "176312754100ce0da6",
-    "multicolumn_nEMCbX",
     "rich_text_fwprFV",
     "multicolumn_xW6BTh",
     "multicolumn_zFFc7F",
+    "multicolumn_XcdbFf",
+    "multicolumn_L7Yg9n",
     "multicolumn_t3Ptkj",
-    "17628689041c1c2c0c",
-    "rich_text_MUzxed",
-    "1762867409f9f3a7d3",
-    "multirow_i9U3XE",
-    "rich_text_GPraHE",
-    "responive_image_KbRgK6",
-    "rich_text_jAbEN4",
-    "responive_image_NiCHHP",
-    "image_banner_tbLH6q",
-    "rich_text_zBtQP4",
-    "multirow_Afkegf",
-    "rich_text_PbbAih",
-    "multicolumn_GU4Nnk",
+    "multicolumn_Gpg7PC",
+    "multicolumn_cbH8nD",
+    "multicolumn_yMVWaC",
     "responive_image_QNfPNc",
-    "image_banner_GfbKca",
     "rich_text_RnGYpt"
   ]
 }
