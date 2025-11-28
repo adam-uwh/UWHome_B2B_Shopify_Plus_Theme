@@ -30,9 +30,13 @@
           "type": "announcement",
           "disabled": false,
           "settings": {
-            "text": "Repeat order? Upload your list to save time!",
+            "text": "Loved your last selection? Order quicker with CSV lists",
             "link": "shopify://pages/quick-order"
           }
+        },
+        "announcement-bar-0": {
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
