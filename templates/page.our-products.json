@@ -489,7 +489,7 @@
           "settings": {
             "image": "shopify://shop_images/BJD-BSDSP-NY_sn1.jpg",
             "title": "Bedspreads",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, quilting and embroidery</li><li>Pinsonic and heatpress effects</li><li>Velvet, faux fur and bouclé finishes</li><li>Digital, rotary, panel, and screen printing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bedspreads"
           }
@@ -519,7 +519,7 @@
           "settings": {
             "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
             "title": "Cushions",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Embroidery, appliqué, jacquard and ruching effects</li><li>Velvet, faux fur and bouclé finishes</li><li>Piped, fringe, and tasselled edges</li><li>Digital, rotary, panel, and screen printing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/cushions"
           }
@@ -529,7 +529,7 @@
           "settings": {
             "image": "shopify://shop_images/Quinn_Throw_Moss_03.jpg",
             "title": "Throws",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, quilting and embroidery</li><li>Velvet, faux fur and bouclé finishes</li><li>Fringe, tasselled and knotted edges</li><li>Digital, rotary, panel, and screen printing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/throws"
           }
