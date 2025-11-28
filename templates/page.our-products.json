@@ -27,35 +27,13 @@
         "heading_4LrWmm": {
           "type": "heading",
           "settings": {
-            "heading": "Introducing UW Home",
+            "heading": "Our Products",
             "heading_size": "h0"
-          }
-        },
-        "text_eexWDP": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Learn what we can offer your business as a global leader in textiles.",
-            "text_style": "subtitle"
-          }
-        },
-        "buttons_TJXhTt": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_4LrWmm",
-        "text_eexWDP",
-        "buttons_TJXhTt"
+        "heading_4LrWmm"
       ],
       "custom_css": [
         "h2 {color: white;}",
@@ -211,14 +189,14 @@
         "heading_8RUQTc": {
           "type": "heading",
           "settings": {
-            "heading": "Who We Are",
+            "heading": "For Kitchen, Bedroom and Beyond",
             "heading_size": "h1"
           }
         },
         "text_hCbtQ3": {
           "type": "text",
           "settings": {
-            "text": "<p>UW Home is a family-run homeware retailer based in the UK, with over 140 years of specialist expertise in textiles. We exist to deliver beautifully designed, quality products at a fair price, from ethical sources, to retail outlets worldwide.</p><p>Alongside our 10 diverse and design-led homeware brands,  we offer a number of services to accommodate a variety of businesses around the worl</p><p>[Update the below please as it's already used as an intro to services]</p><p>***UW Home offers retailers a design-led portfolio of homeware brands, each developed with a distinct personality, purpose, lifestyle focus and budget. Our collections are built to resonate with diverse consumer segments across global markets, enabling retailers to meet evolving customer expectations with style, substance, and storytelling.</p><p>Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team. From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.***</p>"
+            "text": "<p>[Update the below please as it's already used as an intro to services]</p><p>***Committed to excellence, our product portfolio covers everything from kitchen ceramics and tabletop textiles to bedding, towels and rugs, each meticulously designed and sourced by our in-house team.***</p>"
           }
         },
         "button_6RhXFb": {
@@ -258,31 +236,31 @@
         "column_YpjH4X": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
-            "title": "Bedding",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/SMU-TTC1P-PK_sn2.jpg",
+            "title": "Tea Towels",
+            "text": "<p>Our signature Cotton Tea Towels are beautiful and practical.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>We also offer a small selection of Made in Britain tea towels that are sourced and screen printed at our Lisburn facility.</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/tea-towels"
           }
         },
         "column_YgCB8r": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
-            "title": "Accessories",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/HBI-DBLGL-GY_sn2.jpg",
+            "title": "Oven Gloves",
+            "text": "<p>Lorem ipsum</p><p>[Materials, finishes, embellishments]</p><p>[Double Oven Gloves and Gauntlet styles]</p>",
+            "link_label": "Shop now",
+            "link": "shopify://collections/oven-gloves"
           }
         },
         "column_qpcbzP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MO4-RUGOD-TA_sn1.jpg",
-            "title": "Rugs",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "image": "shopify://shop_images/CD9-APRPV-MI_sn2.jpg",
+            "title": "Aprons",
+            "text": "<p>Our Cotton Aprons feature an adjustable necktie and a roomy pocket (or two!) to add comfort and convenience to kitchen routines.</p><p>[Materials, finishes, embellishments]</p><p>[Cotton and PVC Aprons]</p>",
+            "link_label": "Shop now",
+            "link": "shopify://collections/aprons"
           }
         },
         "column_ybptnb": {
@@ -329,18 +307,198 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
+        "title": "Kitchen Textiles",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 6,
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_zFFc7F": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_idtMG6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
+            "title": "Tea Towels",
+            "text": "<p>Lorem ipsum</p><p>Materials</p>",
+            "link_label": "Shop now",
+            "link": "shopify://collections/tea-towels"
+          }
+        },
+        "column_qgd4j3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
+            "title": "Accessories",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PbFkjL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MO4-RUGOD-TA_sn1.jpg",
+            "title": "Rugs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kUqziY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sandringham_Bath_Mat_Natural_01.jpg",
+            "title": "Towels",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LPJHwa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CK5-DBLGL-MI_sn2.jpg",
+            "title": "Kitchenware",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JX9q8M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BHF-BOWLP-MI_sn4.jpg",
+            "title": "Ceramics",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_idtMG6",
+        "column_qgd4j3",
+        "column_PbFkjL",
+        "column_kUqziY",
+        "column_LPJHwa",
+        "column_JX9q8M"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Kitchen Ceramics",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_t3Ptkj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FQRFMx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
+            "title": "Bedding",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Yd9gB7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
+            "title": "Accessories",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hb7dke": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MO4-RUGOD-TA_sn1.jpg",
+            "title": "Rugs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DPK4YJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sandringham_Bath_Mat_Natural_01.jpg",
+            "title": "Towels",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_74n6Gj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CK5-DBLGL-MI_sn2.jpg",
+            "title": "Kitchenware",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qLY3f7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BHF-BOWLP-MI_sn4.jpg",
+            "title": "Ceramics",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FQRFMx",
+        "column_Yd9gB7",
+        "column_hb7dke",
+        "column_DPK4YJ",
+        "column_74n6Gj",
+        "column_qLY3f7"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Bedroom",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 60
       }
@@ -506,10 +664,6 @@
         "row_XdY4UQ",
         "row_RYA4nH"
       ],
-      "custom_css": [
-        "h2 {color: #857550;}",
-        "p {text-wrap: pretty;}"
-      ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -629,82 +783,6 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 48
-      }
-    },
-    "responive_image_BMGLpU": {
-      "type": "responive-image",
-      "custom_css": [
-        ".responsive-image-section {background-color: #1f2844;}"
-      ],
-      "name": "Responsive Image",
-      "settings": {
-        "image": "shopify://shop_images/UW_Home_Start_Your_Journey_20259_6f6b4917-8825-45f4-ad9d-4ef914fb012f.jpg",
-        "alt_text": "",
-        "color_scheme": "scheme-5",
-        "width_option": "narrow",
-        "padding_top": "small",
-        "padding_bottom": "none"
-      }
-    },
-    "rich_text_GdiGfX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DRWj9M": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mission & Values",
-            "heading_size": "h1"
-          }
-        },
-        "text_jaKgwX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At UW Home, our values are woven into everything we do. From design excellence to ethical sourcing, we make every decision with care – ensuring it's right for us and for you. These principles guide every corner of our business, shaping products and experiences that reflect quality, respect, craftsmanship and innovation.</p>"
-          }
-        },
-        "heading_qzAPUC": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sustainability",
-            "heading_size": "h1"
-          }
-        },
-        "text_MHKABQ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We believe good design goes hand in hand with responsible sourcing. Sustainability guides the way we work, from the partners we choose to the materials and processes behind every product. We collaborate with suppliers who share our commitment to transparency, safe production, and reducing environmental impact, with clear expectations around water, energy, waste and chemical management.</p><p>And we’re always improving. By actively monitoring our supply chain and supporting better practices, we’re working towards a future where responsible production is simply the standard.</p>"
-          }
-        },
-        "button_Pi4CyY": {
-          "type": "button",
-          "settings": {
-            "button_label": "Find out more",
-            "button_link": "shopify://pages/sustainability",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DRWj9M",
-        "text_jaKgwX",
-        "heading_qzAPUC",
-        "text_MHKABQ",
-        "button_Pi4CyY"
-      ],
-      "custom_css": [
-        "p {text-wrap: pretty;}"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "scheme-5",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 60
       }
     },
     "responive_image_NiCHHP": {
@@ -1142,6 +1220,8 @@
     "multicolumn_nEMCbX",
     "rich_text_fwprFV",
     "multicolumn_xW6BTh",
+    "multicolumn_zFFc7F",
+    "multicolumn_t3Ptkj",
     "17628689041c1c2c0c",
     "rich_text_MUzxed",
     "1762867409f9f3a7d3",
@@ -1149,8 +1229,6 @@
     "rich_text_GPraHE",
     "responive_image_KbRgK6",
     "rich_text_jAbEN4",
-    "responive_image_BMGLpU",
-    "rich_text_GdiGfX",
     "responive_image_NiCHHP",
     "image_banner_tbLH6q",
     "rich_text_zBtQP4",
