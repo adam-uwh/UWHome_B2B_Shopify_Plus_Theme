@@ -19,30 +19,30 @@
       "settings": {
         "collection": "ulster-weavers",
         "products_to_show": 12,
-        "header-6c4849790a1eb8062b26ef23eac35dc0": null,
+        "header-6ce27467743401958be7a03e19e57535": null,
         "title": "New from Ulster Weavers",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "header-94e20846264a713aac4063fbb46e5d9f": null,
+        "header-19fcce5eb0bbeef84618876832cb701c": null,
         "columns_desktop": 4,
         "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
-        "header-6a36ae8888cf08492eb72589e8037eaf": null,
+        "header-c41e14952d8259f3efbd6b0d6eadc958": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "header-f09457738a29cba124549488962a9ae0": null,
+        "header-ec3a4499f4531aaa3f38538979afd36d": null,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "header-ce25ad3065c15ebf544275432e4253b0": null,
+        "header-7231fe18948012d5e33df29ba147285f": null,
         "padding_top": 48,
         "padding_bottom": 52
       },
@@ -73,86 +73,6 @@
         "featured_collection4": {
           "settings": {
             "collection": "curtains"
-          }
-        }
-      }
-    },
-    "multicolumn": {
-      "settings": {
-        "image_width": "full",
-        "swipe_on_mobile": true,
-        "padding_top": 24
-      },
-      "blocks": {
-        "column1": {
-          "settings": {
-            "image": "shopify://shop_images/Appletree_Logo.png",
-            "title": "",
-            "link": "shopify://collections/appletree"
-          }
-        },
-        "column2": {
-          "settings": {
-            "image": "shopify://shop_images/Bedlam_Logo.png",
-            "title": "",
-            "link": "shopify://collections/bedlam"
-          }
-        },
-        "column3": {
-          "settings": {
-            "image": "shopify://shop_images/Curtina_Logo.png",
-            "title": "",
-            "link": "shopify://collections/curtina"
-          }
-        },
-        "column_437biK": {
-          "settings": {
-            "image": "shopify://shop_images/D_D_Logo.png",
-            "title": "",
-            "link_label": "",
-            "link": "shopify://collections/dreams-drapes"
-          }
-        },
-        "column4": {
-          "settings": {
-            "image": "shopify://shop_images/Drift_Logo.png",
-            "title": "",
-            "link": "shopify://collections/drift"
-          }
-        },
-        "column5": {
-          "settings": {
-            "image": "shopify://shop_images/Fusion_Logo.png",
-            "title": "",
-            "link": "shopify://collections/fusion"
-          }
-        },
-        "column_8Xe9AB": {
-          "settings": {
-            "image": "shopify://shop_images/House_Llewlyn-Bowen_Logo.png",
-            "title": "",
-            "link": "shopify://collections/laurence-llewelyn-bowen"
-          }
-        },
-        "column_MLpgme": {
-          "settings": {
-            "image": "shopify://shop_images/Serene_Logo.png",
-            "title": "",
-            "link": "shopify://collections/serene"
-          }
-        },
-        "column_TJHLcX": {
-          "settings": {
-            "image": "shopify://shop_images/Soiree_Logo.png",
-            "title": "",
-            "link": "shopify://collections/soiree"
-          }
-        },
-        "column6": {
-          "settings": {
-            "image": "shopify://shop_images/Ulster_Weavers_Logo_v2.png",
-            "title": "",
-            "link": "shopify://collections/ulster-weavers"
           }
         }
       }
