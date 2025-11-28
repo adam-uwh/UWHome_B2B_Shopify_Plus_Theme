@@ -22,6 +22,24 @@
         "padding_bottom": 4
       },
       "blocks": {}
+    },
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement_Kn4tj": {
+          "type": "announcement",
+          "disabled": false,
+          "settings": {
+            "text": "Repeat order? Upload your list to save time!",
+            "link": "shopify://pages/quick-order"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_Kn4tj",
+        "announcement-bar-0",
+        "announcement_DFQq4X"
+      ]
     }
   }
 }
