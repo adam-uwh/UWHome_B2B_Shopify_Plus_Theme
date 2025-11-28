@@ -26,24 +26,15 @@
     "announcement-bar": {
       "settings": {},
       "blocks": {
-        "announcement_Kn4tj": {
-          "type": "announcement",
+        "announcement_EyXYWb": {
           "disabled": false,
-          "settings": {
-            "text": "Loved your last selection? Order quicker with CSV lists",
-            "link": "shopify://pages/quick-order"
-          }
+          "settings": {}
         },
         "announcement-bar-0": {
           "disabled": true,
           "settings": {}
         }
-      },
-      "block_order": [
-        "announcement_Kn4tj",
-        "announcement-bar-0",
-        "announcement_DFQq4X"
-      ]
+      }
     }
   }
 }

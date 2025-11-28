@@ -38,6 +38,14 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_EyXYWb": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Loved your last selection? Order quicker with CSV lists",
+            "link": "shopify://pages/quick-order"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -55,6 +63,7 @@
         }
       },
       "block_order": [
+        "announcement_EyXYWb",
         "announcement-bar-0",
         "announcement_DFQq4X"
       ],
