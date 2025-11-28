@@ -356,7 +356,7 @@
             "title": "Table Runners",
             "text": "<p>A new product range, our table runners add extra flair.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Digitally printed</li><li>Reversible design</li></ul>",
             "link_label": "Shop the collection",
-            "link": ""
+            "link": "/collections/dining?filters=%7B\"product_type\"%3A%5B\"Table+Runners\"%5D%7D"
           }
         }
       },
@@ -399,7 +399,7 @@
             "title": "Foldable Bags",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
-            "link": "shopify://collections/tote-bags"
+            "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Roll-Up+Bag\"%5D%7D"
           }
         },
         "column_Ux7T8E": {
@@ -409,7 +409,7 @@
             "title": "Shopper Bags",
             "text": "<p>We craft our placemats with longevity and function in mind.</p><ul><li>Made from 100% cotton</li><li>Wipe-clean PVC coating</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>Small size available only.</p>",
             "link_label": "Shop the collection",
-            "link": "shopify://collections/tote-bags"
+            "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Bag\"%5D%7D"
           }
         },
         "column_qKFLCQ": {
@@ -474,29 +474,29 @@
           "settings": {
             "image": "shopify://shop_images/ESO-DCSET-TL_sn4.jpg",
             "title": "Duvet Cover Sets",
-            "text": "<p>[Short two line intro]</p><p></p><ul><li>Variety of sizes, from junior through to superking</li><li>Finished with digital, rotary and screen prints</li><li>Set includes duvet cover and pillowcase(s)</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, embroidery, ruching, [more...............]</li></ul>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>[Short two line intro]</p><p></p><ul><li>Variety of sizes, from junior through to superking</li><li>Set includes duvet cover and pillowcase(s)</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, embroidery, and [other textural effects]</li><li>Pinsonic effects, ruching, heatpress, and [other textural effects]</li><li>Pin tucks, ruffle edges, flat piping and [more trim finishes]</li><li>Digital, rotary, panel, and screen printing</li></ul>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/duvet-cover-sets"
           }
         },
         "column_hb7dke": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/ABP-BSDSP-OV_sn1.jpg",
+            "image": "shopify://shop_images/BJD-BSDSP-NY_sn1.jpg",
             "title": "Bedspreads",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/bedspreads"
           }
         },
         "column_DPK4YJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/TS2-FBSST-GN_sn1.jpg",
+            "image": "shopify://shop_images/FYS-FBSST-BE_sn1.jpg",
             "title": "Bed Sheets",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/bed-sheets"
           }
         },
         "column_74n6Gj": {
@@ -505,8 +505,8 @@
             "image": "shopify://shop_images/plain-dye_Pillowcases_Green_01_New.jpg",
             "title": "Pillowcases & Shams",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/pillows-pillow-shams"
           }
         },
         "column_Yd9gB7": {
@@ -515,17 +515,18 @@
             "image": "shopify://shop_images/VLP-CUSHN-BD_sn4.jpg",
             "title": "Cushions",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/cushions"
           }
         },
         "column_qLY3f7": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Quinn_Throw_Moss_03.jpg",
             "title": "Throws",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/throws"
           }
         }
       },
@@ -565,46 +566,51 @@
         "column_QLhbpr": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/GLX-CURTP-WN_sn1.jpg",
             "title": "Pencil Pleat Curtains",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/pencil-pleat-curtains"
           }
         },
         "column_WAj3Qr": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/TAL-CURTE-GY_sn1.jpg",
             "title": "Eyelet Curtains",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/eyelet-curtains"
           }
         },
         "column_6yRyna": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/WS3-VOILE-LC_sn1.jpg",
             "title": "Voiles",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "/collections/voiles-panels-linings?filters=%7B\"product_type\"%3A%5B\"Voile+Panel\"%5D%7D"
           }
         },
         "column_CBDahr": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/MTE-CURPE-TL_sn1_862ea0e5-1a17-4b01-9f3e-7fb0a8f677a8.jpg",
             "title": "Panels",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "/collections/voiles-panels-linings?filters=%7B\"product_type\"%3A%5B\"Eyelet+Single+Panel+Door+Curtain\"%5D%7D"
           }
         },
         "column_wmMpmN": {
           "type": "column",
           "settings": {
-            "title": "Linings",
+            "image": "shopify://shop_images/Eyelet_Blackout_Kit_White_01.jpg",
+            "title": "Curtain Linings",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "/voiles-panels-linings?filters=%7B\"product_type\"%3A%5B\"Eyelet+Blackout+Lining\"%5D%7D"
           }
         }
       },
@@ -646,8 +652,8 @@
             "image": "shopify://shop_images/Sandringham_Bath_Sheet_Blue_01new.jpg",
             "title": "Bath & Hand Towels",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/towels-face-cloths"
           }
         },
         "column_bNyFDQ": {
@@ -656,8 +662,8 @@
             "image": "shopify://shop_images/Drift_Home_Abode_Bath_Mat_Terracotta_01.jpg",
             "title": "Bath & Shower Mats",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/bath-shower-mats"
           }
         }
       },
@@ -696,8 +702,8 @@
             "image": "shopify://shop_images/CY6-CUSHN-PK_sn1.jpg",
             "title": "Outdoor Cushions",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/outdoor-cushions"
           }
         },
         "column_GmdL3f": {
@@ -706,14 +712,25 @@
             "image": "shopify://shop_images/RCU-RUGOD-BE_sn1.jpg",
             "title": "Outdoor Rugs",
             "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/outdoor-rugs"
+          }
+        },
+        "column_UGkQJr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Matteo_Picnic_Blanket_Green_01.jpg",
+            "title": "Picnic Blankets",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "link_label": "Shop the collection",
+            "link": "shopify://collections/picnic-blankets"
           }
         }
       },
       "block_order": [
         "column_r36JGr",
-        "column_GmdL3f"
+        "column_GmdL3f",
+        "column_UGkQJr"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
