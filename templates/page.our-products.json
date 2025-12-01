@@ -192,7 +192,7 @@
           "settings": {
             "image": "shopify://shop_images/HBI-POTMI-GY_sn2.jpg",
             "title": "Pot Mats & Mitts",
-            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
+            "text": "<p>Our Pot Mats are ideal for resting hot pots and pans, keeping your counters safe.</p><ul><li>Made from 100% cotton</li><li>Heat resistant</li><li>Digitally printed</li><li>Handy hanging loop</li><li>Internal pocket for a secure hold</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/pot-mats"
           }
@@ -211,8 +211,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/34c3e912-34a5-40a3-be78-e5eeeb073abe.jpg",
-            "title": "Tea Cosies",
-            "text": "<p>Lorem ipsum</p><ul><li>Made from 100% cotton</li><li>Protects from hot serveware up to 00°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul><p>[Materials, finishes, embellishments]</p><p>[Different styles]</p>",
+            "title": "Tea Cosies & Muffs",
+            "text": "<p>Keep your brew warmer for longer with our fun and functional Tea Cosies.</p><ul><li>Made from 100% cotton</li><li>Thick wadding lining for optimal insulation</li><li>Digitally printed</li></ul><p>Our Tea Cosies feature a hanging loop and fully cover pots of up to 6 cups. Our Tea Muffs leave the handle and spout accessible so you can pour while keeping the pot insulated.</p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/tea-cosies"
           }
