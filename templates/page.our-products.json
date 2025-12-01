@@ -706,7 +706,7 @@
           "settings": {
             "image": "shopify://shop_images/CY6-CUSHN-PK_sn1.jpg",
             "title": "Outdoor Cushions",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our Outdoor Cushions are designed to weather the elements while keeping things cosy and colourful.</p><ul><li>Made from 100% cotton or polyester</li><li>Water and UV resistant</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/outdoor-cushions"
           }
@@ -716,7 +716,7 @@
           "settings": {
             "image": "shopify://shop_images/RCU-RUGOD-BE_sn1.jpg",
             "title": "Outdoor Rugs",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our Outdoor Rugs add warmth and style to patios, picnics and everything in between.</p><ul><li>Made from 100% polypropylene</li><li>Water and UV resistant</li><li>Lightweight and easy to carry</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/outdoor-rugs"
           }
