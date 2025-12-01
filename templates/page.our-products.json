@@ -656,7 +656,7 @@
           "settings": {
             "image": "shopify://shop_images/Sandringham_Bath_Sheet_Blue_01new.jpg",
             "title": "Bath & Hand Towels",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Soft and absorbent, our Towels add warmth and style wherever you use them.</p><ul><li>Made from 100% cotton</li><li></li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/towels-face-cloths"
           }
