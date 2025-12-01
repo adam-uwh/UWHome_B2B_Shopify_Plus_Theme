@@ -256,7 +256,7 @@
           "settings": {
             "image": "shopify://shop_images/BHF-DPLAT-MI_sn3.jpg",
             "title": "Plates",
-            "text": "<p>Our plates are perfect for everyday dining, bringing a fresh, stylish vibe to your table.</p><ul><li>Made from porcelain</li><li>Dishwasher and microwave safe</li><li>Side and dinner plates available</li><li>Sold individually or in sets of 4</li></ul>",
+            "text": "<p>Our plates are perfect for everyday dining, bringing a fresh, stylish vibe to your table.</p><ul><li>Made from porcelain</li><li>Dishwasher and microwave safe</li><li>Side and dinner plates available</li><li>Sold individually or as sets of 4</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/plates-bowls"
           }
@@ -266,7 +266,7 @@
           "settings": {
             "image": "shopify://shop_images/8WLSH62_LS.jpg",
             "title": "Bowls",
-            "text": "<p>Our printed Bowls enrich every table with their playful patterns and make mealtimes simpler.</p><ul><li>Made from porcelain</li><li>Dishwasher and microwave safe</li><li>Sold individually or sets of 4</li></ul>",
+            "text": "<p>Our printed Bowls enrich every table with their playful patterns and make mealtimes simpler.</p><ul><li>Made from porcelain</li><li>Dishwasher and microwave safe</li><li>Sold individually or as sets of 4</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/plates-bowls"
           }
@@ -656,7 +656,7 @@
           "settings": {
             "image": "shopify://shop_images/Sandringham_Bath_Sheet_Blue_01new.jpg",
             "title": "Bath & Hand Towels",
-            "text": "<p>Soft and absorbent, our Towels add warmth and style wherever you use them.</p><ul><li>Made from 100% cotton</li><li></li></ul><p>[Extra comment]</p>",
+            "text": "<p>Soft and absorbent, our Towels add warmth and style wherever you use them.</p><ul><li>Made from 100% cotton</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/towels-face-cloths"
           }
