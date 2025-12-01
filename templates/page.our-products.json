@@ -192,7 +192,7 @@
           "settings": {
             "image": "shopify://shop_images/HBI-POTMI-GY_sn2.jpg",
             "title": "Pot Mats & Mitts",
-            "text": "<p>Our Pot Mats are ideal for resting hot pots and pans, keeping your counters safe.</p><ul><li>Made from 100% cotton</li><li>Heat resistant</li><li>Digitally printed</li><li>Handy hanging loop</li><li>Internal pocket for a secure hold</li></ul>",
+            "text": "<p>Our Pot Mats double up as hand protection and a protective surface for hot cookware.</p><ul><li>Primarily made from cotton</li><li>Heat resistant</li><li>Digitally printed</li><li>Handy hanging loop</li><li>Internal pocket for a secure hold</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/pot-mats"
           }
@@ -202,7 +202,7 @@
           "settings": {
             "image": "shopify://shop_images/VGT-MICRO-MI_sn2.jpg",
             "title": "Microwave Mitts",
-            "text": "<p>Our Microwave Mitts protect hands from steam & hot water with neoprene or silicone dotted palms.</p><ul><li>Made from 100% cotton</li><li>Protects from hot cookware and steam up to 100°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul>",
+            "text": "<p>Our Microwave Mitts protect hands from steam & hot water with neoprene or silicone dotted palms.</p><ul><li>Primarily made from cotton</li><li>Protects from hot cookware and steam up to 250°C</li><li>Digitally printed</li><li>Handy hanging loop</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/microwave-mitts"
           }
@@ -212,7 +212,7 @@
           "settings": {
             "image": "shopify://shop_images/34c3e912-34a5-40a3-be78-e5eeeb073abe.jpg",
             "title": "Tea Cosies & Muffs",
-            "text": "<p>Keep your brew warmer for longer with our fun and functional Tea Cosies.</p><ul><li>Made from 100% cotton</li><li>Thick wadding lining for optimal insulation</li><li>Digitally printed</li><li>Tea Cosies have a hanging loop and fully cover pots of up to 6 cups</li></ul><p>Our Tea Muffs leave the handle and spout accessible so you can pour while keeping the pot insulated!</p>",
+            "text": "<p>Our Tea Cosies and Muffs keep tea tasting fresher for longer with their extra thick wadding.</p><ul><li>Primarily made from cotton</li><li>Thick wadding lining for optimal insulation</li><li>Digitally printed</li><li>Tea Cosies have a hanging loop and fully cover pots of up to 6 cups</li><li>Tea Muffs feature a heat-proof wooden base and an adjustable tie</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/tea-cosies"
           }
@@ -256,7 +256,7 @@
           "settings": {
             "image": "shopify://shop_images/BHF-DPLAT-MI_sn3.jpg",
             "title": "Plates",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our plates are perfect for everyday dining, bringing a fresh, stylish vibe to your table.</p><ul><li>Made from porcelain</li><li>Dishwasher and microwave safe</li><li>Side and dinner plates available</li><li>Sold individually or in sets of 4</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/plates-bowls"
           }
@@ -266,7 +266,7 @@
           "settings": {
             "image": "shopify://shop_images/8WLSH62_LS.jpg",
             "title": "Bowls",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our printed Bowls enrich every table with their playful patterns and make mealtimes simpler.</p><ul><li>Made from porcelain</li><li>Dishwasher and microwave safe</li><li>Sold individually or sets of 4</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/plates-bowls"
           }
@@ -276,7 +276,7 @@
           "settings": {
             "image": "shopify://shop_images/PYA-MUGBC-MI_sn2.jpg",
             "title": "Mugs",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our wide range of Mugs add a touch of personality to tea time.</p><ul><li>Made from new bone china</li><li>Dishwasher and microwave safe</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/mugs"
           }
@@ -400,7 +400,7 @@
           "settings": {
             "image": "shopify://shop_images/PYA-BAGPK-MI_sn2.jpg",
             "title": "Foldable Bags",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our Foldable Bags are the ultimate go-to for convenience and style.</p><ul><li>Made from 100% polyester</li><li>Magnetic fastening clasp to secure in place when folded down</li></ul>",
             "link_label": "Shop the collection",
             "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Roll-Up+Bag\"%5D%7D"
           }
@@ -410,7 +410,7 @@
           "settings": {
             "image": "shopify://shop_images/BHF-BAGPS-MI_sn2.jpg",
             "title": "Shopper Bags",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from 100% cotton</li><li>Wipe-clean PVC coating</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>Small size available only.</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Wipe-clean PVC finish</li><li>Magnetic fastening clasp</li><li>Fully lined</li><li>Secure inner zipped pocket</li></ul>",
             "link_label": "Shop the collection",
             "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Bag\"%5D%7D"
           }
@@ -420,7 +420,7 @@
           "settings": {
             "image": "shopify://shop_images/5BTFG613_LS.jpg",
             "title": "Shoulder Bags",
-            "text": "<p>Make shopping simple and stylish with our shoulder bags.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>We offer a range of shoulder bags with either a PVC, matte PVC or canvas finish. The PVC options are wipe-clean.</p>",
+            "text": "<p>Our Shoulder Bags have ample space to hold all of the essentials.</p><ul><li>Magnetic fastening clasp</li><li>Fully lined</li><li>Secure inner zipped pocket</li></ul><p>We offer a range of shoulder bags with either a PVC, matte PVC or canvas finish. The PVC options are wipe-clean.</p>",
             "link_label": "Shop the collection",
             "link": ""
           }
@@ -440,7 +440,7 @@
           "settings": {
             "image": "shopify://shop_images/8MLMW36_LS.jpg",
             "title": "Water Bottles",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our  Water Bottles are perfect for insulating drinks while out and about.</p><ul><li>Made from stainless steel</li><li>Screw top lid</li></ul>",
             "link_label": "Shop the collection",
             "link": ""
           }
