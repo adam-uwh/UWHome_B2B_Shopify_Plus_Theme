@@ -430,7 +430,7 @@
           "settings": {
             "image": "shopify://shop_images/618PLCB_LS.jpg",
             "title": "Cotton Tote Bags",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Secure inner zipped pocket</li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/tote-bags"
           }
@@ -666,7 +666,7 @@
           "settings": {
             "image": "shopify://shop_images/Drift_Home_Abode_Bath_Mat_Terracotta_01.jpg",
             "title": "Bath & Shower Mats",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our Bath Mats are available in a range of colours to suit any bathroom style.</p><ul><li>Made from 100% cotton or polyester</li><li>Heavyweight fabric</li><li>Anti-slip backing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bath-shower-mats"
           }
