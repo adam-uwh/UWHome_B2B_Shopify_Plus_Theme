@@ -400,7 +400,7 @@
           "settings": {
             "image": "shopify://shop_images/PYA-BAGPK-MI_sn2.jpg",
             "title": "Foldable Bags",
-            "text": "<p>Our Foldable Bags are the ultimate go-to for convenience and style.</p><ul><li>Made from 100% polyester</li><li>Magnetic fastening clasp to secure in place when folded down</li></ul>",
+            "text": "<p>Our foldable bags are the ultimate go-to for convenience and style.</p><ul><li>Made from 100% polyester</li><li>Magnetic fastening clasp to secure in place when folded down</li></ul>",
             "link_label": "Shop the collection",
             "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Roll-Up+Bag\"%5D%7D"
           }
@@ -420,7 +420,7 @@
           "settings": {
             "image": "shopify://shop_images/5BTFG613_LS.jpg",
             "title": "Shoulder Bags",
-            "text": "<p>Our Shoulder Bags have ample space to hold all of the essentials.</p><ul><li>Magnetic fastening clasp</li><li>Fully lined</li><li>Secure inner zipped pocket</li></ul><p>We offer a range of shoulder bags with either a PVC, matte PVC or canvas finish. The PVC options are wipe-clean.</p>",
+            "text": "<p>Our shoulder bags have ample space to hold all of the essentials.</p><ul><li>Magnetic fastening clasp</li><li>Fully lined</li><li>Secure inner zipped pocket</li></ul><p>We offer a range of shoulder bags with either a PVC, matte PVC or canvas finish. The PVC options are wipe-clean.</p>",
             "link_label": "Shop the collection",
             "link": ""
           }
@@ -440,7 +440,7 @@
           "settings": {
             "image": "shopify://shop_images/8MLMW36_LS.jpg",
             "title": "Water Bottles",
-            "text": "<p>Our  Water Bottles are perfect for insulating drinks while out and about.</p><ul><li>Made from stainless steel</li><li>Screw top lid</li></ul>",
+            "text": "<p>Our water bottles are perfect for insulating drinks while out and about.</p><ul><li>Made from stainless steel</li><li>Screw top lid</li></ul>",
             "link_label": "Shop the collection",
             "link": ""
           }
