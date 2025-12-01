@@ -410,7 +410,7 @@
           "settings": {
             "image": "shopify://shop_images/BHF-BAGPS-MI_sn2.jpg",
             "title": "Shopper Bags",
-            "text": "<p>We craft our placemats with longevity and function in mind.</p><ul><li>Made from 100% cotton</li><li>Wipe-clean PVC coating</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>Small size available only.</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from 100% cotton</li><li>Wipe-clean PVC coating</li><li>Digitally printed paper face</li><li>Small inner pocket</li></ul><p>Small size available only.</p>",
             "link_label": "Shop the collection",
             "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Bag\"%5D%7D"
           }
