@@ -22,15 +22,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to the New UW Home",
-            "heading_size": "h0"
+            "heading": "New Website. New Collections. Same Quality Service.",
+            "heading_size": "h1"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Browse Catalogue",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "Browse New Products",
+            "button_link_1": "shopify://collections/spring-summer-2026",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -43,13 +43,67 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "custom_css": [
         ".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}",
-        "h2 {text-wrap: balance;}",
+        "h2 {text-wrap: pretty;}",
         "@media screen and (max-width: 749px) {.banner--medium:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {min-height: 450px; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/BS8-DCSET-NY_sn4.jpg",
+        "image": "shopify://shop_images/VNU-DCSET-NL_sn4.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-5",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "image_banner_BwTy7E": {
+      "type": "image-banner",
+      "blocks": {
+        "text_UbwpFc": {
+          "type": "text",
+          "settings": {
+            "text": "Designed for living",
+            "text_style": "subtitle"
+          }
+        },
+        "heading_EyJrwF": {
+          "type": "heading",
+          "settings": {
+            "heading": "New Website. New Collections. Same Quality Service.",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_WRixBL": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Browse New Products",
+            "button_link_1": "shopify://collections/spring-summer-2026",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_UbwpFc",
+        "heading_EyJrwF",
+        "buttons_WRixBL"
+      ],
+      "custom_css": [
+        ".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}",
+        "h2 {text-wrap: pretty;}",
+        "@media screen and (max-width: 749px) {.banner--medium:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {min-height: 450px; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/LLR-DCSET-CG_sn4.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "image_behavior": "none",
@@ -152,34 +206,6 @@
         "padding_bottom": 52
       }
     },
-    "featured_collection1": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "bestselling-of-2025",
-        "products_to_show": 12,
-        "title": "This Year's Bestsellers",
-        "heading_size": "h2",
-        "description": "<p>Need</p>",
-        "show_description": true,
-        "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": true,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "quick_add": "bulk",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 48,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection_bB74HT": {
       "type": "featured-collection",
       "settings": {
@@ -190,9 +216,9 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "columns_desktop": 4,
+        "columns_desktop": 6,
         "enable_desktop_slider": true,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
@@ -208,132 +234,31 @@
         "padding_bottom": 52
       }
     },
-    "collection_list": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tea-towels"
-          }
-        },
-        "featured_collection2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "aprons"
-          }
-        },
-        "featured_collection5": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oven-gloves"
-          }
-        },
-        "featured_collection4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tote-bags"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection1",
-        "featured_collection2",
-        "featured_collection5",
-        "featured_collection4"
-      ],
-      "custom_css": [
-        ".grid {row-gap: 12px;}"
-      ],
-      "settings": {
-        "title": "Shop our top collections",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "scheme-5",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_D3ANUP": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_JHXhHy": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bedding"
-          }
-        },
-        "featured_collection_9RjDqD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cushions"
-          }
-        },
-        "featured_collection_NbMTaz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "throws"
-          }
-        },
-        "featured_collection_aEeFxb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "curtains"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_JHXhHy",
-        "featured_collection_9RjDqD",
-        "featured_collection_NbMTaz",
-        "featured_collection_aEeFxb"
-      ],
-      "custom_css": [
-        ".grid {row-gap: 12px;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "scheme-5",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 60
-      }
-    },
-    "featured_collection2": {
+    "featured_collection1": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "collection": "",
-        "products_to_show": 6,
-        "title": "New arrivals",
+        "collection": "spring-summer-2026",
+        "products_to_show": 12,
+        "title": "New in Bedroom & Living",
         "heading_size": "h2",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "enable_desktop_slider": true,
-        "full_width": false,
-        "show_view_all": false,
+        "full_width": true,
+        "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
+        "show_secondary_image": true,
+        "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
         "padding_bottom": 52
       }
     },
@@ -473,45 +398,132 @@
         "padding_bottom": 32
       }
     },
-    "collage_r7M8pF": {
-      "type": "collage",
+    "collection_list": {
+      "type": "collection-list",
       "blocks": {
-        "image_LRfGkY": {
-          "type": "image",
+        "featured_collection1": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/CW9-TCOSM-NY_sn2.jpg"
+            "collection": "tea-towels"
           }
         },
-        "product_XtrYgw": {
-          "type": "product",
+        "featured_collection2": {
+          "type": "featured_collection",
           "settings": {
-            "product": "ulster-weavers-connie-the-cow-tea-cosy-muff-one-size-in-navy",
-            "second_image": false
+            "collection": "aprons"
           }
         },
-        "collection_nEENKn": {
-          "type": "collection",
+        "featured_collection5": {
+          "type": "featured_collection",
           "settings": {
-            "collection": "connie-the-cow"
+            "collection": "oven-gloves"
+          }
+        },
+        "featured_collection4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tote-bags"
           }
         }
       },
       "block_order": [
-        "image_LRfGkY",
-        "product_XtrYgw",
-        "collection_nEENKn"
+        "featured_collection1",
+        "featured_collection2",
+        "featured_collection5",
+        "featured_collection4"
       ],
-      "disabled": true,
-      "name": "t:sections.collage.presets.name",
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
       "settings": {
-        "heading": "Featured Design",
+        "title": "Shop our top collections",
         "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "none",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-5",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_D3ANUP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_JHXhHy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bedding"
+          }
+        },
+        "featured_collection_9RjDqD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cushions"
+          }
+        },
+        "featured_collection_NbMTaz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "throws"
+          }
+        },
+        "featured_collection_aEeFxb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "curtains"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_JHXhHy",
+        "featured_collection_9RjDqD",
+        "featured_collection_NbMTaz",
+        "featured_collection_aEeFxb"
+      ],
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-5",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 60
+      }
+    },
+    "featured_collection2": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "bestselling-of-2025",
+        "products_to_show": 12,
+        "title": "Bestselling of 2025",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 52
       }
     },
     "multicolumn2": {
@@ -573,7 +585,7 @@
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 44,
@@ -583,15 +595,15 @@
   },
   "order": [
     "image_banner",
+    "image_banner_BwTy7E",
     "rich_text",
     "multicolumn1",
-    "featured_collection1",
     "featured_collection_bB74HT",
+    "featured_collection1",
+    "multicolumn",
     "collection_list",
     "collection_list_D3ANUP",
     "featured_collection2",
-    "multicolumn",
-    "collage_r7M8pF",
     "multicolumn2"
   ]
 }

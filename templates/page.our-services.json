@@ -371,7 +371,7 @@
       "type": "responive-image",
       "name": "Responsive Image",
       "settings": {
-        "image": "shopify://shop_images/Catch_of_The_Day_LS_1200x900px.jpg",
+        "image": "shopify://shop_images/Showroom_Packaging_0363_1200x900px_81f46810-d0e9-4929-8cba-b81b2c9eed0b.jpg",
         "alt_text": "",
         "color_scheme": "",
         "width_option": "narrow",
@@ -521,7 +521,7 @@
         "text_8j6BLJ": {
           "type": "text",
           "settings": {
-            "text": "<p>We require customers to apply for a Company Account in order to access our DSV service. Click through to the short application form below, and leave the rest to us! We expect your application to be reviewed and (if approved) set up within 3-5 business days. From there, you'll be able to see exclusive pricing and easily buy what you need for your business.</p><p>For more information on getting set up and our DSV process, please read our FAQs.</p>"
+            "text": "<p><strong>***THIS INFO NEEDS TO BE CHECKED***</strong></p><p>We require customers to apply for a Company Account in order to access our DSV service. Click through to the short application form below, and leave the rest to us! We expect your application to be reviewed and (if approved) set up within 3-5 business days. From there, you'll be able to see exclusive pricing and easily buy what you need for your business.</p><p>For more information on getting set up and our DSV process, please read our FAQs.</p>"
           }
         },
         "button_atC9xK": {
@@ -694,7 +694,7 @@
         "text_zmkk9Y": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper. Suspendisse consectetur, nisi sed luctus vehicula, enim tellus pellentesque arcu, ac rutrum augue felis ut tellus. Mauris facilisis ut purus sed venenatis.</p><p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer tincidunt nibh dignissim, semper libero ut, efficitur eros. Donec dapibus justo in lectus aliquam tristique. Integer scelerisque laoreet nunc, ac commodo sem imperdiet a. Fusce nec massa pulvinar, condimentum ipsum vitae, tincidunt enim. Cras mollis, ligula a semper accumsan, lorem turpis porta tellus, vel tempus odio nulla vel arcu. Morbi tincidunt orci id tortor ullamcorper dapibus eget vitae massa.</p><p>In at turpis id felis varius fermentum tincidunt vitae turpis. In elit augue, interdum et nunc ut, luctus dignissim orci. Donec porta accumsan varius. Ut eros erat, tempus et pellentesque sed, lacinia id sem. Duis nec mauris vehicula, porta nulla ac, tincidunt dolor. Suspendisse in tortor a neque tempus pretium eu id risus. In eget varius nulla, ac ultrices justo. Donec tristique, ipsum a vestibulum fermentum, sapien felis luctus sem, non aliquet felis enim eu elit. Donec arcu dolor, scelerisque sed turpis facilisis, dignissim pulvinar dui.</p>"
+            "text": "<p><strong>***NEW COPY HERE***</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit purus magna, a hendrerit purus pharetra quis. Nulla facilisi. Cras dignissim eget nulla id imperdiet. Donec non molestie erat, ac rutrum erat. Donec vel vulputate ante. Pellentesque finibus massa ac ipsum posuere, vitae feugiat magna ullamcorper. Suspendisse consectetur, nisi sed luctus vehicula, enim tellus pellentesque arcu, ac rutrum augue felis ut tellus. Mauris facilisis ut purus sed venenatis.</p><p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer tincidunt nibh dignissim, semper libero ut, efficitur eros. Donec dapibus justo in lectus aliquam tristique. Integer scelerisque laoreet nunc, ac commodo sem imperdiet a. Fusce nec massa pulvinar, condimentum ipsum vitae, tincidunt enim. Cras mollis, ligula a semper accumsan, lorem turpis porta tellus, vel tempus odio nulla vel arcu. Morbi tincidunt orci id tortor ullamcorper dapibus eget vitae massa.</p><p>In at turpis id felis varius fermentum tincidunt vitae turpis. In elit augue, interdum et nunc ut, luctus dignissim orci. Donec porta accumsan varius. Ut eros erat, tempus et pellentesque sed, lacinia id sem. Duis nec mauris vehicula, porta nulla ac, tincidunt dolor. Suspendisse in tortor a neque tempus pretium eu id risus. In eget varius nulla, ac ultrices justo. Donec tristique, ipsum a vestibulum fermentum, sapien felis luctus sem, non aliquet felis enim eu elit. Donec arcu dolor, scelerisque sed turpis facilisis, dignissim pulvinar dui.</p>"
           }
         },
         "button_nQrG99": {
@@ -789,7 +789,7 @@
         "text_6PMwpL": {
           "type": "text",
           "settings": {
-            "text": "<p>From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently.</p>"
+            "text": "<p>From product development to delivery, and communication to craftsmanship, we ensure a seamless process, helping your business operate efficiently. We'll work with you to ensure the combination of services we're offering are best suited to your business needs.</p>"
           }
         },
         "button_dJAyGq": {
@@ -1172,7 +1172,7 @@
         "text_TCnkwe": {
           "type": "text",
           "settings": {
-            "text": "<p>[Process of requesting a Company Account for D2C]</p><p>[Process of expressing interest in private label] If you'd like to ask a question or chat with us in more detail, please contact our friendly Sales Team.</p>"
+            "text": "<p><strong>***NEW COPY NEEDED***</strong></p><p>[Process of requesting a Company Account for D2C]</p><p>[Process of expressing interest in private label] If you'd like to ask a question or chat with us in more detail, please contact our friendly Sales Team.</p>"
           }
         },
         "button_zDMYeP": {
