@@ -166,7 +166,7 @@
         "column_necrm7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
+            "image": "shopify://shop_images/SO6-THROW-CL_sn4.jpg",
             "title": "Fusion",
             "text": "",
             "link_label": "See more",
@@ -176,37 +176,37 @@
         "column_fA7bWW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/EBG-DCSET-WE_sn2.jpg",
+            "image": "shopify://shop_images/CKR-DCSET-WE_sn2.jpg",
             "title": "Serene",
             "text": "",
             "link_label": "See more",
             "link": "#ImageWithText--template--26620041462104__image_with_text_wCqMKM"
           }
         },
-        "column_nDKzcQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BS8-BSDSP-NY_sn3.jpg",
-            "title": "Dreams & Drapes",
-            "text": "",
-            "link_label": "See more",
-            "link": "#ImageWithText--template--26620041462104__image_with_text_UBwWrg"
-          }
-        },
         "column_YpjH4X": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
+            "image": "shopify://shop_images/AT6-DCSET-GN_sn5.jpg",
             "title": "Appletree",
             "text": "",
             "link_label": "See more",
             "link": "#Banner-template--26620041462104__image_banner_qg3ABB"
           }
         },
+        "column_nDKzcQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BWR-BSDSP-BE_sn3_f2c4fb4b-6366-4164-a613-8b1a14b2037c.jpg",
+            "title": "Dreams & Drapes",
+            "text": "",
+            "link_label": "See more",
+            "link": "#ImageWithText--template--26620041462104__image_with_text_UBwWrg"
+          }
+        },
         "column_xF7LfE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MD0-DCSET-NY_sn2.jpg",
+            "image": "shopify://shop_images/GKK-DCSET-NL_sn1.jpg",
             "title": "Soirée",
             "text": "",
             "link_label": "See more",
@@ -216,7 +216,7 @@
         "column_Adgzgg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+            "image": "shopify://shop_images/TUH-DCSET-GN_sn5_558f955a-b75d-46ad-a258-6705ce688ba8.jpg",
             "title": "Llewelyn-Bowen",
             "text": "",
             "link_label": "See more",
@@ -226,7 +226,7 @@
         "column_YgCB8r": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CUI-DCSET-MI_sn1.jpg",
+            "image": "shopify://shop_images/SW9-CUSSH-RD_sn4.jpg",
             "title": "Bedlam",
             "text": "",
             "link_label": "See more",
@@ -236,7 +236,7 @@
         "column_GfCPFj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CF3-MUGBC-MI_sn3.jpg",
+            "image": "shopify://shop_images/Butterfly_Grove_group_LS.jpg",
             "title": "Ulster Weavers",
             "text": "",
             "link_label": "See more",
@@ -256,7 +256,7 @@
         "column_hDKDmc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/QIN-THROW-CM_sn1_0c788ccf-b92e-4e1a-9814-671967ef316c.jpg",
+            "image": "shopify://shop_images/Hayden_Cushion_Blue_01.jpg",
             "title": "Drift",
             "text": "",
             "link_label": "See more",
@@ -267,8 +267,8 @@
       "block_order": [
         "column_necrm7",
         "column_fA7bWW",
-        "column_nDKzcQ",
         "column_YpjH4X",
+        "column_nDKzcQ",
         "column_xF7LfE",
         "column_Adgzgg",
         "column_YgCB8r",
@@ -377,7 +377,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/EV6-DCSET-MI_sn1.jpg",
+        "image": "shopify://shop_images/SO6-THROW-CL_sn4.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -440,57 +440,6 @@
         "section_color_scheme": "",
         "color_scheme": "scheme-1",
         "padding_top": 48,
-        "padding_bottom": 12
-      }
-    },
-    "image_with_text_UBwWrg": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_jMtip8": {
-          "type": "heading",
-          "settings": {
-            "heading": "Dreams & Drapes",
-            "heading_size": "h1"
-          }
-        },
-        "text_QH7n8Q": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dreams & Drapes is a British heritage brand offering timeless bedding collections with a classic touch. Inspired by traditional and archive-inspired florals, Jacobean patterns, and decorative motifs, our designs bring refined character and understated elegance to every bedroom.</p><p>With fully coordinated ranges across bedding, curtains, and cushions, Dreams & Drapes makes it easy to create a beautifully layered look that’s full of charm and lasting character. </p><p><strong>Timeless style, beautifully made.</strong></p>",
-            "text_style": "body"
-          }
-        },
-        "button_P7EAnk": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/dreams-drapes",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_jMtip8",
-        "text_QH7n8Q",
-        "button_P7EAnk"
-      ],
-      "custom_css": [
-        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/BS8-DCSET-NY_sn1.jpg",
-        "height": "large",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-1",
-        "padding_top": 48,
         "padding_bottom": 60
       }
     },
@@ -533,17 +482,68 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/AR9-DCSET-NL_sn1.jpg",
+        "image": "shopify://shop_images/AT6-DCSET-GN_sn5.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "left",
         "show_text_below": true
+      }
+    },
+    "image_with_text_UBwWrg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jMtip8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dreams & Drapes",
+            "heading_size": "h1"
+          }
+        },
+        "text_QH7n8Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dreams & Drapes is a British heritage brand offering timeless bedding collections with a classic touch. Inspired by traditional and archive-inspired florals, Jacobean patterns, and decorative motifs, our designs bring refined character and understated elegance to every bedroom.</p><p>With fully coordinated ranges across bedding, curtains, and cushions, Dreams & Drapes makes it easy to create a beautifully layered look that’s full of charm and lasting character. </p><p><strong>Timeless style, beautifully made.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_P7EAnk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/dreams-drapes",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jMtip8",
+        "text_QH7n8Q",
+        "button_P7EAnk"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/BWR-BSDSP-BE_sn3_f2c4fb4b-6366-4164-a613-8b1a14b2037c.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 60,
+        "padding_bottom": 12
       }
     },
     "image_with_text_UVNhTj": {
@@ -582,7 +582,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/MD0-DCSET-NY_sn1.jpg",
+        "image": "shopify://shop_images/GKK-DCSET-NL_sn1.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -633,7 +633,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/CFN-THROW-GD_sn6.jpg",
+        "image": "shopify://shop_images/TUH-DCSET-GN_sn5.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -733,7 +733,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/CUI-DCSET-MI_sn1.jpg",
+        "image": "shopify://shop_images/SW9-CUSSH-RD_sn4.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -787,14 +787,14 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/97750aea-9620-4c0f-a1f3-f4344ca6b205.jpg",
+        "image": "shopify://shop_images/Butterfly_Grove_group_LS.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "left",
         "show_text_below": true
@@ -887,7 +887,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Hayden_throw_natural_5.jpg",
+        "image": "shopify://shop_images/Hayden_Cushion_Blue_01.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -1260,8 +1260,8 @@
     "rich_text_zBtQP4",
     "image_with_text_N8g6tX",
     "image_with_text_wCqMKM",
-    "image_with_text_UBwWrg",
     "image_banner_qg3ABB",
+    "image_with_text_UBwWrg",
     "image_with_text_UVNhTj",
     "image_with_text_HiN7HH",
     "image_with_text_Nn38wf",

@@ -174,7 +174,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 52
@@ -202,7 +202,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 52
@@ -388,7 +388,7 @@
         "columns_desktop": 4,
         "color_scheme": "scheme-5",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 48,
         "padding_bottom": 0
@@ -438,7 +438,7 @@
         "columns_desktop": 4,
         "color_scheme": "scheme-5",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 12,
         "padding_bottom": 60
@@ -478,6 +478,7 @@
         "column11": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Chick_Chicken_Group_LS_1200x800px.jpg",
             "title": "Established Experts in Home Textiles",
             "text": "<p>For over 140 years we've been a trusted leader in textiles, in the kitchen, bedroom and beyond.</p>",
             "link_label": "Find out more",
@@ -487,6 +488,7 @@
         "column12": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/161121DK1_197_1200px.jpg",
             "title": "Full-Service Design for Global Retailers",
             "text": "<p>We help your business operate efficiently with a seamless process through development to delivery.</p>",
             "link_label": "Find out more",
@@ -496,6 +498,7 @@
         "column13": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/1764160911_0.jpg",
             "title": "Innovation for Every Kind of Customer",
             "text": "<p>Our 10 brilliant brands cover a variety of customer profiles and needs based on thorough research.</p>",
             "link_label": "Find out more",
@@ -505,6 +508,7 @@
         "column14": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Antique_Wash.jpg",
             "title": "Sustainable Strategy For Better Business",
             "text": "<p>Sustainability is woven into all we do, ensuring we're supporting your business alongside our planet.</p>",
             "link_label": "Find out more",
@@ -533,7 +537,7 @@
         "background_style": "primary",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 44,
         "padding_bottom": 48
       }

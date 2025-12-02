@@ -111,7 +111,7 @@
       "settings": {
         "image": "shopify://shop_images/AC2-CUSHN-RD_sn5.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
