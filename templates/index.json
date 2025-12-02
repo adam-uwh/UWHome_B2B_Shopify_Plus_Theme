@@ -403,6 +403,12 @@
             "collection": "bedding"
           }
         },
+        "featured_collection_aEeFxb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "curtains"
+          }
+        },
         "featured_collection_9RjDqD": {
           "type": "featured_collection",
           "settings": {
@@ -414,19 +420,13 @@
           "settings": {
             "collection": "throws"
           }
-        },
-        "featured_collection_aEeFxb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "curtains"
-          }
         }
       },
       "block_order": [
         "featured_collection_JHXhHy",
+        "featured_collection_aEeFxb",
         "featured_collection_9RjDqD",
-        "featured_collection_NbMTaz",
-        "featured_collection_aEeFxb"
+        "featured_collection_NbMTaz"
       ],
       "custom_css": [
         ".grid {row-gap: 12px;}"
