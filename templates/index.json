@@ -43,60 +43,6 @@
         "heading",
         "button"
       ],
-      "disabled": true,
-      "custom_css": [
-        ".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}",
-        "h2 {text-wrap: pretty;}",
-        "@media screen and (max-width: 749px) {.banner--medium:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {min-height: 450px; }}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/VNU-DCSET-NL_sn4.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "medium",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-left",
-        "desktop_content_alignment": "left",
-        "show_text_box": false,
-        "color_scheme": "scheme-5",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": false
-      }
-    },
-    "image_banner_BwTy7E": {
-      "type": "image-banner",
-      "blocks": {
-        "text_UbwpFc": {
-          "type": "text",
-          "settings": {
-            "text": "Designed for living",
-            "text_style": "subtitle"
-          }
-        },
-        "heading_EyJrwF": {
-          "type": "heading",
-          "settings": {
-            "heading": "New Website. New Collections. Same Quality Service.",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_WRixBL": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Browse New Products",
-            "button_link_1": "shopify://collections/spring-summer-2026",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_UbwpFc",
-        "heading_EyJrwF",
-        "buttons_WRixBL"
-      ],
       "custom_css": [
         ".subtitle {font-size: 2rem; color: rgba(var(--color-foreground), 0.9);}",
         "h2 {text-wrap: pretty;}",
@@ -595,7 +541,6 @@
   },
   "order": [
     "image_banner",
-    "image_banner_BwTy7E",
     "rich_text",
     "multicolumn1",
     "featured_collection_bB74HT",
