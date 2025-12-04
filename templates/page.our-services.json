@@ -541,6 +541,10 @@
         "text_8j6BLJ",
         "button_atC9xK"
       ],
+      "custom_css": [
+        "h2 {color: #1a1a1a;}",
+        "p {text-wrap: pretty;}"
+      ],
       "name": "Direct to Consumer",
       "settings": {
         "desktop_content_position": "center",
@@ -713,6 +717,10 @@
         "heading_MHphma",
         "text_zmkk9Y",
         "button_nQrG99"
+      ],
+      "custom_css": [
+        "h2 {color: #1a1a1a;}",
+        "p {text-wrap: pretty;}"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
