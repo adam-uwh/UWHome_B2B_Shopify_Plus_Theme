@@ -21,7 +21,13 @@
         "show_social": false,
         "payment_enable": false
       },
-      "blocks": {}
+      "blocks": {
+        "brand_information_pcigrJ": {
+          "settings": {
+            "show_social": true
+          }
+        }
+      }
     }
   }
 }
