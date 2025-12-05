@@ -12,5 +12,32 @@
   "context": {
     "market": "gb"
   },
-  "sections": {}
+  "sections": {
+    "176312754100ce0da6": {
+      "settings": {},
+      "blocks": {
+        "ai_gen_block_541c626_qbR9k8": {
+          "settings": {
+            "link_text_4": "Our Products",
+            "link_url_4": "shopify://pages/products"
+          }
+        }
+      }
+    },
+    "rich_text_RnGYpt": {
+      "settings": {},
+      "blocks": {
+        "text_TCnkwe": {
+          "settings": {
+            "text": "<p>With over 60,000 designs, teams across the globe and a history spanning back 140 years, we've got plenty to talk about. If you'd like to ask a question or chat with us in a bit more detail, please <a href=\"/pages/contact\" title=\"Contact\">contact us</a> – our expert Sales Team will be happy to take you on the journey! </p><p>We also have a variety of services and product thoughtfully tailored to suit every kind of retailer. Take a look at what we can offer your business, from off-the-shelf products to private label opportunities, our explore our extensive product portfolio.</p>"
+          }
+        },
+        "button_zDMYeP": {
+          "settings": {
+            "button_label_2": "View Products"
+          }
+        }
+      }
+    }
+  }
 }
