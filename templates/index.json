@@ -457,7 +457,7 @@
         "text_dyFFEp": {
           "type": "text",
           "settings": {
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet.</p>",
+            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
             "text_style": "body"
           }
         },
@@ -474,6 +474,9 @@
         "heading_r4PFQd",
         "text_dyFFEp",
         "button_6rWY77"
+      ],
+      "custom_css": [
+        "p {text-wrap: pretty;}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {

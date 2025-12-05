@@ -85,6 +85,9 @@
     "image_with_text_6nqjH": {
       "type": "image-with-text",
       "disabled": false,
+      "custom_css": [
+        "p {text-wrap: pretty;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/Botanical_Fruits_Bedspread_Multi_01_7849c5bf-ab97-4c93-8ffe-7ea71a652bb7.jpg",
         "height": "small",
@@ -116,7 +119,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet.</p>",
+            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
             "text_style": "body"
           }
         },
