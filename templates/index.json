@@ -155,34 +155,6 @@
     "featured_collection_bB74HT": {
       "type": "featured-collection",
       "settings": {
-        "collection": "ulster-weavers",
-        "products_to_show": 12,
-        "title": "New from Ulster Weavers",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "columns_desktop": 6,
-        "enable_desktop_slider": true,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-2",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "quick_add": "bulk",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 48,
-        "padding_bottom": 52
-      }
-    },
-    "featured_collection1": {
-      "type": "featured-collection",
-      "settings": {
         "collection": "spring-summer-2026",
         "products_to_show": 12,
         "title": "New in Bedroom & Living",
@@ -195,7 +167,7 @@
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -340,8 +312,36 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 32
+      }
+    },
+    "featured_collection1": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "ulster-weavers",
+        "products_to_show": 12,
+        "title": "New from Ulster Weavers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 52
       }
     },
     "collection_list": {
@@ -444,8 +444,57 @@
         "padding_bottom": 60
       }
     },
+    "image_with_text_4jmUg3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_r4PFQd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome Offers",
+            "heading_size": "h2"
+          }
+        },
+        "text_dyFFEp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6rWY77": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/clearance",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_r4PFQd",
+        "text_dyFFEp",
+        "button_6rWY77"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Botanical_Fruits_Bedspread_Multi_01.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "featured_collection2": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "bestselling-of-2025",
         "products_to_show": 12,
@@ -548,10 +597,11 @@
     "rich_text",
     "multicolumn1",
     "featured_collection_bB74HT",
-    "featured_collection1",
     "multicolumn",
+    "featured_collection1",
     "collection_list",
     "collection_list_D3ANUP",
+    "image_with_text_4jmUg3",
     "featured_collection2",
     "multicolumn2"
   ]
