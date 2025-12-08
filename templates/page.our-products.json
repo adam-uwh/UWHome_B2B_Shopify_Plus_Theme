@@ -499,7 +499,7 @@
           "settings": {
             "image": "shopify://shop_images/TS2-FBSST-GN_sn1.jpg",
             "title": "Bed Sheets",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Designed to feel great and look good, our bed sheets fit perfectly with modern and classic bedroom styles.</p><ul><li>Made from cotton and/or polyester</li><li>Available in a variety of depths, from 25cm to 35cm</li><li><strong>[Digitally/other] printed</strong></li><li><strong>[Extra design feature(s)]</strong></li></ul><p><strong>[Extra comment]</strong></p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bed-sheets"
           }
