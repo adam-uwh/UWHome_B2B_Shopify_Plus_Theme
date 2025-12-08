@@ -440,7 +440,7 @@
           "settings": {
             "image": "shopify://shop_images/8MLMW36_LS.jpg",
             "title": "Water Bottles",
-            "text": "<p>Our water bottles are perfect for insulating drinks while out and about.</p><ul><li>Made from stainless steel</li><li>Screw top lid</li></ul>",
+            "text": "<p>Our water bottles are perfect for insulating drinks while out and about.</p><ul><li>Made from stainless steel</li><li>Screw top lid</li><li><strong>[printing technique]</strong></li></ul>",
             "link_label": "Shop the collection",
             "link": ""
           }
