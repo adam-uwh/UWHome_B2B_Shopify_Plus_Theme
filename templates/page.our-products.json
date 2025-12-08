@@ -706,7 +706,7 @@
           "settings": {
             "image": "shopify://shop_images/LL3-CUSHN-MI_sn1.jpg",
             "title": "Outdoor Cushions",
-            "text": "<p>Our Outdoor Cushions are designed to weather the elements while keeping things cosy and colourful.</p><ul><li>Made from 100% cotton or polyester</li><li>Water and UV resistant</li></ul>",
+            "text": "<p>Our Outdoor Cushions are designed to weather the elements while keeping things cosy and colourful.</p><ul><li>Made from 100% cotton or polyester</li><li>Water and UV resistant</li><li><strong>[printing techniques]</strong></li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/outdoor-cushions"
           }
