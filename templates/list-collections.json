@@ -193,6 +193,12 @@
             "collection": "summer-fruits"
           }
         },
+        "featured_collection_tyVBWL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "thistlewood"
+          }
+        },
         "featured_collection_MCafdK": {
           "type": "featured_collection",
           "settings": {
@@ -220,6 +226,7 @@
         "featured_collection_DLTrdW",
         "featured_collection_VkamUD",
         "featured_collection_NgqJ8k",
+        "featured_collection_tyVBWL",
         "featured_collection_MCafdK",
         "featured_collection_DntLJx",
         "featured_collection_bcEbGD"
