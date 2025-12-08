@@ -234,6 +234,12 @@
           "settings": {
             "collection": "woolly-sheep"
           }
+        },
+        "featured_collection_VU4yeL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yes-chef"
+          }
         }
       },
       "block_order": [
@@ -250,7 +256,8 @@
         "featured_collection_bCzhxN",
         "featured_collection_MCafdK",
         "featured_collection_DntLJx",
-        "featured_collection_bcEbGD"
+        "featured_collection_bcEbGD",
+        "featured_collection_VU4yeL"
       ],
       "custom_css": [
         ".grid {row-gap: 12px;}"
