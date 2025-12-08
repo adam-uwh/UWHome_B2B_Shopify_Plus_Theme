@@ -573,7 +573,7 @@
           "settings": {
             "image": "shopify://shop_images/GLX-CURTP-WN_sn1.jpg",
             "title": "Pencil Pleat Curtains",
-            "text": "<p>Add a classic touch to any home with our pencil pleat curtains.</p><ul><li>Made from cotton and/or polyester</li><li>Light filtering or blackout lining available</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Add a classic touch to any home with our pencil pleat curtains.</p><ul><li>Made from cotton and/or polyester</li><li>Light filtering or blackout lining</li><li><strong>[Digitally/other] printed</strong></li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/pencil-pleat-curtains"
           }
@@ -583,7 +583,7 @@
           "settings": {
             "image": "shopify://shop_images/TAL-CURTE-GY_sn1.jpg",
             "title": "Eyelet Curtains",
-            "text": "<p>Our eyelet curtains are simple to hang, combining function and style effortlessly.</p><ul><li>Made from cotton and/or polyester</li><li>Light filtering or blackout lining available</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our eyelet curtains are simple to hang, combining function and style effortlessly.</p><ul><li>Made from cotton and/or polyester</li><li>Light filtering or blackout lining</li><li><strong>[Digitally/other] printed</strong></li></ul><p></p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/eyelet-curtains"
           }
