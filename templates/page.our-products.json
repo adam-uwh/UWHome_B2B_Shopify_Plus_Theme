@@ -489,7 +489,7 @@
           "settings": {
             "image": "shopify://shop_images/SWX-BSDSP-LC_sn1.jpg",
             "title": "Bedspreads",
-            "text": "<p>Our bedspread collection adds warmth and elegance to sanctuaries.</p><ul><li>Made from cotton and/or polyester</li><li><strong>[Main design feature]</strong></li><li><strong>[Digitally/other] printed</strong></li><li><strong>[Extra design feature(s)]</strong></li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, quilting and embroidery</li><li>Pinsonic and heatpress effects</li><li>Velvet, faux fur and bouclé finishes</li><li>Digital, rotary, panel, and screen printing</li></ul>",
+            "text": "<p>Our bedspread collection adds warmth and elegance to sanctuaries.</p><ul><li>Made from cotton and/or polyester</li><li>Variety of sizes, from 130 x 180cm to 240 x 220cm</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, quilting and embroidery</li><li>Pinsonic and heatpress effects</li><li>Velvet, faux fur and bouclé finishes</li><li>Digital, rotary, panel, and screen printing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bedspreads"
           }
@@ -499,7 +499,7 @@
           "settings": {
             "image": "shopify://shop_images/TS2-FBSST-GN_sn1.jpg",
             "title": "Bed Sheets",
-            "text": "<p>Designed to feel great and look good, our bed sheets fit perfectly with modern and classic bedroom styles.</p><ul><li>Made from cotton and/or polyester</li><li>Available in a variety of depths, from 25cm to 35cm</li><li><strong>[Digitally/other] printed</strong></li><li><strong>[Extra design feature(s)]</strong></li></ul><p><strong>[Extra comment]</strong></p>",
+            "text": "<p>Designed to feel great and look good, our bed sheets fit perfectly with modern and classic bedroom styles.</p><ul><li>Made from cotton and/or polyester</li><li>Variety of depths, from 25cm to 35cm</li></ul><p><strong>[Extra comment]</strong></p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bed-sheets"
           }
@@ -509,7 +509,7 @@
           "settings": {
             "image": "shopify://shop_images/SAY-PCH2P-WE_sn1.jpg",
             "title": "Pillowcases & Shams",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>From everyday comfort to decorative detail, our pillows and pillow shams do it all.</p><ul><li>Made from cotton and/or polyester</li><li>Oxford and housewife styles</li></ul><p><strong>[Extra comment]</strong></p>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/pillows-pillow-shams"
           }
