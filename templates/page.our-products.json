@@ -603,7 +603,7 @@
           "settings": {
             "image": "shopify://shop_images/MTE-CURPE-TL_sn1_862ea0e5-1a17-4b01-9f3e-7fb0a8f677a8.jpg",
             "title": "Panels",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>[Short two line intro]</p><ul><li>Made from cotton and/or polyester</li><li>Eyelet heading style</li><li><strong>[printing technique]</strong></li></ul><p>[Extra comment]</p>",
             "link_label": "Shop the collection",
             "link": "/collections/voiles-panels-linings?filters=%7B\"product_type\"%3A%5B\"Eyelet+Single+Panel+Door+Curtain\"%5D%7D"
           }
@@ -613,7 +613,7 @@
           "settings": {
             "image": "shopify://shop_images/Eyelet_Blackout_Kit_White_01.jpg",
             "title": "Curtain Linings",
-            "text": "<p>Our curtain linings are the perfect solution to maintain the comfort and privacy of your home</p><ul><li>Made from 100% polyester</li><li>Sold as a pair of panels</li><li>Variety of sizes, from 117 x 137cm to 229 x 229cm</li><li>To be used in conjunction with pencil pleat curtains</li></ul>",
+            "text": "<p>Our curtain linings are the perfect solution to maintain the comfort and privacy of your home</p><ul><li>Made from 100% polyester</li><li>Sold as a pair of panels</li><li>Variety of sizes, from 117 x 137cm to 229 x 229cm</li><li>Eyelet heading style</li></ul>",
             "link_label": "Shop the collection",
             "link": "/voiles-panels-linings?filters=%7B\"product_type\"%3A%5B\"Eyelet+Blackout+Lining\"%5D%7D"
           }
