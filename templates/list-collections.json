@@ -59,6 +59,12 @@
             "collection": "chick-chicken"
           }
         },
+        "featured_collection_LBYY9z": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "coastal-treasures"
+          }
+        },
         "featured_collection_7mNACi": {
           "type": "featured_collection",
           "settings": {
@@ -106,12 +112,6 @@
           "settings": {
             "collection": "finch-flower"
           }
-        },
-        "featured_collection_eigKc8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "herbs-spices"
-          }
         }
       },
       "block_order": [
@@ -121,6 +121,7 @@
         "featured_collection_cjJWiQ",
         "featured_collection_jCKmiP",
         "featured_collection_agEEPC",
+        "featured_collection_LBYY9z",
         "featured_collection_7mNACi",
         "featured_collection_GNikK6",
         "featured_collection_PwyeNJ",
@@ -128,8 +129,7 @@
         "featured_collection_4xaQwR",
         "featured_collection_dnT9ye",
         "featured_collection_B9zTww",
-        "featured_collection_jDrtKR",
-        "featured_collection_eigKc8"
+        "featured_collection_jDrtKR"
       ],
       "custom_css": [
         ".grid {row-gap: 12px;}"
@@ -151,6 +151,12 @@
     "collection_list_jLGFUi": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_aQhNqd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "herbs-spices"
+          }
+        },
         "featured_collection_DLTrdW": {
           "type": "featured_collection",
           "settings": {
@@ -189,6 +195,7 @@
         }
       },
       "block_order": [
+        "featured_collection_aQhNqd",
         "featured_collection_DLTrdW",
         "featured_collection_VkamUD",
         "featured_collection_NgqJ8k",
