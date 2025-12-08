@@ -187,6 +187,12 @@
             "collection": "pasta-lovers-club"
           }
         },
+        "featured_collection_FJJA7U": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "featured_collection_VkamUD": {
           "type": "featured_collection",
           "settings": {
@@ -237,6 +243,7 @@
         "featured_collection_TEeGPj",
         "featured_collection_DLTrdW",
         "featured_collection_YM4K8H",
+        "featured_collection_FJJA7U",
         "featured_collection_VkamUD",
         "featured_collection_NgqJ8k",
         "featured_collection_tyVBWL",
