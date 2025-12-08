@@ -489,7 +489,7 @@
           "settings": {
             "image": "shopify://shop_images/SWX-BSDSP-LC_sn1.jpg",
             "title": "Bedspreads",
-            "text": "<p>Our bedspread collection adds warmth and elegance to sanctuaries.</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, quilting and embroidery</li><li>Pinsonic and heatpress effects</li><li>Velvet, faux fur and bouclé finishes</li><li>Digital, rotary, panel, and screen printing</li></ul>",
+            "text": "<p>Our bedspread collection adds warmth and elegance to sanctuaries.</p><ul><li>Made from cotton and/or polyester</li><li><strong>[Main design feature]</strong></li><li><strong>[Digitally/other] printed</strong></li><li><strong>[Extra design feature(s)]</strong></li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, quilting and embroidery</li><li>Pinsonic and heatpress effects</li><li>Velvet, faux fur and bouclé finishes</li><li>Digital, rotary, panel, and screen printing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bedspreads"
           }
