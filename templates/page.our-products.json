@@ -430,7 +430,7 @@
           "settings": {
             "image": "shopify://shop_images/618PLCB_LS.jpg",
             "title": "Cotton Tote Bags",
-            "text": "<p><strong>[Short two line intro]</strong></p><ul><li>Secure inner zipped pocket</li></ul><p><strong>[Extra comment]</strong></p>",
+            "text": "<p><strong>[Short two line intro]</strong></p><ul><li>Secure inner zipped pocket</li><li>Digitally printed</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/tote-bags"
           }
