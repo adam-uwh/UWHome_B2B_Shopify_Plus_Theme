@@ -157,6 +157,12 @@
             "collection": "pantry-cats"
           }
         },
+        "featured_collection_VkamUD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "strawberry-patch"
+          }
+        },
         "featured_collection_NgqJ8k": {
           "type": "featured_collection",
           "settings": {
@@ -184,6 +190,7 @@
       },
       "block_order": [
         "featured_collection_DLTrdW",
+        "featured_collection_VkamUD",
         "featured_collection_NgqJ8k",
         "featured_collection_MCafdK",
         "featured_collection_DntLJx",
