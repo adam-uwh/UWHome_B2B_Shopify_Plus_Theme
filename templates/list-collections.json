@@ -169,6 +169,12 @@
             "collection": "herbs-spices"
           }
         },
+        "featured_collection_TEeGPj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marmalade-meadow"
+          }
+        },
         "featured_collection_DLTrdW": {
           "type": "featured_collection",
           "settings": {
@@ -210,6 +216,7 @@
         "featured_collection_ACxxJN",
         "featured_collection_KizXiw",
         "featured_collection_aQhNqd",
+        "featured_collection_TEeGPj",
         "featured_collection_DLTrdW",
         "featured_collection_VkamUD",
         "featured_collection_NgqJ8k",
