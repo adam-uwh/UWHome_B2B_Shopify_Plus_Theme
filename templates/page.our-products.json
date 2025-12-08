@@ -726,7 +726,7 @@
           "settings": {
             "image": "shopify://shop_images/Matteo_Picnic_Blanket_Green_01.jpg",
             "title": "Picnic Blankets",
-            "text": "<p>Our picnic blankets make every outing a little more effortless and delightful.</p><ul><li>Made from 100% polyester</li><li>Waterproof backing</li><li>Roll up neatly with a handy carry handle</li></ul>",
+            "text": "<p>Our picnic blankets make every outing a little more effortless and delightful.</p><ul><li>Made from 100% polyester</li><li>Waterproof backing</li><li>Roll up neatly with a handy carry handle</li><li><strong>[printing techniques]</strong></li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/picnic-blankets"
           }
