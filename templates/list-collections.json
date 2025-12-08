@@ -47,6 +47,12 @@
             "collection": "boho-floral"
           }
         },
+        "featured_collection_pbVzL8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "butterfly-grove"
+          }
+        },
         "featured_collection_jCKmiP": {
           "type": "featured_collection",
           "settings": {
@@ -106,12 +112,6 @@
           "settings": {
             "collection": "emmeline"
           }
-        },
-        "featured_collection_B9zTww": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "feline-friends"
-          }
         }
       },
       "block_order": [
@@ -119,6 +119,7 @@
         "featured_collection_jbHnTJ",
         "featured_collection_wEHWyR",
         "featured_collection_cjJWiQ",
+        "featured_collection_pbVzL8",
         "featured_collection_jCKmiP",
         "featured_collection_agEEPC",
         "featured_collection_LBYY9z",
@@ -128,8 +129,7 @@
         "featured_collection_6mEDki",
         "featured_collection_erJGKw",
         "featured_collection_4xaQwR",
-        "featured_collection_dnT9ye",
-        "featured_collection_B9zTww"
+        "featured_collection_dnT9ye"
       ],
       "custom_css": [
         ".grid {row-gap: 12px;}"
@@ -151,6 +151,12 @@
     "collection_list_jLGFUi": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_ACxxJN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feline-friends"
+          }
+        },
         "featured_collection_KizXiw": {
           "type": "featured_collection",
           "settings": {
@@ -201,6 +207,7 @@
         }
       },
       "block_order": [
+        "featured_collection_ACxxJN",
         "featured_collection_KizXiw",
         "featured_collection_aQhNqd",
         "featured_collection_DLTrdW",
