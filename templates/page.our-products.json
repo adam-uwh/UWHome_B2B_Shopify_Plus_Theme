@@ -479,7 +479,7 @@
           "settings": {
             "image": "shopify://shop_images/WWZ-DCSET-BE_sn1.jpg",
             "title": "Duvet Cover Sets",
-            "text": "<p>[Short two line intro]</p><p></p><ul><li>Variety of sizes, from junior through to superking</li><li>Set includes duvet cover and pillowcase(s)</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, embroidery, and [other textural effects]</li><li>Pinsonic effects, ruching, heatpress, and [other textural effects]</li><li>Pin tucks, ruffle edges, flat piping and [more trim finishes]</li><li>Digital, rotary, panel, and screen printing</li></ul>",
+            "text": "<p>Our duvet cover sets create a cosy, stylish space to love relaxing in.</p><ul><li>Variety of sizes, from junior through to superking</li><li>Set includes duvet cover and pillowcase(s)</li></ul><p>We implement a wide variety of embellishment techniques to create bedding for diverse markets, including:</p><ul><li>Jacquard, embroidery, and <strong>[other textural effects]</strong></li><li>Pinsonic effects, ruching, heatpress, and <strong>[other textural effects]</strong></li><li>Pin tucks, ruffle edges, flat piping and <strong>[more trim finishes]</strong></li><li>Digital, rotary, panel, and screen printing</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/duvet-cover-sets"
           }
