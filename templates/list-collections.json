@@ -89,6 +89,12 @@
             "collection": "cottage-garden"
           }
         },
+        "featured_collection_erJGKw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "country-dogs"
+          }
+        },
         "featured_collection_4xaQwR": {
           "type": "featured_collection",
           "settings": {
@@ -106,12 +112,6 @@
           "settings": {
             "collection": "feline-friends"
           }
-        },
-        "featured_collection_jDrtKR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "finch-flower"
-          }
         }
       },
       "block_order": [
@@ -126,10 +126,10 @@
         "featured_collection_GNikK6",
         "featured_collection_PwyeNJ",
         "featured_collection_6mEDki",
+        "featured_collection_erJGKw",
         "featured_collection_4xaQwR",
         "featured_collection_dnT9ye",
-        "featured_collection_B9zTww",
-        "featured_collection_jDrtKR"
+        "featured_collection_B9zTww"
       ],
       "custom_css": [
         ".grid {row-gap: 12px;}"
@@ -151,6 +151,12 @@
     "collection_list_jLGFUi": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_KizXiw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "finch-flower"
+          }
+        },
         "featured_collection_aQhNqd": {
           "type": "featured_collection",
           "settings": {
@@ -195,6 +201,7 @@
         }
       },
       "block_order": [
+        "featured_collection_KizXiw",
         "featured_collection_aQhNqd",
         "featured_collection_DLTrdW",
         "featured_collection_VkamUD",
