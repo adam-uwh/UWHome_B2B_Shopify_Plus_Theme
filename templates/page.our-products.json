@@ -593,7 +593,7 @@
           "settings": {
             "image": "shopify://shop_images/LFM-VOILE-WE_sn1.jpg",
             "title": "Voiles",
-            "text": "<p>[Short two line intro]</p><ul><li>Made from [material(s)]</li><li>[Main design feature]</li><li>[Digitally/other] printed</li><li>[Extra design feature(s)]</li></ul><p>[Extra comment]</p>",
+            "text": "<p>Our voile panels are perfect for improving privacy while allowing natural light to enter.</p><ul><li>Made from 100% polyester</li><li>Slot top header for easy installation</li><li><strong>[Digitally/other] printed</strong></li></ul>",
             "link_label": "Shop the collection",
             "link": "/collections/voiles-panels-linings?filters=%7B\"product_type\"%3A%5B\"Voile+Panel\"%5D%7D"
           }
