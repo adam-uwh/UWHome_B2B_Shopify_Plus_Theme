@@ -5,6 +5,8 @@
   - item: {Object} Variant or Product object
   - sku: {String} Sku of Product or Variant (optional)
   - image: {Object} Product or Variant image (optional)
+  - show_eta: {Boolean} whether to output ETA column (optional)
+  - etapo_namespace: {String} metafield namespace for etapo (optional; default 'custom')
   Usage:
   {% render 'quick-order-list-row' variant: variant %}
 {% endcomment %}
@@ -12,6 +14,24 @@
 {% # theme-check-disable %}
 {% assign cart_qty = cart | item_count_for_variant: variant.id %}
 {% # theme-check-enable %}
+
+{%- comment -%}
+  Localization-based date format mapping. Adjust or extend mappings as needed.
+  This uses shop.locale or request.locale when available, otherwise falls back.
+{%- endcomment -%}
+{%- assign locale_value = shop.locale | default: request.locale | default: 'en' -%}
+{%- assign date_format = "%d %b %Y" -%}
+{%- if locale_value contains 'en-US' or locale_value contains 'en_us' or locale_value contains 'en-us' or locale_value contains 'en_us' -%}
+  {%- assign date_format = "%b %d, %Y" -%}
+{%- elsif locale_value contains 'en-GB' or locale_value contains 'en_gb' or locale_value contains 'en-gb' -%}
+  {%- assign date_format = "%d %b %Y" -%}
+{%- elsif locale_value contains 'de' -%}
+  {%- assign date_format = "%d.%m.%Y" -%}
+{%- elsif locale_value contains 'fr' -%}
+  {%- assign date_format = "%d/%m/%Y" -%}
+{%- else -%}
+  {%- assign date_format = "%d %b %Y" -%}
+{%- endif -%}
 
 <tr
   class="variant-item{% unless show_image %} variant-item--no-media{% endunless %}{% if item.available and item.unit_price_measurement %} variant-item--unit-price{% endif %}"
@@ -146,6 +166,21 @@
 
     {%- if item.available and item.unit_price_measurement -%}
       {% render 'unit-price', price: item.unit_price, measurement: item.unit_price_measurement %}
+    {%- endif -%}
+
+    {%- if show_eta -%}
+      {%- assign etapo_value = '' -%}
+      {%- assign ns = etapo_namespace | default: 'custom' -%}
+      {%- if variant.metafields[ns] and variant.metafields[ns].etapo != blank -%}
+        {%- assign etapo_value = variant.metafields[ns].etapo -%}
+      {%- endif -%}
+
+      {%- if variant.available == false and etapo_value != blank -%}
+        <div class="variant-item__eta-mobile caption-large">
+          <span class="variant-item__eta-label">{{ 'sections.quick_order_list.eta' | t | default: 'ETA' }}</span>
+          <span class="variant-item__eta-value">{{ etapo_value | date: date_format }}</span>
+        </div>
+      {%- endif -%}
     {%- endif -%}
   </td>
 
@@ -315,12 +350,30 @@
       >
         <small class="variant-item__error-text"></small>
         <span class="svg-wrapper">
-          {{- 'icon-error.svg' | inline_asset_content -}}
+          {{- 'icon-error.svg' | inline_asset_content }}
         </span>
       </div>
     </quantity-popover>
   </td>
+
   {%- assign item_price = item.price | money -%}
+
+  {%- if show_eta -%}
+    <td class="variant-item__eta small-hide medium-hide">
+      {%- assign ns = etapo_namespace | default: 'custom' -%}
+      {%- assign etapo_value = '' -%}
+      {%- if variant.metafields[ns] and variant.metafields[ns].etapo != blank -%}
+        {%- assign etapo_value = variant.metafields[ns].etapo -%}
+      {%- endif -%}
+
+      {%- if variant.available == false and etapo_value != blank -%}
+        <span class="eta-date">{{ etapo_value | date: date_format }}</span>
+      {%- else -%}
+        <span class="eta-empty"></span>
+      {%- endif -%}
+    </td>
+  {%- endif -%}
+
   <td class="variant-item__price small-hide medium-hide">
     {%- if item.compare_at_price -%}
       <dl class="variant-item__discounted-prices">
