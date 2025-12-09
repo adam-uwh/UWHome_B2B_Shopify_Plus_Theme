@@ -172,19 +172,32 @@
       Mobile: show ETA in details if the variant is sold out, the ETAPO metafield exists,
       and the ETAPO date is within the last 7 days.
       Replace 'custom' namespace via etapo_namespace if provided.
+      If sold out but ETAPO isn't present or is older than 7 days show "TBC" instead of blank.
     {%- endcomment -%}
     {%- if show_eta -%}
       {%- assign ns = etapo_namespace | default: 'custom' -%}
       {%- assign ns_metafields = variant.metafields[ns] -%}
-      {%- if ns_metafields and ns_metafields.etapo != blank -%}
-        {%- assign etapo_raw = ns_metafields.etapo -%}
-        {%- assign etapo_ts = etapo_raw | date: '%s' | plus: 0 -%}
-        {%- assign now_ts = 'now' | date: '%s' | plus: 0 -%}
-        {%- assign seven_days_ago = now_ts | minus: 604800 -%}
-        {%- if variant.available == false and etapo_ts >= seven_days_ago -%}
+      {%- if variant.available == false -%}
+        {%- if ns_metafields and ns_metafields.etapo != blank -%}
+          {%- assign etapo_raw = ns_metafields.etapo -%}
+          {%- assign etapo_ts = etapo_raw | date: '%s' | plus: 0 -%}
+          {%- assign now_ts = 'now' | date: '%s' | plus: 0 -%}
+          {%- assign seven_days_ago = now_ts | minus: 604800 -%}
+          {%- if etapo_ts >= seven_days_ago -%}
+            <div class="variant-item__eta-mobile caption-large">
+              <span class="variant-item__eta-label">{{ 'sections.quick_order_list.eta' | t | default: 'ETA' }}</span>
+              <span class="variant-item__eta-value">{{ etapo_raw | date: date_format }}</span>
+            </div>
+          {%- else -%}
+            <div class="variant-item__eta-mobile caption-large">
+              <span class="variant-item__eta-label">{{ 'sections.quick_order_list.eta' | t | default: 'ETA' }}</span>
+              <span class="variant-item__eta-value">TBC</span>
+            </div>
+          {%- endif -%}
+        {%- else -%}
           <div class="variant-item__eta-mobile caption-large">
             <span class="variant-item__eta-label">{{ 'sections.quick_order_list.eta' | t | default: 'ETA' }}</span>
-            <span class="variant-item__eta-value">{{ etapo_raw | date: date_format }}</span>
+            <span class="variant-item__eta-value">TBC</span>
           </div>
         {%- endif -%}
       {%- endif -%}
@@ -368,6 +381,7 @@
   {%- comment -%}
     Desktop ETA column (only printed if show_eta is true).
     Displays ETAPO only if variant is sold out and ETAPO is within last 7 days.
+    If sold out but ETAPO isn't present or is older than 7 days show "TBC".
   {%- endcomment -%}
   {%- if show_eta -%}
     <td class="variant-item__eta small-hide medium-hide">
@@ -381,10 +395,18 @@
         {%- if variant.available == false and etapo_ts >= seven_days_ago -%}
           <span class="eta-date">{{ etapo_raw | date: date_format }}</span>
         {%- else -%}
-          <span class="eta-empty"></span>
+          {%- if variant.available == false -%}
+            <span class="eta-empty">TBC</span>
+          {%- else -%}
+            <span class="eta-empty"></span>
+          {%- endif -%}
         {%- endif -%}
       {%- else -%}
-        <span class="eta-empty"></span>
+        {%- if variant.available == false -%}
+          <span class="eta-empty">TBC</span>
+        {%- else -%}
+          <span class="eta-empty"></span>
+        {%- endif -%}
       {%- endif -%}
     </td>
   {%- endif -%}
