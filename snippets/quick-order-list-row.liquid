@@ -168,18 +168,24 @@
       {% render 'unit-price', price: item.unit_price, measurement: item.unit_price_measurement %}
     {%- endif -%}
 
+    {%- comment -%}
+      Mobile: show ETA in details if the variant is sold out, the ETAPO metafield exists,
+      and the ETAPO date is within the last 7 days.
+      Replace 'custom' namespace via etapo_namespace if provided.
+    {%- endcomment -%}
     {%- if show_eta -%}
-      {%- assign etapo_value = '' -%}
       {%- assign ns = etapo_namespace | default: 'custom' -%}
-      {%- if variant.metafields[ns] and variant.metafields[ns].etapo != blank -%}
-        {%- assign etapo_value = variant.metafields[ns].etapo -%}
-      {%- endif -%}
-
-      {%- if variant.available == false and etapo_value != blank -%}
-        <div class="variant-item__eta-mobile caption-large">
-          <span class="variant-item__eta-label">{{ 'sections.quick_order_list.eta' | t | default: 'ETA' }}</span>
-          <span class="variant-item__eta-value">{{ etapo_value | date: date_format }}</span>
-        </div>
+      {%- assign etapo_raw = variant.metafields[ns] and variant.metafields[ns].etapo -%}
+      {%- if etapo_raw != blank -%}
+        {%- assign etapo_ts = etapo_raw | date: '%s' | plus: 0 -%}
+        {%- assign now_ts = 'now' | date: '%s' | plus: 0 -%}
+        {%- assign seven_days_ago = now_ts | minus: 604800 -%}
+        {%- if variant.available == false and etapo_ts >= seven_days_ago -%}
+          <div class="variant-item__eta-mobile caption-large">
+            <span class="variant-item__eta-label">{{ 'sections.quick_order_list.eta' | t | default: 'ETA' }}</span>
+            <span class="variant-item__eta-value">{{ etapo_raw | date: date_format }}</span>
+          </div>
+        {%- endif -%}
       {%- endif -%}
     {%- endif -%}
   </td>
@@ -358,16 +364,23 @@
 
   {%- assign item_price = item.price | money -%}
 
+  {%- comment -%}
+    Desktop ETA column (only printed if show_eta is true).
+    Displays ETAPO only if variant is sold out and ETAPO is within last 7 days.
+  {%- endcomment -%}
   {%- if show_eta -%}
     <td class="variant-item__eta small-hide medium-hide">
       {%- assign ns = etapo_namespace | default: 'custom' -%}
-      {%- assign etapo_value = '' -%}
-      {%- if variant.metafields[ns] and variant.metafields[ns].etapo != blank -%}
-        {%- assign etapo_value = variant.metafields[ns].etapo -%}
-      {%- endif -%}
-
-      {%- if variant.available == false and etapo_value != blank -%}
-        <span class="eta-date">{{ etapo_value | date: date_format }}</span>
+      {%- assign etapo_raw = variant.metafields[ns] and variant.metafields[ns].etapo -%}
+      {%- if etapo_raw != blank -%}
+        {%- assign etapo_ts = etapo_raw | date: '%s' | plus: 0 -%}
+        {%- assign now_ts = 'now' | date: '%s' | plus: 0 -%}
+        {%- assign seven_days_ago = now_ts | minus: 604800 -%}
+        {%- if variant.available == false and etapo_ts >= seven_days_ago -%}
+          <span class="eta-date">{{ etapo_raw | date: date_format }}</span>
+        {%- else -%}
+          <span class="eta-empty"></span>
+        {%- endif -%}
       {%- else -%}
         <span class="eta-empty"></span>
       {%- endif -%}
