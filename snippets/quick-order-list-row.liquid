@@ -1,4 +1,4 @@
-{% comment %}
+{%- comment -%}
   Variant List Row
 
   Accepts:
@@ -9,7 +9,7 @@
   - etapo_namespace: {String} metafield namespace for etapo (optional; default 'custom')
   Usage:
   {% render 'quick-order-list-row' variant: variant %}
-{% endcomment %}
+{%- endcomment -%}
 
 {% # theme-check-disable %}
 {% assign cart_qty = cart | item_count_for_variant: variant.id %}
@@ -175,8 +175,9 @@
     {%- endcomment -%}
     {%- if show_eta -%}
       {%- assign ns = etapo_namespace | default: 'custom' -%}
-      {%- assign etapo_raw = variant.metafields[ns] and variant.metafields[ns].etapo -%}
-      {%- if etapo_raw != blank -%}
+      {%- assign ns_metafields = variant.metafields[ns] -%}
+      {%- if ns_metafields and ns_metafields.etapo != blank -%}
+        {%- assign etapo_raw = ns_metafields.etapo -%}
         {%- assign etapo_ts = etapo_raw | date: '%s' | plus: 0 -%}
         {%- assign now_ts = 'now' | date: '%s' | plus: 0 -%}
         {%- assign seven_days_ago = now_ts | minus: 604800 -%}
@@ -371,8 +372,9 @@
   {%- if show_eta -%}
     <td class="variant-item__eta small-hide medium-hide">
       {%- assign ns = etapo_namespace | default: 'custom' -%}
-      {%- assign etapo_raw = variant.metafields[ns] and variant.metafields[ns].etapo -%}
-      {%- if etapo_raw != blank -%}
+      {%- assign ns_metafields = variant.metafields[ns] -%}
+      {%- if ns_metafields and ns_metafields.etapo != blank -%}
+        {%- assign etapo_raw = ns_metafields.etapo -%}
         {%- assign etapo_ts = etapo_raw | date: '%s' | plus: 0 -%}
         {%- assign now_ts = 'now' | date: '%s' | plus: 0 -%}
         {%- assign seven_days_ago = now_ts | minus: 604800 -%}
