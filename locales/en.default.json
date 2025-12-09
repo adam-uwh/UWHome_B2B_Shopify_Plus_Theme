@@ -290,11 +290,7 @@
       "cart_count": {
         "one": "{{ count }} item",
         "other": "{{ count }} items"
-      },
-
-    "quick_order_list": {
-      "eta": "Back In Stock"
-    }
+      }
 
     },
     "cart": {
