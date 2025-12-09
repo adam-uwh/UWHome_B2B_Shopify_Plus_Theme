@@ -3596,17 +3596,20 @@ details-disclosure > details {
   }
 }
 
-/* Left-align ETA header and values so header sits above the dates */
-.quick-order-list__table th.quick-order-list__heading--eta,
-.quick-order-list__table td.variant-item__eta {
-  text-align: left;
-  vertical-align: middle;
-  padding-left: 2.5rem; /* tweak this value to line things up */
-}
+/* Desktop only: left-align the "Back in Stock" header and the ETA cells */
+@media (min-width: 768px) {
+  /* Target the 4th TH in the header row (Back In Stock in your layout) */
+  .quick-order-list__table thead tr > th:nth-child(4),
+  .quick-order-list__table tbody tr > td.variant-item__eta {
+    text-align: left !important;
+    vertical-align: middle !important;
+    padding-left: 3rem !important; /* adjust this value to align */
+  }
 
-/* Ensure the date inside the cell is left-aligned */
-.variant-item__eta .eta-date {
-  display: inline-block;
-  text-align: left;
-  margin: 0;
+  /* Make sure the date text itself is left-aligned */
+  .variant-item__eta .eta-date {
+    display: inline-block;
+    text-align: left;
+    margin: 0;
+  }
 }
