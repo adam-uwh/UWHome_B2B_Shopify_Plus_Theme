@@ -3595,3 +3595,18 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+/* Left-align ETA header and values so header sits above the dates */
+.quick-order-list__table th.quick-order-list__heading--eta,
+.quick-order-list__table td.variant-item__eta {
+  text-align: left;
+  vertical-align: middle;
+  padding-left: 2.5rem; /* tweak this value to line things up */
+}
+
+/* Ensure the date inside the cell is left-aligned */
+.variant-item__eta .eta-date {
+  display: inline-block;
+  text-align: left;
+  margin: 0;
+}
