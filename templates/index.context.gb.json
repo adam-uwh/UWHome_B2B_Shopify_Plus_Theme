@@ -49,64 +49,6 @@
       "blocks": {},
       "block_order": []
     },
-    "image_with_text_6nqjH": {
-      "type": "image-with-text",
-      "disabled": false,
-      "custom_css": [
-        "p {text-wrap: pretty;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "header-036ea0c9a3fb3b4ec2b26b558f635b37": null,
-        "content_layout": "no-overlap",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "header-7b89a6f29792ca6318ca01446e8aac71": null,
-        "section_color_scheme": "",
-        "color_scheme": "scheme-2",
-        "header-90827f3d9520d6e80802e8920c13b1d2": null,
-        "padding_top": 60,
-        "padding_bottom": 60
-      },
-      "blocks": {
-        "heading_9dGQj": {
-          "type": "heading",
-          "disabled": false,
-          "settings": {
-            "heading": "Welcome Offers",
-            "heading_size": "h1"
-          }
-        },
-        "text_CddyX": {
-          "type": "text",
-          "disabled": false,
-          "settings": {
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 20% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_wFgLR": {
-          "type": "button",
-          "disabled": false,
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/promotion",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_9dGQj",
-        "text_CddyX",
-        "button_wFgLR"
-      ],
-      "name": "t:sections.image-with-text.presets.name"
-    },
     "image_banner": {
       "disabled": false,
       "settings": {},
@@ -146,9 +88,9 @@
     "rich_text",
     "multicolumn1",
     "featured_collection_hxea4t",
-    "featured_collection1",
+    "multirow_TJTX6J",
     "collection_list",
-    "image_with_text_6nqjH",
+    "featured_collection1",
     "featured_collection2",
     "multicolumn2",
     "multicolumn"
