@@ -81,6 +81,24 @@
           }
         }
       }
+    },
+    "featured_collection1": {
+      "settings": {
+        "title": "The latest from Ulster Weavers"
+      },
+      "blocks": {}
+    },
+    "multirow_TJTX6J": {
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 4rem 0rem 0.5rem;}}"
+      ],
+      "settings": {},
+      "blocks": {
+        "row_4baDGc": {
+          "disabled": false,
+          "settings": {}
+        }
+      }
     }
   },
   "order": [
