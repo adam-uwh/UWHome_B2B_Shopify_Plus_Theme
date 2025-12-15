@@ -321,7 +321,7 @@
         "text_dyFFEp": {
           "type": "text",
           "settings": {
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
+            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 20% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
             "text_style": "body"
           }
         },
@@ -329,7 +329,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify://collections/clearance",
+            "button_link": "shopify://collections/promotion",
             "button_style_secondary": false
           }
         }
@@ -344,7 +344,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Botanical_Fruits_Bedspread_Multi_01.jpg",
+        "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
