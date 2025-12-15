@@ -212,7 +212,8 @@
         "row_4baDGc"
       ],
       "custom_css": [
-        ".grid {row-gap: 24px;}"
+        ".multirow__inner {row-gap: 4.5rem;}",
+        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 4rem 0rem 0.5rem;}}"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
