@@ -157,7 +157,7 @@
       "settings": {
         "collection": "elemental-rustic",
         "products_to_show": 12,
-        "title": "Trending: Elemental Rustic",
+        "title": "Trending: Elemental Treasures",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -180,32 +180,55 @@
         "padding_bottom": 52
       }
     },
-    "featured_collection1": {
-      "type": "featured-collection",
+    "multirow_TJTX6J": {
+      "type": "multirow",
+      "blocks": {
+        "row_dFRdFU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
+            "caption": "",
+            "heading": "Welcome Offers",
+            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 20% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/promotion"
+          }
+        },
+        "row_4baDGc": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Time_to_Grow.jpg",
+            "caption": "",
+            "heading": "Our Products",
+            "text": "<p>Get the full overview on our brilliant product portfolio, from meticulously crafted kitchen textiles and ceramics, to bedding, curtains and outdoor accessories.</p>",
+            "button_label": "Find out more",
+            "button_link": "shopify://pages/products"
+          }
+        }
+      },
+      "block_order": [
+        "row_dFRdFU",
+        "row_4baDGc"
+      ],
+      "custom_css": [
+        ".grid {row-gap: 24px;}"
+      ],
+      "name": "t:sections.multirow.presets.name",
       "settings": {
-        "collection": "ulster-weavers",
-        "products_to_show": 12,
-        "title": "New from Ulster Weavers",
+        "image_height": "medium",
+        "desktop_image_width": "large",
+        "image_layout": "alternate-left",
         "heading_size": "h2",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "columns_desktop": 6,
-        "enable_desktop_slider": true,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "quick_add": "bulk",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 48,
-        "padding_bottom": 52
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collection_list": {
@@ -308,55 +331,32 @@
         "padding_bottom": 60
       }
     },
-    "image_with_text_4jmUg3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_r4PFQd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welcome Offers",
-            "heading_size": "h2"
-          }
-        },
-        "text_dyFFEp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 20% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_6rWY77": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify://collections/promotion",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_r4PFQd",
-        "text_dyFFEp",
-        "button_6rWY77"
-      ],
-      "custom_css": [
-        "p {text-wrap: pretty;}"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
+    "featured_collection1": {
+      "type": "featured-collection",
       "settings": {
-        "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-2",
-        "padding_top": 60,
-        "padding_bottom": 60
+        "collection": "ulster-weavers",
+        "products_to_show": 12,
+        "title": "New from Ulster Weavers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 52
       }
     },
     "featured_collection2": {
@@ -600,10 +600,10 @@
     "rich_text",
     "multicolumn1",
     "featured_collection_bB74HT",
-    "featured_collection1",
+    "multirow_TJTX6J",
     "collection_list",
     "collection_list_D3ANUP",
-    "image_with_text_4jmUg3",
+    "featured_collection1",
     "featured_collection2",
     "multicolumn2",
     "multicolumn"
