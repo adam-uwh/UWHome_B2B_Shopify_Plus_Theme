@@ -19,30 +19,30 @@
       "settings": {
         "collection": "elemental-rustic",
         "products_to_show": 12,
-        "header-6c33261060fd969656c184a26c681090": null,
+        "header-e501b7ca85ac0a1296e2d909b334db61": null,
         "title": "Trending: Elemental Rustic",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "header-f97ceb7c13ac22b39b7cd07826b2e167": null,
+        "header-5c5651d3850f2a710557ac1563279909": null,
         "columns_desktop": 6,
         "enable_desktop_slider": true,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
-        "header-d2d379490bbee03344ab54731a4b29b3": null,
+        "header-ca5b60c38ff17fe683cec5745184c7de": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "header-07756ef0c659f4015c139e6ac72a2aef": null,
+        "header-6f9e00f46a1f6cdf7103273a3a5413d6": null,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "header-eb044e275c0a320592b23be3c4eed74e": null,
+        "header-1544d92827384ee51acf1c997ce90b55": null,
         "padding_top": 48,
         "padding_bottom": 52
       },
@@ -56,20 +56,20 @@
         "p {text-wrap: pretty;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Botanical_Fruits_Bedspread_Multi_01_7849c5bf-ab97-4c93-8ffe-7ea71a652bb7.jpg",
+        "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
-        "header-c0d9e7c6b9c23a74bda5c1322292c3be": null,
+        "header-aa0ed02c0aeca98ea80c9e483ba922c7": null,
         "content_layout": "no-overlap",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
-        "header-4613170f1c00b6e8f4b76fc9a588b304": null,
+        "header-2f55af0e36c33e9fba79f60861e1b54b": null,
         "section_color_scheme": "",
         "color_scheme": "",
-        "header-bf4779fdea7d99db2e161ad11a7579b4": null,
+        "header-0036eb954752b281c594d6f6fa986d96": null,
         "padding_top": 60,
         "padding_bottom": 60
       },
@@ -86,7 +86,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 25% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
+            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 20% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
             "text_style": "body"
           }
         },
@@ -95,7 +95,7 @@
           "disabled": false,
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify://collections/clearance",
+            "button_link": "shopify://collections/promotion",
             "button_style_secondary": false
           }
         }
