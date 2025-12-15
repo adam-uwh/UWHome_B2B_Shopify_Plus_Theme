@@ -29,7 +29,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Browse New Products",
+            "button_label_1": "Shop New Arrivals",
             "button_link_1": "shopify://collections/spring-summer-2026",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -155,9 +155,9 @@
     "featured_collection_bB74HT": {
       "type": "featured-collection",
       "settings": {
-        "collection": "spring-summer-2026",
+        "collection": "elemental-rustic",
         "products_to_show": 12,
-        "title": "New in Bedroom & Living",
+        "title": "Trending: Elemental Rustic",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
