@@ -17,70 +17,37 @@
       "type": "featured-collection",
       "disabled": false,
       "settings": {
-        "collection": "spring-summer-2026",
+        "collection": "elemental-rustic",
         "products_to_show": 12,
-        "header-ebc93f66fc54a70619129974b7030b7c": null,
-        "title": "New in Bedroom & Living",
+        "header-6c33261060fd969656c184a26c681090": null,
+        "title": "Trending: Elemental Rustic",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "header-822b9ad7d6cbffd65bb52f1ba6c91d2f": null,
+        "header-f97ceb7c13ac22b39b7cd07826b2e167": null,
         "columns_desktop": 6,
         "enable_desktop_slider": true,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
-        "header-35ad26ec8177d32ae0356f398bde0d60": null,
+        "header-d2d379490bbee03344ab54731a4b29b3": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "header-d919dd61dadbf75bcb35f6d5662f54c0": null,
+        "header-07756ef0c659f4015c139e6ac72a2aef": null,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "header-3b9edb2139b0e46435fb1de2844afab3": null,
+        "header-eb044e275c0a320592b23be3c4eed74e": null,
         "padding_top": 48,
         "padding_bottom": 52
       },
       "blocks": {},
       "block_order": []
-    },
-    "image_banner": {
-      "disabled": false,
-      "settings": {},
-      "blocks": {}
-    },
-    "collection_list": {
-      "settings": {
-        "title": "Shop our Home collections",
-        "padding_bottom": 56
-      },
-      "blocks": {
-        "featured_collection1": {
-          "settings": {
-            "collection": "bedding"
-          }
-        },
-        "featured_collection2": {
-          "settings": {
-            "collection": "cushions"
-          }
-        },
-        "featured_collection5": {
-          "settings": {
-            "collection": "throws"
-          }
-        },
-        "featured_collection4": {
-          "settings": {
-            "collection": "curtains"
-          }
-        }
-      }
     },
     "image_with_text_6nqjH": {
       "type": "image-with-text",
@@ -94,15 +61,15 @@
         "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
-        "header-61936e67d805cc473fd00222e3649bc6": null,
+        "header-c0d9e7c6b9c23a74bda5c1322292c3be": null,
         "content_layout": "no-overlap",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
-        "header-cd44836ed06679b118f835834759e67e": null,
+        "header-4613170f1c00b6e8f4b76fc9a588b304": null,
         "section_color_scheme": "",
         "color_scheme": "",
-        "header-35f7d6c71a2e08c08fe8bea4bc9b5e99": null,
+        "header-bf4779fdea7d99db2e161ad11a7579b4": null,
         "padding_top": 60,
         "padding_bottom": 60
       },
@@ -139,6 +106,39 @@
         "button_wFgLR"
       ],
       "name": "t:sections.image-with-text.presets.name"
+    },
+    "image_banner": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    },
+    "collection_list": {
+      "settings": {
+        "title": "Shop our Home collections",
+        "padding_bottom": 56
+      },
+      "blocks": {
+        "featured_collection1": {
+          "settings": {
+            "collection": "bedding"
+          }
+        },
+        "featured_collection2": {
+          "settings": {
+            "collection": "cushions"
+          }
+        },
+        "featured_collection5": {
+          "settings": {
+            "collection": "throws"
+          }
+        },
+        "featured_collection4": {
+          "settings": {
+            "collection": "curtains"
+          }
+        }
+      }
     }
   },
   "order": [
