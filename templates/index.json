@@ -189,7 +189,7 @@
             "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
             "caption": "",
             "heading": "Welcome Offers",
-            "text": "<p>To celebrate the launch of our new website, we've taken an <strong>extra 20% off</strong> some of our favourite bedding, curtains and accessories in our Outlet collection.</p>",
+            "text": "<p>To celebrate the launch of our new website, we have taken an <strong>extra 20% off</strong> some of the top bedding, curtains and accessories in our Outlet.</p>",
             "button_label": "Shop now",
             "button_link": "shopify://collections/promotion"
           }
@@ -213,7 +213,7 @@
       ],
       "custom_css": [
         ".multirow__inner {row-gap: 4.5rem;}",
-        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 4rem 0rem 0.5rem;}}"
+        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 4rem 0rem 0.5rem; }}"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
