@@ -174,7 +174,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 52
@@ -354,7 +354,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 52
