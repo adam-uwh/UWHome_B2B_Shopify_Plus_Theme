@@ -568,24 +568,14 @@
     "multicolumn_Gpg7PC": {
       "type": "multicolumn",
       "blocks": {
-        "column_QLhbpr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/GLX-CURTP-WN_sn1.jpg",
-            "title": "Pencil Pleat Curtains",
-            "text": "<p>Add a classic touch to any home with our pencil pleat curtains.</p><ul><li>Made from cotton and/or polyester</li><li>Light filtering or blackout lining</li><li>Variety of sizes, from 117 x 137cm to 229 x 229cm</li><li>Sold as a pair of panels</li><li><strong>[Digitally/other] printed</strong></li></ul>",
-            "link_label": "Shop the collection",
-            "link": "shopify://collections/pencil-pleat-curtains"
-          }
-        },
         "column_WAj3Qr": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/TAL-CURTE-GY_sn1.jpg",
-            "title": "Eyelet Curtains",
-            "text": "<p>Our eyelet curtains are simple to hang, combining function and style effortlessly.</p><ul><li>Made from cotton and/or polyester</li><li>Light filtering or blackout lining</li><li>Variety of sizes, from 117 x 137cm to 229 x 229cm</li><li>Sold as a pair of panels</li><li><strong>[Digitally/other] printed</strong></li></ul>",
+            "title": "Curtains",
+            "text": "<p>Add a classic touch to any home with our curtains</p><ul><li>Eyelet and pencil pleat header options available</li><li>Wide choice of fabrics, such as cotton panama, velvets, chenille, cosy handle fabrics</li><li>Choice of styles includes plain and semi plain textured looks, printed, and jacquard styles</li><li>Light filtering or blackout lining </li><li>Variety of sizes, from 46x54” (117 x 137cm) to 90x90” (229 x 229cm)</li><li>Sold as a pair of panels</li></ul>",
             "link_label": "Shop the collection",
-            "link": "shopify://collections/eyelet-curtains"
+            "link": "shopify://collections/curtains"
           }
         },
         "column_6yRyna": {
@@ -620,7 +610,6 @@
         }
       },
       "block_order": [
-        "column_QLhbpr",
         "column_WAj3Qr",
         "column_6yRyna",
         "column_CBDahr",
