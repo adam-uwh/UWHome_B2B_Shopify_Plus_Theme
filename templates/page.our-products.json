@@ -430,7 +430,7 @@
           "settings": {
             "image": "shopify://shop_images/618PLCB_LS.jpg",
             "title": "Tote Bags",
-            "text": "<p><strong>[Short two line intro]</strong></p><ul><li><strong>Made from [material/s]</strong></li><li>Secure inner zipped pocket</li><li>Digitally printed</li><li>Long handle to carry on shoulders</li></ul>",
+            "text": "<p><strong>[Short two line intro]</strong></p><ul><li>Made from 100% cotton</li><li>Secure inner zipped pocket</li><li>Digitally printed</li><li>Long handle to carry on the shoulders</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/tote-bags"
           }
