@@ -15,7 +15,7 @@
         "p {font-family: Avenir, Raleway, sans serif !important; text-wrap: pretty;}",
         ".main-page-title {margin-top: 3rem; margin-bottom: 3rem; font-size: 4.5rem; text-wrap: balance;}",
         ".page-width--narrow {margin-bottom: 3rem;}",
-        "li {font-family: Avenir, Raleway, sans serif !important; margin-bottom: 0.75rem;}"
+        "li {font-family: Avenir, Raleway, sans serif !important; padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "settings": {
         "padding_top": 28,
