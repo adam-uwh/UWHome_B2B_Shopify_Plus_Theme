@@ -275,11 +275,67 @@
         "padding_top": 0,
         "padding_bottom": 60
       }
+    },
+    "rich_text_XPwgbx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_34j8hp": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Complete Ulster Weavers Range",
+            "heading_size": "h1"
+          }
+        },
+        "text_H3dLYk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get the full overview of our beautiful 2026 Ulster Weavers collections from our latest brochure.</p>"
+          }
+        },
+        "button_fD6yey": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "View our latest brochures",
+            "button_link": "https://issuu.com/ulsterweavers/stacks/bc73965518824e739d2c84e33d7a84ec",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_34j8hp",
+        "text_H3dLYk",
+        "button_fD6yey"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_Gi4WUF": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding\" style=\"position:relative;padding-top:max(60%,326px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:1450px; max-height:900;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23ffffff&backgroundColorFullscreen=%231F2844&d=2026_ulster_weavers_catalogue&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&themeMainColor=%231a1a1a&themeSecondaryColor=%23e5e5e5&u=ulsterweavers\"></iframe></div>\n</section>",
+        "color_scheme": "scheme-2",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "collection_list_eK8pNd",
-    "collection_list_jLGFUi"
+    "collection_list_jLGFUi",
+    "rich_text_XPwgbx",
+    "custom_liquid_Gi4WUF"
   ]
 }
