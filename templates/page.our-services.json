@@ -430,7 +430,8 @@
       ],
       "custom_css": [
         "h2 {color: #1a1a1a;}",
-        "p {text-wrap: pretty;}"
+        "p {text-wrap: pretty;}",
+        "li {font-family: Avenir, Raleway, sans serif !important; padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "Direct to Consumer",
       "settings": {
@@ -543,7 +544,8 @@
       ],
       "custom_css": [
         "h2 {color: #1a1a1a;}",
-        "p {text-wrap: pretty;}"
+        "p {text-wrap: pretty;}",
+        "li {font-family: Avenir, Raleway, sans serif !important; padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "Direct to Consumer",
       "settings": {
@@ -720,7 +722,8 @@
       ],
       "custom_css": [
         "h2 {color: #1a1a1a;}",
-        "p {text-wrap: pretty;}"
+        "p {text-wrap: pretty;}",
+        "li {font-family: Avenir, Raleway, sans serif !important; padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {

@@ -228,7 +228,8 @@
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
-        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -289,7 +290,8 @@
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
-        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -372,7 +374,8 @@
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
-        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -452,6 +455,11 @@
         "column_qKFLCQ",
         "column_EL6Ah6",
         "column_p6cBLE"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -545,7 +553,8 @@
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
-        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -617,7 +626,8 @@
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
-        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -667,7 +677,8 @@
       ],
       "custom_css": [
         "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
-        "ul {padding-top: 1rem; padding-bottom: 1rem;}"
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -725,6 +736,11 @@
         "column_r36JGr",
         "column_GmdL3f",
         "column_UGkQJr"
+      ],
+      "custom_css": [
+        "h3 {font-family: Big Caslon, serif; font-weight: 400;}",
+        "ul {padding-top: 1rem; padding-bottom: 1rem;}",
+        "li {padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
