@@ -442,7 +442,8 @@
       ".link {font-family: Avenir, Raleway, sans serif;}",
       ".button {font-family: Avenir, Raleway, sans serif;}",
       ".field {font-family: Avenir, Raleway, sans serif !important;}",
-      "body {font-family: Avenir, Raleway, sans serif !important;}"
+      "body {font-family: Avenir, Raleway, sans serif !important;}",
+      "li {font-family: Avenir, Raleway, sans serif !important; padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
     ]
   }
 }
