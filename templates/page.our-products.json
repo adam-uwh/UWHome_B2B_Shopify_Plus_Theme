@@ -645,7 +645,7 @@
           "settings": {
             "image": "shopify://shop_images/Sandringham_Bath_Sheet_Blue_01new.jpg",
             "title": "Towels",
-            "text": "<p>Soft and absorbent, our Towels add warmth and style wherever you use them.</p><ul><li>Made from 100% cotton</li><li>Variety of sizes, from  hand to bath towels</li><li><strong>[Digitally/other] printed</strong></li></ul>",
+            "text": "<p>Soft and absorbent, our Towels add warmth and style wherever you use them.</p><ul><li>Made from 100% cotton</li><li>Variety of sizes, from hand to bath sheets</li><li>Available in a variety of styles such as textured weaves, jacquard and embroidery</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/towels-face-cloths"
           }
@@ -655,7 +655,7 @@
           "settings": {
             "image": "shopify://shop_images/Drift_Home_Abode_Bath_Mat_Terracotta_01.jpg",
             "title": "Bath & Shower Mats",
-            "text": "<p>Our Bath Mats are available in a range of colours to suit any bathroom style.</p><ul><li>Made from 100% cotton or polyester</li><li>Heavyweight fabric</li><li>Anti-slip backing</li><li><strong>[Digitally/other] printed</strong></li><li><strong>Tufting?</strong></li></ul>",
+            "text": "<p>Our Bath Mats are available in a range of colours to suit any bathroom style.</p><ul><li>Made from 100% cotton or polyester</li><li>Heavyweight fabric</li><li>Anti-slip backing</li><li>Choice of plain, jacquard and tufting styles</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/bath-shower-mats"
           }
