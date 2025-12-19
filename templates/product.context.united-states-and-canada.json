@@ -8,18 +8,24 @@
  * ------------------------------------------------------------
  */
 {
-  "markets": {
-    "gb": {
-      "parent": "@default"
+  "sections": {
+    "main": {
+      "settings": {},
+      "blocks": {
+        "price": {
+          "disabled": false,
+          "settings": {}
+        }
+      }
     },
-    "european-union": {
-      "parent": "@default"
-    },
-    "international": {
-      "parent": "@default"
-    },
-    "united-states-and-canada": {
-      "parent": "@default"
+    "quick-order-list": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
     }
-  }
+  },
+  "context": {
+    "market": "united-states-and-canada"
+  },
+  "parent": "product.json"
 }
