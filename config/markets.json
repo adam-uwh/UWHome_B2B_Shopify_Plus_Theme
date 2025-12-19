@@ -12,9 +12,6 @@
     "gb": {
       "parent": "@default"
     },
-    "european-union": {
-      "parent": "@default"
-    },
     "international": {
       "parent": "@default"
     },
