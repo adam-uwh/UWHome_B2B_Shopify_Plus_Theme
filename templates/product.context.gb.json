@@ -1,1 +1,67 @@
-{"parent":"product.json","context":{"market":"gb"},"sections":{"main":{"settings":{"media_size":"small"},"blocks":{"price":{"disabled":false,"settings":{}}}},"quick-order-list":{"disabled":false,"settings":{},"blocks":{}}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "parent": "product.json",
+  "context": {
+    "market": "gb"
+  },
+  "sections": {
+    "main": {
+      "settings": {},
+      "blocks": {
+        "price": {
+          "disabled": false,
+          "settings": {}
+        },
+        "variant_picker_KV4Nr": {
+          "type": "variant_picker",
+          "disabled": false,
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_WCnKm": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_tGGwN": {
+          "type": "buy_buttons",
+          "disabled": false,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "sku_HVceNh",
+        "title",
+        "price",
+        "variant_picker_KV4Nr",
+        "quantity_selector_WCnKm",
+        "buy_buttons_tGGwN",
+        "description",
+        "collapsible-row-1",
+        "collapsible-row-0",
+        "collapsible-row-2",
+        "collapsible_tab_J67bin",
+        "share",
+        "popup_8LCkQW"
+      ]
+    },
+    "quick-order-list": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    }
+  }
+}

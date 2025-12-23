@@ -12,11 +12,47 @@
     "main": {
       "settings": {},
       "blocks": {
+        "variant_picker_BAEiM": {
+          "type": "variant_picker",
+          "disabled": false,
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_eqJJf": {
+          "type": "quantity_selector",
+          "disabled": false,
+          "settings": {}
+        },
         "price": {
           "disabled": false,
           "settings": {}
+        },
+        "buy_buttons_XDbq9i": {
+          "type": "buy_buttons",
+          "disabled": false,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
         }
-      }
+      },
+      "block_order": [
+        "sku_HVceNh",
+        "title",
+        "variant_picker_BAEiM",
+        "price",
+        "quantity_selector_eqJJf",
+        "buy_buttons_XDbq9i",
+        "description",
+        "collapsible-row-1",
+        "collapsible-row-0",
+        "collapsible-row-2",
+        "collapsible_tab_J67bin",
+        "share",
+        "popup_8LCkQW"
+      ]
     },
     "quick-order-list": {
       "disabled": false,

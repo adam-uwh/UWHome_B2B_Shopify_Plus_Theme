@@ -84,6 +84,7 @@
       "blocks": {
         "ai_gen_block_541c626_6jUMaQ": {
           "type": "ai_gen_block_541c626",
+          "disabled": true,
           "settings": {
             "color_scheme": "scheme-5",
             "container_width": "full",
@@ -107,9 +108,9 @@
             "mobile_layout": "horizontal",
             "mobile_alignment": "center",
             "link_text_1": "Key Trends",
-            "link_url_1": "/pages/about-us#shopify-section-template--26551649599832__rich_text_MUzxed",
+            "link_url_1": "/pages/welome-to-spring-summer-2026#shopify-section-template--26913051312472__image_with_text_MP7Cz6",
             "link_text_2": "Brochures",
-            "link_url_2": "/pages/about-us#shopify-section-template--26551649599832__responive_image_BMGLpU",
+            "link_url_2": "/pages/welcome-to-spring-summer-2026#shopify-section-template--26551649599832__responive_image_BMGLpU",
             "link_text_3": "All SS26",
             "link_url_3": "",
             "link_text_4": "",
@@ -145,7 +146,7 @@
         "text_Ufc6dT": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Spring/Summer 2026 collection is all about creating spaces that feel uplifting, expressive and deeply personal. This season, we've identified key trends that bring joy and energy to the home, whether that be through the escapism of period-style bedding and luxury décor, or the mood-boosting power of colour and pattern – and we've used these insights to build on existing collections, as well as creating new and original ranges.</p><p>Our Design and Product Development teams have created a truly varied collection of quality homewares, filled with refined, innovative style that we are incredibly proud to share. Balancing comfort, functionality and individuality, this curation of inspired design offers our customers a way to celebrate their personality while making their space a true sanctuary.</p>"
+            "text": "<p>Our Spring/Summer 2026 collection is all about creating spaces that feel uplifting, expressive and deeply personal. This season, we've identified key trends that bring joy and energy to the home, whether that be through the escapism of period-style bedding and luxury décor, or the mood-boosting power of colour and pattern – and we've used these insights to build on existing collections, as well as create new and original ranges.</p><p>Our Design and Product Development teams have created a truly varied collection of quality homewares, filled with refined, innovative style that we are incredibly proud to share. Balancing comfort, functionality and individuality, this curation of inspired design offers our customers a way to celebrate their personality while making their space a true sanctuary.</p>"
           }
         },
         "button_fyLCUb": {
@@ -175,7 +176,7 @@
         "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 48,
-        "padding_bottom": 48
+        "padding_bottom": 60
       }
     },
     "rich_text_9rQrYT": {
@@ -624,14 +625,14 @@
         "heading_eErCYg": {
           "type": "heading",
           "settings": {
-            "heading": "Naïve Expression",
+            "heading": "Naïve Expressionism",
             "heading_size": "h1"
           }
         },
         "text_LbxqTg": {
           "type": "text",
           "settings": {
-            "text": "<p>This undying trend celebrates the beauty of imperfection through expressive illustration and organic brushwork. Hand-painted motifs, textural linework and artful mark making come together in a relaxed, creative collection full of character and individuality.</p>",
+            "text": "<p>This growing trend celebrates the beauty of imperfection through expressive illustration and organic brushwork. Hand-painted motifs, textural linework and artful mark making come together in a relaxed, creative collection full of character and individuality.</p>",
             "text_style": "body"
           }
         },
@@ -746,25 +747,24 @@
         "heading_D6eWdy": {
           "type": "heading",
           "settings": {
-            "heading": "UW Home Accessories Collection",
+            "heading": "The UW Home 2026 Collections",
             "heading_size": "h1"
           }
         },
         "text_hHhg9r": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover our full range of home accessories for Spring/Summer 2026, all in one place.</p>"
+            "text": "<p>Discover our full range of homeware for Spring/Summer 2026, all in one place, as you prefer.</p>"
           }
         },
         "button_pj4iYn": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "View all 2026 brochures",
+            "button_label": "View all brochures",
             "button_link": "https://issuu.com/ulsterweavers/stacks/bc73965518824e739d2c84e33d7a84ec",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "Shop New In",
+            "button_link_2": "shopify://collections/spring-summer-2026",
             "button_style_secondary_2": false
           }
         }
@@ -791,7 +791,7 @@
         "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding mobile-padding\" style=\"position:relative;padding-top:max(40%,48px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:140rem;max-height:900px;margin:auto;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23E5E5E5&amp;d=uw_home_accessories_ss26_catalogue&amp;hideIssuuLogo=true&amp;themeMainColor=%231a1a1a&amp;themeSecondaryColor=%23FFF&amp;u=ulsterweavers\"></iframe></div>\n</section>\n<!-- Mobile padding styles -->\n<style>\n  @media only screen and (max-width: 749px) {\n    .mobile-padding {\n      padding-left:1rem !important;\n      padding-right:1rem !important; \n    }\n  }\n</style>",
         "color_scheme": "scheme-1",
         "padding_top": 24,
-        "padding_bottom": 36
+        "padding_bottom": 12
       }
     },
     "rich_text_Dp39Q3": {
@@ -828,11 +828,12 @@
         "text_CLJNHc",
         "button_hndPP7"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 48,
         "padding_bottom": 0
@@ -840,12 +841,13 @@
     },
     "custom_liquid_Jkt6D7": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding mobile-padding\" style=\"position:relative;padding-top:max(40%,48px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:140rem;max-height:900px;margin:auto;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23ffffff&backgroundColorFullscreen=%231F2844&d=2026_ulster_weavers_catalogue&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&themeMainColor=%231a1a1a&themeSecondaryColor=%23e5e5e5&u=ulsterweavers\"></iframe></div>\n</section>\n<!-- Mobile padding styles -->\n<style>\n  @media only screen and (max-width: 749px) {\n    .mobile-padding {\n      padding-left:1rem !important;\n      padding-right:1rem !important; \n    }\n  }\n</style>",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "padding_top": 24,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "featured_collection_Am4TPG": {
@@ -853,15 +855,15 @@
       "settings": {
         "collection": "spring-summer-2026",
         "products_to_show": 24,
-        "title": "Spring / Summer 2026",
+        "title": "",
         "heading_size": "h1",
         "description": "",
-        "show_description": true,
+        "show_description": false,
         "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "color_scheme": "scheme-1",
         "image_ratio": "adapt",
@@ -872,7 +874,7 @@
         "quick_add": "bulk",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 48,
+        "padding_top": 24,
         "padding_bottom": 48
       }
     },
@@ -928,6 +930,24 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "featured_blog_XNchfa": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "blog": "news",
+        "post_limit": 3,
+        "heading": "Further Reading",
+        "heading_size": "h1",
+        "columns_desktop": 3,
+        "show_view_all": false,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -954,6 +974,7 @@
     "rich_text_Dp39Q3",
     "custom_liquid_Jkt6D7",
     "featured_collection_Am4TPG",
-    "multirow_ArNNdm"
+    "multirow_ArNNdm",
+    "featured_blog_XNchfa"
   ]
 }
