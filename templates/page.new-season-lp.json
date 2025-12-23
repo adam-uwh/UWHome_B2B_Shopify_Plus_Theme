@@ -296,7 +296,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
@@ -375,7 +375,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
@@ -454,7 +454,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
@@ -533,7 +533,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
@@ -612,7 +612,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
@@ -691,7 +691,7 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
@@ -746,18 +746,19 @@
         "heading_D6eWdy": {
           "type": "heading",
           "settings": {
-            "heading": "The Complete Ulster Weavers Range",
+            "heading": "UW Home Accessories Collection",
             "heading_size": "h1"
           }
         },
         "text_hHhg9r": {
           "type": "text",
           "settings": {
-            "text": "<p>Get the full overview of our beautiful 2026 Ulster Weavers collections from our latest brochure.</p>"
+            "text": "<p>Discover our full range of home accessories for Spring/Summer 2026, all in one place.</p>"
           }
         },
         "button_pj4iYn": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "View all 2026 brochures",
             "button_link": "https://issuu.com/ulsterweavers/stacks/bc73965518824e739d2c84e33d7a84ec",
@@ -777,7 +778,7 @@
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 48,
         "padding_bottom": 0
@@ -787,7 +788,61 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding mobile-padding\" style=\"position:relative;padding-top:max(40%,48px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:140rem;max-height:840px;margin:auto;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23ffffff&backgroundColorFullscreen=%231F2844&d=2026_ulster_weavers_catalogue&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&themeMainColor=%231a1a1a&themeSecondaryColor=%23e5e5e5&u=ulsterweavers\"></iframe></div>\n</section>\n<!-- Mobile padding styles -->\n<style>\n  @media only screen and (max-width: 749px) {\n    .mobile-padding {\n      padding-left:1rem !important;\n      padding-right:1rem !important; \n    }\n  }\n</style>",
+        "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding mobile-padding\" style=\"position:relative;padding-top:max(40%,48px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:140rem;max-height:900px;margin:auto;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23E5E5E5&amp;d=uw_home_accessories_ss26_catalogue&amp;hideIssuuLogo=true&amp;themeMainColor=%231a1a1a&amp;themeSecondaryColor=%23FFF&amp;u=ulsterweavers\"></iframe></div>\n</section>\n<!-- Mobile padding styles -->\n<style>\n  @media only screen and (max-width: 749px) {\n    .mobile-padding {\n      padding-left:1rem !important;\n      padding-right:1rem !important; \n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Dp39Q3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6Yzrci": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Complete Ulster Weavers Range",
+            "heading_size": "h1"
+          }
+        },
+        "text_CLJNHc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get the full overview of our beautiful 2026 Ulster Weavers collections from our latest brochure.</p>"
+          }
+        },
+        "button_hndPP7": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "View all 2026 brochures",
+            "button_link": "https://issuu.com/ulsterweavers/stacks/bc73965518824e739d2c84e33d7a84ec",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Yzrci",
+        "text_CLJNHc",
+        "button_hndPP7"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_Jkt6D7": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding mobile-padding\" style=\"position:relative;padding-top:max(40%,48px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:140rem;max-height:900px;margin:auto;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23ffffff&backgroundColorFullscreen=%231F2844&d=2026_ulster_weavers_catalogue&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&themeMainColor=%231a1a1a&themeSecondaryColor=%23e5e5e5&u=ulsterweavers\"></iframe></div>\n</section>\n<!-- Mobile padding styles -->\n<style>\n  @media only screen and (max-width: 749px) {\n    .mobile-padding {\n      padding-left:1rem !important;\n      padding-right:1rem !important; \n    }\n  }\n</style>",
         "color_scheme": "scheme-2",
         "padding_top": 24,
         "padding_bottom": 36
@@ -815,8 +870,8 @@
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 48,
         "padding_bottom": 48
       }
@@ -896,6 +951,8 @@
     "collage_gk3p6h",
     "rich_text_XGdRHp",
     "custom_liquid_Cy6bmD",
+    "rich_text_Dp39Q3",
+    "custom_liquid_Jkt6D7",
     "featured_collection_Am4TPG",
     "multirow_ArNNdm"
   ]
