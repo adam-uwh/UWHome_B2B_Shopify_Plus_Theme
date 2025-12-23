@@ -138,14 +138,14 @@
         "heading_Y6CbCm": {
           "type": "heading",
           "settings": {
-            "heading": "Discover Key Trends",
+            "heading": "A Season of Joyful Expression",
             "heading_size": "h1"
           }
         },
         "text_Ufc6dT": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Spring/Summer 2026 collection is all about creating spaces that feel uplifting, expressive and deeply personal. This season, we've identified trends that bring joy and energy to the home, whether that be through the escapism of period-style bedding and luxury décor, or the mood-boosting power of colour and pattern – and we've used these insights to build on existing collections, as well as creating new and original ranges.</p><p>Our Design and Product Development teams have created a truly varied collection of quality homewares, filled with refined, innovative style that we are incredibly proud to share. Balancing comfort, functionality and individuality, this curation of inspired design offers our customers a way to celebrate their personality while making their space a true sanctuary.</p>"
+            "text": "<p>Our Spring/Summer 2026 collection is all about creating spaces that feel uplifting, expressive and deeply personal. This season, we've identified key trends that bring joy and energy to the home, whether that be through the escapism of period-style bedding and luxury décor, or the mood-boosting power of colour and pattern – and we've used these insights to build on existing collections, as well as creating new and original ranges.</p><p>Our Design and Product Development teams have created a truly varied collection of quality homewares, filled with refined, innovative style that we are incredibly proud to share. Balancing comfort, functionality and individuality, this curation of inspired design offers our customers a way to celebrate their personality while making their space a true sanctuary.</p>"
           }
         },
         "button_fyLCUb": {
@@ -618,6 +618,85 @@
         "padding_bottom": 48
       }
     },
+    "image_with_text_e9fjqq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eErCYg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Naïve Expression",
+            "heading_size": "h1"
+          }
+        },
+        "text_LbxqTg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum</p>",
+            "text_style": "body"
+          }
+        },
+        "button_WxVYw3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Trend",
+            "button_link": "shopify://collections/elemental-rustic",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eErCYg",
+        "text_LbxqTg",
+        "button_WxVYw3"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Pasta_Lovers_Club.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_zDq8M6": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "pasta-lovers-club",
+        "products_to_show": 12,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
     "collage_gk3p6h": {
       "type": "collage",
       "blocks": {
@@ -724,9 +803,9 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "enable_desktop_slider": false,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-1",
@@ -812,6 +891,8 @@
     "featured_collection_HdRq79",
     "image_with_text_7QU3HY",
     "featured_collection_MMgWga",
+    "image_with_text_e9fjqq",
+    "featured_collection_zDq8M6",
     "collage_gk3p6h",
     "rich_text_XGdRHp",
     "custom_liquid_Cy6bmD",
