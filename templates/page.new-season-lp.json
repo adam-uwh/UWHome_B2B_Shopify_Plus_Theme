@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
         "p {font-family: Avenir, Raleway, sans serif !important; text-wrap: pretty;}",
         ".main-page-title {margin-top: 3rem; margin-bottom: 3rem; font-size: 4.5rem; text-wrap: balance;}",
@@ -21,9 +22,800 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_banner_EJC4ew": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AKGfWA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to Spring/Summer 2026",
+            "heading_size": "h0"
+          }
+        },
+        "text_aQmrew": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Learn what we can offer your business as a global leader in textiles.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_TUcn8h": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AKGfWA",
+        "text_aQmrew",
+        "buttons_TUcn8h"
+      ],
+      "custom_css": [
+        "h2 {color: white;}",
+        "h2 screen and (max-width: 749px) {color: #1a1a1a;}",
+        "p {color: white;}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/SLU-CUSRO-YW_sn4.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-2",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "blocks_Wn6Ji3": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_541c626_6jUMaQ": {
+          "type": "ai_gen_block_541c626",
+          "settings": {
+            "color_scheme": "scheme-5",
+            "container_width": "full",
+            "alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "menu_padding": 12,
+            "border_radius": 0,
+            "show_border": false,
+            "show_shadow": false,
+            "font_size": 14,
+            "link_padding_vertical": 4,
+            "link_padding_horizontal": 12,
+            "link_border_radius": 0,
+            "item_spacing": 12,
+            "hover_style": "underline",
+            "show_active_state": false,
+            "active_style": "underline",
+            "smooth_scroll": false,
+            "scroll_offset": 0,
+            "mobile_layout": "horizontal",
+            "mobile_alignment": "center",
+            "link_text_1": "Key Trends",
+            "link_url_1": "/pages/about-us#shopify-section-template--26551649599832__rich_text_MUzxed",
+            "link_text_2": "Brochures",
+            "link_url_2": "/pages/about-us#shopify-section-template--26551649599832__responive_image_BMGLpU",
+            "link_text_3": "All SS26",
+            "link_url_3": "",
+            "link_text_4": "",
+            "link_url_4": "",
+            "link_text_5": "",
+            "link_url_5": "",
+            "link_text_6": "",
+            "link_url_6": "",
+            "link_text_7": "",
+            "link_url_7": "",
+            "link_text_8": "",
+            "link_url_8": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_541c626_6jUMaQ"
+      ],
+      "name": "Navigation menu",
+      "settings": {}
+    },
+    "rich_text_7fUhmM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y6CbCm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Key Trends",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ufc6dT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Spring/Summer 2026 collection is all about creating spaces that feel uplifting, expressive and deeply personal. This season, we've identified trends that bring joy and energy to the home, whether that be through the escapism of period-style bedding and luxury décor, or the mood-boosting power of colour and pattern – and we've used these insights to build on existing collections, as well as creating new and original ranges.</p><p>Our Design and Product Development teams have created a truly varied collection of quality homewares, filled with refined, innovative style that we are incredibly proud to share. Balancing comfort, functionality and individuality, this curation of inspired design offers our customers a way to celebrate their personality while making their space a true sanctuary.</p>"
+          }
+        },
+        "button_fyLCUb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read the full article",
+            "button_link": "shopify://blogs/news/introducing-ss26",
+            "button_style_secondary": false,
+            "button_label_2": "Shop the collection",
+            "button_link_2": "shopify://collections/spring-summer-2026",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y6CbCm",
+        "text_Ufc6dT",
+        "button_fyLCUb"
+      ],
+      "custom_css": [
+        "p {text-wrap: pretty;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "rich_text_9rQrYT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kkQXfG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Key Trends",
+            "heading_size": "h1"
+          }
+        },
+        "text_GCUDfN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get a taste of each of our brands before exploring the collections – we can help guide your buying decisions by giving insights to the kinds of products each brand does best, and how they resonate with customers.</p>"
+          }
+        },
+        "button_rC6LGM": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kkQXfG",
+        "text_GCUDfN",
+        "button_rC6LGM"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_MP7Cz6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_G4Xi7d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elemental Treasures",
+            "heading_size": "h1"
+          }
+        },
+        "text_aG9nqU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This major trend brings together nature-inspired textures and artisan details, shaped by land and sea. Amorphic forms, soft metallic accents, and calming fabrics effortlessly create a layered, restorative look in warm, rustic tones for the home.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YmwNcQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Trend",
+            "button_link": "shopify://collections/elemental-rustic",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_G4Xi7d",
+        "text_aG9nqU",
+        "button_YmwNcQ"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/GKK-DCSET-NL_sn4.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_6A76RM": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "elemental-rustic",
+        "products_to_show": 12,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "image_with_text_hiUp6m": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MNGKew": {
+          "type": "heading",
+          "settings": {
+            "heading": "Artful Arborology",
+            "heading_size": "h1"
+          }
+        },
+        "text_iKMMAR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spruce up the home with our latest nature-inspired collection, Artful Arborology. Think luscious sycamores and graceful willows, beautifully rendered as scenic toiles, and refreshed with contemporary palettes and modern mark making.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_7PzbGK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Trend",
+            "button_link": "shopify://collections/elemental-rustic",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MNGKew",
+        "text_iKMMAR",
+        "button_7PzbGK"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/WWZ-DCSET-BE_sn1.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_jmYTht": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "arborology",
+        "products_to_show": 12,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "image_with_text_8VLqCV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4rXgyh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Joyful Exuberance",
+            "heading_size": "h1"
+          }
+        },
+        "text_D8dbqX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This SS26 collection is a bold, playful celebration of pattern and colour. Oversized geos, quirky prints, and retro palettes come together with whimsical details and pops of colour, creating an eclectic, mix-and-match collection made for maximalist spaces.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cB7ewJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Trend",
+            "button_link": "shopify://collections/joyful-exuberance",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4rXgyh",
+        "text_D8dbqX",
+        "button_cB7ewJ"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/SGQ-DCSET-NL_sn4.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_TNA9bc": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "joyful-exuberance",
+        "products_to_show": 12,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "image_with_text_qYzjF4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iH78nm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quirky Cottage",
+            "heading_size": "h1"
+          }
+        },
+        "text_FpaBzj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cottagecore lives on, now with a modern twist. These soft colours, block print motifs and heritage-style details are designed to bring nostalgic comfort, while combining layered patterns, gentle textures and retro accents adds an extra touch of warmth and character.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_yRVGzD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Trend",
+            "button_link": "shopify://collections/elemental-rustic",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iH78nm",
+        "text_FpaBzj",
+        "button_yRVGzD"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/FB4-DCSET-MI_sn5.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_HdRq79": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "quirky-cottage",
+        "products_to_show": 12,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "image_with_text_7QU3HY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3x8yUK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mono Glam",
+            "heading_size": "h1"
+          }
+        },
+        "text_6zmGtT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Mono Glam trend is a masterclass in bold sophistication. Make a statement with repeating stripes and geometrics in the ultimate contrasting palette. Unwind in luxurious cotton sateen and sumptuous velvets, and add metallic accents to top off the look.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_9nKrhG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Trend",
+            "button_link": "shopify://collections/mono-glam",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3x8yUK",
+        "text_6zmGtT",
+        "button_9nKrhG"
+      ],
+      "custom_css": [
+        ".image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__media {border-top-left-radius: 0 !important; border-top-right-radius: 0 !important; border-bottom-left-radius: 0 !important; border-bottom-right-radius: 0 !important;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/HE2-DCSET-BK_sn5_2a132d7c-f6f6-4d68-8cfb-f395cc7c23ad.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_MMgWga": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "mono-glam",
+        "products_to_show": 12,
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "collage_gk3p6h": {
+      "type": "collage",
+      "blocks": {
+        "product_UAgGgp": {
+          "type": "product",
+          "settings": {
+            "product": "soleil-duvet-cover-set-in-multi",
+            "second_image": false
+          }
+        },
+        "product_WX7ei4": {
+          "type": "product",
+          "settings": {
+            "product": "soleil-round-cushion-in-yellow",
+            "second_image": true
+          }
+        },
+        "product_Yjb9VR": {
+          "type": "product",
+          "settings": {
+            "product": "soleil-throw-in-coral-camel-120-x-150cm",
+            "second_image": true
+          }
+        }
+      },
+      "block_order": [
+        "product_UAgGgp",
+        "product_WX7ei4",
+        "product_Yjb9VR"
+      ],
+      "disabled": true,
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "Summer Soleil",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-3036bf59-2a72-4b3e-a0a1-e15d574302f4",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_XGdRHp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_D6eWdy": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Complete Ulster Weavers Range",
+            "heading_size": "h1"
+          }
+        },
+        "text_hHhg9r": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get the full overview of our beautiful 2026 Ulster Weavers collections from our latest brochure.</p>"
+          }
+        },
+        "button_pj4iYn": {
+          "type": "button",
+          "settings": {
+            "button_label": "View all 2026 brochures",
+            "button_link": "https://issuu.com/ulsterweavers/stacks/bc73965518824e739d2c84e33d7a84ec",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_D6eWdy",
+        "text_hHhg9r",
+        "button_pj4iYn"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_Cy6bmD": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"shopify-section section\">\n<div class=\"collection-list-wrapper page-width isolate no-mobile-link section-template--26551649435992__collection_list_eK8pNd-padding mobile-padding\" style=\"position:relative;padding-top:max(40%,48px);height:0;width:100%\"><iframe allow=\"clipboard-write\" sandbox=\"allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox allow-forms\" allowfullscreen=\"true\" style=\"position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;max-width:140rem;max-height:840px;margin:auto;\" src=\"https://e.issuu.com/embed.html?backgroundColor=%23ffffff&backgroundColorFullscreen=%231F2844&d=2026_ulster_weavers_catalogue&hideIssuuLogo=true&showOtherPublicationsAsSuggestions=true&themeMainColor=%231a1a1a&themeSecondaryColor=%23e5e5e5&u=ulsterweavers\"></iframe></div>\n</section>\n<!-- Mobile padding styles -->\n<style>\n  @media only screen and (max-width: 749px) {\n    .mobile-padding {\n      padding-left:1rem !important;\n      padding-right:1rem !important; \n    }\n  }\n</style>",
+        "color_scheme": "scheme-2",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_Am4TPG": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "spring-summer-2026",
+        "products_to_show": 24,
+        "title": "Spring / Summer 2026",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": false,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "multirow_ArNNdm": {
+      "type": "multirow",
+      "blocks": {
+        "row_zknr4V": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/OT1-DCSET-NL_sn1.jpg",
+            "caption": "",
+            "heading": "Welcome Offers",
+            "text": "<p>To celebrate the launch of our new website, we have taken an <strong>extra 20% off</strong> some of the top bedding, curtains and accessories in our Outlet.</p>",
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/promotion"
+          }
+        },
+        "row_7eVEa9": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Time_to_Grow.jpg",
+            "caption": "",
+            "heading": "Our Products",
+            "text": "<p>Get the full overview on our brilliant product portfolio, from meticulously crafted kitchen textiles and ceramics, to bedding, curtains and outdoor accessories.</p>",
+            "button_label": "Find out more",
+            "button_link": "shopify://pages/products"
+          }
+        }
+      },
+      "block_order": [
+        "row_zknr4V",
+        "row_7eVEa9"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".multirow__inner {row-gap: 4.5rem;}",
+        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 4rem 0rem 0.5rem; }}"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "large",
+        "image_layout": "alternate-left",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_EJC4ew",
+    "blocks_Wn6Ji3",
+    "rich_text_7fUhmM",
+    "rich_text_9rQrYT",
+    "image_with_text_MP7Cz6",
+    "featured_collection_6A76RM",
+    "image_with_text_hiUp6m",
+    "featured_collection_jmYTht",
+    "image_with_text_8VLqCV",
+    "featured_collection_TNA9bc",
+    "image_with_text_qYzjF4",
+    "featured_collection_HdRq79",
+    "image_with_text_7QU3HY",
+    "featured_collection_MMgWga",
+    "collage_gk3p6h",
+    "rich_text_XGdRHp",
+    "custom_liquid_Cy6bmD",
+    "featured_collection_Am4TPG",
+    "multirow_ArNNdm"
   ]
 }
