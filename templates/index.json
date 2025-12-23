@@ -29,8 +29,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Browse New Bedding",
-            "button_link_1": "shopify://collections/spring-summer-2026",
+            "button_label_1": "Explore Spring/Summer 2026",
+            "button_link_1": "shopify://pages/welcome-to-spring-summer-2026",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",

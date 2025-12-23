@@ -631,7 +631,7 @@
         "text_LbxqTg": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum</p>",
+            "text": "<p>This undying trend celebrates the beauty of imperfection through expressive illustration and organic brushwork. Hand-painted motifs, textural linework and artful mark making come together in a relaxed, creative collection full of character and individuality.</p>",
             "text_style": "body"
           }
         },
@@ -639,7 +639,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop the Trend",
-            "button_link": "shopify://collections/elemental-rustic",
+            "button_link": "shopify://collections/naive-expression",
             "button_style_secondary": false
           }
         }
@@ -672,7 +672,7 @@
     "featured_collection_zDq8M6": {
       "type": "featured-collection",
       "settings": {
-        "collection": "pasta-lovers-club",
+        "collection": "naive-expression",
         "products_to_show": 12,
         "title": "",
         "heading_size": "h2",
