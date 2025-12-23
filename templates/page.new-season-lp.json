@@ -1,0 +1,29 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "p {font-family: Avenir, Raleway, sans serif !important; text-wrap: pretty;}",
+        ".main-page-title {margin-top: 3rem; margin-bottom: 3rem; font-size: 4.5rem; text-wrap: balance;}",
+        ".page-width--narrow {margin-bottom: 3rem;}",
+        "li {font-family: Avenir, Raleway, sans serif !important; padding-bottom: 0.75rem; padding-left: 0.75rem; list-style-position: outside;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
