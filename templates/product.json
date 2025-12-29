@@ -131,6 +131,13 @@
     },
     "related-products": {
       "type": "related-products",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "heading": "Similar Products",
         "heading_size": "h2",

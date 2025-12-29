@@ -277,6 +277,13 @@
     },
     "featured_collection_6A76RM": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "elemental-rustic",
         "products_to_show": 12,
@@ -356,6 +363,13 @@
     },
     "featured_collection_jmYTht": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "arborology",
         "products_to_show": 12,
@@ -435,6 +449,13 @@
     },
     "featured_collection_TNA9bc": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "joyful-exuberance",
         "products_to_show": 12,
@@ -514,6 +535,13 @@
     },
     "featured_collection_HdRq79": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "quirky-cottage",
         "products_to_show": 12,
@@ -593,6 +621,13 @@
     },
     "featured_collection_MMgWga": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "mono-glam",
         "products_to_show": 12,
@@ -672,6 +707,13 @@
     },
     "featured_collection_zDq8M6": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "naive-expression",
         "products_to_show": 12,
@@ -852,6 +894,13 @@
     },
     "featured_collection_Am4TPG": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "spring-summer-2026",
         "products_to_show": 24,

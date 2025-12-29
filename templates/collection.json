@@ -25,12 +25,11 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".text-body {font-family: Avenir, Raleway, sans serif !important;}",
-        ".select__select {font-family: Avenir, Raleway, sans serif !important;}",
-        ".facet-filters {font-family: Avenir, Raleway, sans serif !important;}",
-        ".price-item {font-weight: 500;}",
-        ".price__sale {font-weight: 500;}",
-        ".button {border: 1px solid black;}"
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
       ],
       "settings": {
         "products_per_page": 24,
