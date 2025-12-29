@@ -9,10 +9,15 @@
  */
 {
   "sections": {
+    "quick-order-list": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    },
     "main": {
       "settings": {},
       "blocks": {
-        "variant_picker_BAEiM": {
+        "variant_picker_jMEPz": {
           "type": "variant_picker",
           "disabled": false,
           "settings": {
@@ -20,40 +25,36 @@
             "swatch_shape": "circle"
           }
         },
-        "price": {
-          "disabled": false,
-          "settings": {}
-        },
-        "quantity_selector_eqJJf": {
+        "quantity_selector_xUbTb": {
           "type": "quantity_selector",
           "disabled": false,
           "settings": {}
         },
-        "buy_buttons_XDbq9i": {
-          "type": "buy_buttons",
-          "disabled": false,
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "text_jrfdU": {
+        "text_iRCJF": {
           "type": "text",
           "disabled": false,
           "settings": {
             "text": "Use the bulk selector below for products with multiple options – your items will be added to your cart automatically",
             "text_style": "uppercase"
           }
+        },
+        "buy_buttons_9ymdL": {
+          "type": "buy_buttons",
+          "disabled": false,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
         }
       },
       "block_order": [
         "sku_HVceNh",
         "title",
-        "variant_picker_BAEiM",
         "price",
-        "quantity_selector_eqJJf",
-        "text_jrfdU",
-        "buy_buttons_XDbq9i",
+        "variant_picker_jMEPz",
+        "quantity_selector_xUbTb",
+        "text_iRCJF",
+        "buy_buttons_9ymdL",
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
@@ -62,11 +63,6 @@
         "share",
         "popup_8LCkQW"
       ]
-    },
-    "quick-order-list": {
-      "disabled": false,
-      "settings": {},
-      "blocks": {}
     }
   },
   "context": {

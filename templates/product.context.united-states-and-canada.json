@@ -9,14 +9,15 @@
  */
 {
   "sections": {
+    "quick-order-list": {
+      "disabled": false,
+      "settings": {},
+      "blocks": {}
+    },
     "main": {
       "settings": {},
       "blocks": {
-        "price": {
-          "disabled": false,
-          "settings": {}
-        },
-        "variant_picker_P73Pf": {
+        "variant_picker_LGpCx": {
           "type": "variant_picker",
           "disabled": false,
           "settings": {
@@ -24,12 +25,12 @@
             "swatch_shape": "circle"
           }
         },
-        "quantity_selector_rCQje": {
+        "quantity_selector_TqVQ6": {
           "type": "quantity_selector",
           "disabled": false,
           "settings": {}
         },
-        "text_UqwDL": {
+        "text_rgLmP": {
           "type": "text",
           "disabled": false,
           "settings": {
@@ -37,7 +38,7 @@
             "text_style": "uppercase"
           }
         },
-        "buy_buttons_tPNkL": {
+        "buy_buttons_hWRtk": {
           "type": "buy_buttons",
           "disabled": false,
           "settings": {
@@ -50,10 +51,10 @@
         "sku_HVceNh",
         "title",
         "price",
-        "variant_picker_P73Pf",
-        "quantity_selector_rCQje",
-        "text_UqwDL",
-        "buy_buttons_tPNkL",
+        "variant_picker_LGpCx",
+        "quantity_selector_TqVQ6",
+        "text_rgLmP",
+        "buy_buttons_hWRtk",
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
@@ -62,11 +63,6 @@
         "share",
         "popup_8LCkQW"
       ]
-    },
-    "quick-order-list": {
-      "disabled": false,
-      "settings": {},
-      "blocks": {}
     }
   },
   "context": {

@@ -99,7 +99,8 @@
         "popup_8LCkQW"
       ],
       "custom_css": [
-        "h1 {font-size: 36px; margin-bottom: 1.5rem;}"
+        "h1 {font-size: 36px; margin-bottom: 1.5rem;}",
+        ".product__text.caption-with-letter-spacing {text-transform: none !important; letter-spacing: 0.06rem;}"
       ],
       "settings": {
         "enable_sticky_info": true,
