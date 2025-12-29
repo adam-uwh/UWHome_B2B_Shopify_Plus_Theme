@@ -15,8 +15,53 @@
         "price": {
           "disabled": false,
           "settings": {}
+        },
+        "variant_picker_GUDNi": {
+          "type": "variant_picker",
+          "disabled": false,
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_rPkMf": {
+          "type": "quantity_selector",
+          "disabled": false,
+          "settings": {}
+        },
+        "text_pATxB": {
+          "type": "text",
+          "disabled": false,
+          "settings": {
+            "text": "Use the bulk selector below for products with multiple options – your items will be added to your cart automatically",
+            "text_style": "uppercase"
+          }
+        },
+        "buy_buttons_kjVQE": {
+          "type": "buy_buttons",
+          "disabled": false,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
         }
-      }
+      },
+      "block_order": [
+        "sku_HVceNh",
+        "title",
+        "price",
+        "variant_picker_GUDNi",
+        "quantity_selector_rPkMf",
+        "text_pATxB",
+        "buy_buttons_kjVQE",
+        "description",
+        "collapsible-row-1",
+        "collapsible-row-0",
+        "collapsible-row-2",
+        "collapsible_tab_J67bin",
+        "share",
+        "popup_8LCkQW"
+      ]
     },
     "quick-order-list": {
       "disabled": false,

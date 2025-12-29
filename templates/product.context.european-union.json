@@ -20,12 +20,12 @@
             "swatch_shape": "circle"
           }
         },
-        "quantity_selector_eqJJf": {
-          "type": "quantity_selector",
+        "price": {
           "disabled": false,
           "settings": {}
         },
-        "price": {
+        "quantity_selector_eqJJf": {
+          "type": "quantity_selector",
           "disabled": false,
           "settings": {}
         },
@@ -36,6 +36,14 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
+        },
+        "text_jrfdU": {
+          "type": "text",
+          "disabled": false,
+          "settings": {
+            "text": "Use the bulk selector below for products with multiple options – your items will be added to your cart automatically",
+            "text_style": "uppercase"
+          }
         }
       },
       "block_order": [
@@ -44,6 +52,7 @@
         "variant_picker_BAEiM",
         "price",
         "quantity_selector_eqJJf",
+        "text_jrfdU",
         "buy_buttons_XDbq9i",
         "description",
         "collapsible-row-1",
