@@ -71,13 +71,6 @@
             "page": "delivery"
           }
         },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "popup_8LCkQW": {
           "type": "popup",
           "settings": {
@@ -95,7 +88,6 @@
         "collapsible-row-0",
         "collapsible-row-2",
         "collapsible_tab_J67bin",
-        "share",
         "popup_8LCkQW"
       ],
       "custom_css": [
