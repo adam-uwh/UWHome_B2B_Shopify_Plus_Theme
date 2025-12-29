@@ -21,7 +21,7 @@
           "type": "variant_picker",
           "disabled": false,
           "settings": {
-            "picker_type": "button",
+            "picker_type": "dropdown",
             "swatch_shape": "circle"
           }
         },
@@ -34,7 +34,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "We suggest using the bulk selector below for products with multiple options – your items will be added to your cart automatically",
+            "text": "We suggest using the bulk selector below for products with multiple options or sizes – your items will be added to your cart automatically",
             "text_style": "uppercase"
           }
         },
