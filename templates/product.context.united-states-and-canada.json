@@ -34,7 +34,7 @@
           "type": "text",
           "disabled": false,
           "settings": {
-            "text": "Use the bulk selector below for products with multiple options – your items will be added to your cart automatically",
+            "text": "We suggest using the bulk selector below for products with multiple options – your items will be added to your cart automatically",
             "text_style": "uppercase"
           }
         },
