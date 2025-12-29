@@ -16,33 +16,40 @@
     "featured_collection_hxea4t": {
       "type": "featured-collection",
       "disabled": false,
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper a.button,.card button,.card a.button,.product-card-wrapper button,.product-card-wrapper a.button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
       "settings": {
         "collection": "elemental-rustic",
         "products_to_show": 12,
-        "header-fc17ffca861bfa6d112ce04457c9b457": null,
+        "header-1aa148f5c8020303e2737abab9270a5b": null,
         "title": "Trending: Elemental Treasures",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "header-9907f2a5b9824dd03661825220a1f8c0": null,
+        "header-8c204c176f2526e612b948e091a873e6": null,
         "columns_desktop": 6,
         "enable_desktop_slider": true,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "color_scheme": "scheme-2",
-        "header-4fc70b422eb7b0cdfaca270751b92f1d": null,
+        "header-264e34adbd99accdb59d183bc506f69f": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "quick_add": "bulk",
-        "header-f02fd96811c632956314b01e1ca2e185": null,
+        "header-8bf286f92e1979c9ad87ff364ee500b9": null,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "header-9dabb9d80b424b75e2909d6141db77f2": null,
+        "header-9e84a1f0f404fa2f756a56dada3bab08": null,
         "padding_top": 48,
         "padding_bottom": 52
       },
@@ -84,7 +91,8 @@
     },
     "featured_collection1": {
       "settings": {
-        "title": "The latest from Ulster Weavers"
+        "title": "The latest from Ulster Weavers",
+        "quick_add": "bulk"
       },
       "blocks": {}
     }

@@ -12,5 +12,18 @@
   "context": {
     "market": "international"
   },
-  "sections": {}
+  "sections": {
+    "featured_collection_bB74HT": {
+      "settings": {
+        "quick_add": "bulk"
+      },
+      "blocks": {}
+    },
+    "featured_collection1": {
+      "settings": {
+        "quick_add": "bulk"
+      },
+      "blocks": {}
+    }
+  }
 }
