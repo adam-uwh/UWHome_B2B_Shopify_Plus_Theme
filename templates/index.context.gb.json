@@ -63,8 +63,9 @@
     },
     "collection_list": {
       "settings": {
-        "title": "Shop our Home collections",
-        "padding_bottom": 56
+        "title": "",
+        "padding_bottom": 56,
+        "padding_top": 12
       },
       "blocks": {
         "featured_collection1": {
@@ -95,6 +96,69 @@
         "quick_add": "bulk"
       },
       "blocks": {}
+    },
+    "collection_list_B6jLHB": {
+      "type": "collection-list",
+      "disabled": false,
+      "custom_css": [
+        ".grid {row-gap: 12px;}"
+      ],
+      "settings": {
+        "title": "Shop our top collections",
+        "heading_size": "h2",
+        "header-0f922dc7b0e5a5f65b7be9cc1aed1a82": null,
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-5",
+        "show_view_all": false,
+        "header-dfcbe2a82523cc3696391c7d068d4f1a": null,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "header-a72775584a1c32dc5ae2c3e0f95f84c3": null,
+        "padding_top": 48,
+        "padding_bottom": 0
+      },
+      "blocks": {
+        "featured_collection_WUVBht": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "tea-towels"
+          }
+        },
+        "featured_collection_xwqCjT": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "aprons"
+          }
+        },
+        "featured_collection_McqJXN": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "oven-gloves"
+          }
+        },
+        "featured_collection_iYU8LT": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "tote-bags"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_WUVBht",
+        "featured_collection_xwqCjT",
+        "featured_collection_McqJXN",
+        "featured_collection_iYU8LT"
+      ]
+    },
+    "multicolumn": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
     }
   },
   "order": [
@@ -103,6 +167,7 @@
     "multicolumn1",
     "featured_collection_hxea4t",
     "multirow_TJTX6J",
+    "collection_list_B6jLHB",
     "collection_list",
     "featured_collection1",
     "featured_collection2",
