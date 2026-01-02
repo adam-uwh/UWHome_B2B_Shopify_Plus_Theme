@@ -152,11 +152,11 @@
         "button_fyLCUb": {
           "type": "button",
           "settings": {
-            "button_label": "Read the full article",
-            "button_link": "shopify://blogs/news/introducing-ss26",
+            "button_label": "Shop the collection",
+            "button_link": "shopify://collections/spring-summer-2026",
             "button_style_secondary": false,
-            "button_label_2": "Shop the collection",
-            "button_link_2": "shopify://collections/spring-summer-2026",
+            "button_label_2": "Read the full article",
+            "button_link_2": "shopify://blogs/news/introducing-ss26",
             "button_style_secondary_2": false
           }
         }
