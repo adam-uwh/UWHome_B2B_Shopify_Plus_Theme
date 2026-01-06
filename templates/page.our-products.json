@@ -359,7 +359,7 @@
           "settings": {
             "image": "shopify://shop_images/DFC-TABRN-GN_sn2.jpg",
             "title": "Table Runners",
-            "text": "<p>A new product range, our table runners add extra flair.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Digitally printed</li><li>Reversible design</li></ul>",
+            "text": "<p>A new product range, our table runners add extra flair.</p><ul><li>Made from 100% cotton</li><li>Generously sized</li><li>Screen printed</li></ul>",
             "link_label": "Shop the collection",
             "link": "/collections/dining?filters=%7B\"product_type\"%3A%5B\"Table+Runners\"%5D%7D"
           }
@@ -403,7 +403,7 @@
           "settings": {
             "image": "shopify://shop_images/PYA-BAGPK-MI_sn2.jpg",
             "title": "Foldable Bags",
-            "text": "<p>Our foldable bags are the ultimate go-to for convenience and style.</p><ul><li>Made from 100% polyester</li><li>Magnetic fastening clasp to secure in place when folded down</li><li><strong>[Digitally/other] printed</strong></li></ul>",
+            "text": "<p>Our foldable bags are the ultimate go-to for convenience and style.</p><ul><li>Made from 100% polyester</li><li>Magnetic fastening clasp to secure in place when folded down</li><li>Digitally printed</li></ul>",
             "link_label": "Shop the collection",
             "link": "/collections/tote-bags?filters=%7B\"product_type\"%3A%5B\"Roll-Up+Bag\"%5D%7D"
           }
