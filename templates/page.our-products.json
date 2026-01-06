@@ -349,7 +349,7 @@
           "settings": {
             "image": "shopify://shop_images/PL8-NAP4P-GN_sn1.jpg",
             "title": "Napkins",
-            "text": "<p>Add the finishing touch to the table with our napkins.</p><ul><li>Made from 100% cotton</li><li>Digitally printed or embellished</li><li>Sold in packs of two</li></ul>",
+            "text": "<p>Add the finishing touch to the table with our napkins.</p><ul><li>Made from 100% cotton</li><li>Screen printed or embellished</li></ul>",
             "link_label": "Shop the collection",
             "link": "shopify://collections/napkins"
           }
