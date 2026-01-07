@@ -331,7 +331,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop the Trend",
-            "button_link": "shopify://collections/elemental-rustic",
+            "button_link": "shopify://collections/arborology",
             "button_style_secondary": false
           }
         }
@@ -503,7 +503,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop the Trend",
-            "button_link": "shopify://collections/elemental-rustic",
+            "button_link": "shopify://collections/quirky-cottage",
             "button_style_secondary": false
           }
         }
