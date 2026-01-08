@@ -153,7 +153,7 @@
         "padding_bottom": 52
       }
     },
-    "featured_collection_bB74HT": {
+    "featured_collection1": {
       "type": "featured-collection",
       "custom_css": [
         ".price-item,.price__sale {font-weight: 500;}",
@@ -163,9 +163,9 @@
         "a.full-unstyled-link {text-decoration: none;}"
       ],
       "settings": {
-        "collection": "elemental-rustic",
+        "collection": "ulster-weavers",
         "products_to_show": 12,
-        "title": "Trending: Elemental Treasures",
+        "title": "New from Ulster Weavers",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -340,7 +340,43 @@
         "padding_bottom": 60
       }
     },
-    "featured_collection1": {
+    "featured_collection_bB74HT": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        ".price-item,.price__sale {font-weight: 500;}",
+        ".card-wrapper .button,.product-card-wrapper .button {border: 1px solid rgba(0, 0, 0, 0.5); border-radius: 6px; width: auto;}",
+        ".button:hover {border-color: #000;}",
+        ".card-wrapper button,.card-wrapper,.card button,.card,.product-card-wrapper button,.product-card-wrapper button {border-radius: 6px !important; overflow: hidden !important;}",
+        "a.full-unstyled-link {text-decoration: none;}"
+      ],
+      "settings": {
+        "collection": "elemental-rustic",
+        "products_to_show": 12,
+        "title": "Trending: Elemental Treasures",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 6,
+        "enable_desktop_slider": true,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_dhkhYG": {
       "type": "featured-collection",
       "custom_css": [
         ".price-item,.price__sale {font-weight: 500;}",
@@ -350,9 +386,9 @@
         "a.full-unstyled-link {text-decoration: none;}"
       ],
       "settings": {
-        "collection": "ulster-weavers",
+        "collection": "quirky-cottage",
         "products_to_show": 12,
-        "title": "New from Ulster Weavers",
+        "title": "Trending: Quirky Cottage",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -616,11 +652,12 @@
     "image_banner",
     "rich_text",
     "multicolumn1",
-    "featured_collection_bB74HT",
+    "featured_collection1",
     "multirow_TJTX6J",
     "collection_list",
     "collection_list_D3ANUP",
-    "featured_collection1",
+    "featured_collection_bB74HT",
+    "featured_collection_dhkhYG",
     "featured_collection2",
     "multicolumn2",
     "multicolumn"
