@@ -478,7 +478,7 @@
         "buttons_7rxYJi"
       ],
       "custom_css": [
-        ".banner__box {max-width: 705px;}"
+        ".banner__box {max-width: 705px; text-wrap: pretty;}"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
@@ -783,7 +783,7 @@
         "buttons_JRtDNi"
       ],
       "custom_css": [
-        ".banner__box {max-width: 705px;}"
+        ".banner__box {max-width: 705px; text-wrap: pretty;}"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
